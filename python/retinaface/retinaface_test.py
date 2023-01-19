@@ -1,7 +1,7 @@
 from retinaface import RetinaFace
 import cv2
 
-img_path = "..\\resources\\002.jpg"
+img_path = "resources\\002.jpg"
 
 faces = RetinaFace.detect_faces(img_path)   
 
