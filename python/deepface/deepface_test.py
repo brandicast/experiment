@@ -17,7 +17,7 @@ backends = [
   'mediapipe'
 ]
 #face detection and alignment
-face = DeepFace.detectFace(img_path = "..\\resources\\002.jpg", 
+face = DeepFace.detectFace(img_path = "resources\\002.jpg", 
         target_size = (224, 224), 
         detector_backend = backends[1], 
         enforce_detection = True,

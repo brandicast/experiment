@@ -3,7 +3,7 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 
-img_path = "resources\\004.jpg"
+img_path = "resources\\003.jpg"
 
 # face working model found :  0 , 1
 #  0 and 1 found only 1 face
