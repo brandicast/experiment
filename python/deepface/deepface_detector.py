@@ -1,9 +1,14 @@
 from deepface.detectors import FaceDetector
 import cv2
-import matplotlib.pyplot as plt
 import numpy as np
 
-img_path = "resources\\003.jpg"
+'''
+   1) The library deepface for ANACONDA is ONLY available on OS-X and Linux.   On Windows, use pip...however, that also create some library issues.
+   2) It seems that support only python version < 3.10   (because of other numpy version compatibility issues)
+
+'''
+
+img_path = "resources\\005.jpg"
 
 # face working model found :  0 , 1
 #  0 and 1 found only 1 face
@@ -19,13 +24,13 @@ backends = [
   'mediapipe'
 ]
 
-backend_index = 4
+backend_index = 0
 
 img = cv2.imread(img_path)
 
 detector = FaceDetector.build_model(backends[backend_index]) #set opencv, ssd, dlib, mtcnn or retinaface
 
-faces = FaceDetector.detect_faces(detector, backends[backend_index], img, False)  
+faces = FaceDetector.detect_faces(detector, backends[backend_index], img, False)    # the parameter face_align: to align the FOUND face or not  
         # this guy returns detected objects as list 
         #  inside each list  -> tuple  
         #                           ->  first element of the tuple is numpy.ndarray which represents the object images
