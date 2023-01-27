@@ -17,6 +17,7 @@ print_usage () {
 
 # Handle input arguments 
 #       try to wrap in a function but didn't work, maybe later  (need to pass $@ into function or some sort)
+#       use function_name  param1 param2  when invoke function, and use $1  $2 ...to access     -->  doesn't take any advantage here because bash has some system variable for input arguments
     
 if [[ $# -le 1 ]] ; then
     print_usage 
