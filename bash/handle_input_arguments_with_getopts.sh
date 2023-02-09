@@ -44,7 +44,7 @@ while  getopts "rvi:o: " OPT; do
             #shift      # shift change the value of $1, but doesn't change the value of $OPT
             ;;
         v)
-            echo "Process -r option"
+            echo "Process -v option"
             ;;            
         i)
             echo "Process -i option with parameter  " $OPTARG
