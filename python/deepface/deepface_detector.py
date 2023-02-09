@@ -8,12 +8,12 @@ import numpy as np
 
 '''
 
-img_path = "resources\\005.jpg"
+img_path = "resources\\99.jpg"
 
-# face working model found :  0 , 1
-#  0 and 1 found only 1 face
+# face working model found :  0 , 1, 3, 4
+#  0 and 1 sometimes can find all the faces
 #  dlib requires cmake, but after install still compile fail
-#  mediapipe found - face
+#  mediapipe requires further installation
 
 backends = [
   'opencv', 
@@ -24,7 +24,7 @@ backends = [
   'mediapipe'
 ]
 
-backend_index = 0
+backend_index = 4
 
 img = cv2.imread(img_path)
 
@@ -41,25 +41,33 @@ faces = FaceDetector.detect_faces(detector, backends[backend_index], img, False)
 print("there are ",len(faces)," faces")
 
 if len(faces) > 0:
-    print (type(faces))
+  print (type(faces))
 
-    print(type(faces[0]))
-    print (len(faces[0]))
+  print(type(faces[0]))
+  print (len(faces[0]))
 
-    print (type(faces[0][0]))
-    print (len(faces[0][0]))
-    print (np.shape(faces[0][0]))
+  print (type(faces[0][0]))
+  print (len(faces[0][0]))
+  print (np.shape(faces[0][0]))
 
-    print (type(faces[0][1]))
-    print (len(faces[0][1]))
+  print (type(faces[0][1]))
+  print (len(faces[0][1]))
 
-    print (faces[0][1])
+  print (faces[0][1])
 
-    cv2.namedWindow("output", cv2.WINDOW_NORMAL)    
+  cv2.namedWindow("output", cv2.WINDOW_NORMAL)    
 
-    for item in faces :
-        cv2.imshow ("output", item[0])
-        cv2.waitKey(0)
+  tmp = img.copy() 
+  for item in faces :
+    #cv2.imshow ("output", item[0])
+    #cv2.waitKey(0)
+    cv2.rectangle(tmp, item[1], (255,0,255), 2)
+  
+  cv2.imshow ("output", tmp)
+  cv2.waitKey(0)
+
+
+ 
 
 
 
