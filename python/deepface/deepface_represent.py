@@ -21,7 +21,7 @@ def getNormalizedFaceImage (img, coordinates):
     face_img  = img[coordinates['y']:coordinates['y']+coordinates['h'],coordinates['x']:coordinates['x']+coordinates['w']]
 
     # Fit the face into the size of 256*256
-    scale = max(math.ceil(coordinates['h']/256), math.ceil(coordinates['w']/256))
+    scale = max(math.ceil(coordinates['h']/200), math.ceil(coordinates['w']/200))
     
     # resize function is dst (w * h)   
     # double slash to get the math.floor result
@@ -53,11 +53,14 @@ backend_index = 4
 
 base_img_path = "tmp/base.jpg"
 
+# version 0.75 of deepface returns vector only
+# version 0.78 returns objects.....
 bases = DeepFace.represent(base_img_path, detector_backend=backends[backend_index])    
-
-#print (bases[0]["embedding"])
-base_img = cv2.imread(base_img_path,cv2.IMREAD_COLOR)
+#print (bases)
 coordinates = bases[0]["facial_area"] 
+
+base_img = cv2.imread(base_img_path,cv2.IMREAD_COLOR)
+
 
 base_face_thumbnail = getNormalizedFaceImage (base_img,coordinates)
 # create an empty image for drawing
@@ -66,8 +69,8 @@ dummy_img = np.zeros((512, 512, 3), np.uint8)
 dummy_img[30:base_face_thumbnail.shape[0]  +30, 30:base_face_thumbnail.shape[1]+30] = base_face_thumbnail
 
 cv2.namedWindow("output", cv2.WINDOW_NORMAL)    
-cv2.imshow ("output", dummy_img)
-cv2.waitKey(0)
+#cv2.imshow ("output", dummy_img)
+#cv2.waitKey(0)
 
 
 for (base, twig, files) in os.walk (root_path,topdown=True,followlinks=True):
@@ -79,10 +82,11 @@ for (base, twig, files) in os.walk (root_path,topdown=True,followlinks=True):
                     full_filename = Path(base).joinpath(f)
                     print("Extracting faces from : "  + str(full_filename))
 
+                    # adding the parameter cv2.IMREAD_COLOR for opencv to read image in the right orientation based on EXIF
                     target_img = cv_util.cv2_loadimage (str(full_filename),cv2.IMREAD_COLOR)
 
-                    cv2.imshow ("output",target_img)
-                    cv2.waitKey(0)
+                    #cv2.imshow ("output",target_img)
+                    #cv2.waitKey(0)
                     
                     
                     #  returns  an array of face info.  Each face is also an dict  with 2 elements:  [0] is the vector of the face [1] is the coordinates of the face
@@ -101,6 +105,8 @@ for (base, twig, files) in os.walk (root_path,topdown=True,followlinks=True):
 
                             tmp = dummy_img.copy()
                             
+                            #tmp[30:30+to_be_compared_face.shape[0],
+                            #          base_face_thumbnail.shape[0]+60:base_face_thumbnail.shape[0]+60+to_be_compared_face.shape[1]] = to_be_compared_face
                             tmp[30:30+to_be_compared_face.shape[0],
                                       base_face_thumbnail.shape[0]+60:base_face_thumbnail.shape[0]+60+to_be_compared_face.shape[1]] = to_be_compared_face
 
