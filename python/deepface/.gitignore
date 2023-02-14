@@ -1,2 +1,6 @@
 resources/
 faces_data/
+tmp/
+test.py
+resources_big/
+__pycache__
