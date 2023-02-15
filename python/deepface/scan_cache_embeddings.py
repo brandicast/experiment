@@ -7,21 +7,7 @@ import cv2
 
 import pickle
 
-backends = [
-  'opencv', 
-  'ssd', 
-  'dlib', 
-  'mtcnn', 
-  'retinaface', 
-  'mediapipe'
-]
 
-backend_index = 4
-
-SOURCE_DIRECTORY = 'D:\\CouldStation_Photo\\掃描檔\\1991'
-#SOURCE_DIRECTORY = 'resources_big'
-DB_FILE =  'D:\\scan_1991.' + backends[backend_index]
-#DB_FILE =  'D:\\persistent.' + backends[backend_index]
 
 isDirty = False
 
@@ -144,7 +130,25 @@ def scan_extract_cache(path, cache):
                         
     return persistent_db
 
-db = loadPersistentCache()
-db = scan_extract_cache (SOURCE_DIRECTORY, db)
-if isDirty:
-    savePersistentCache (db) 
+if __name__=='__main__':
+
+    backends = [
+    'opencv', 
+    'ssd', 
+    'dlib', 
+    'mtcnn', 
+    'retinaface', 
+    'mediapipe'
+    ]
+
+    backend_index = 4
+
+    SOURCE_DIRECTORY = 'D:\\CouldStation_Photo\\2022'
+    #SOURCE_DIRECTORY = 'resources_big'
+    DB_FILE =  'D:\\2022.' + backends[backend_index]
+    #DB_FILE =  'D:\\persistent.' + backends[backend_index]
+    
+    db = loadPersistentCache()
+    db = scan_extract_cache (SOURCE_DIRECTORY, db)
+    if isDirty:
+        savePersistentCache (db) 
