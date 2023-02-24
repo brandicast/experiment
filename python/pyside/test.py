@@ -8,10 +8,10 @@ from PySide6.QtUiTools import QUiLoader
 def collectTreeNodes(path, parent):
     with os.scandir(path) as entries:
         for entry in entries:
-            node = QTreeWidgetItem(parent)
-            node.setText(0, entry.name)
-            parent.addChild(node)
             if entry.is_dir():
+                node = QTreeWidgetItem(parent)
+                node.setText(0, entry.name)
+                parent.addChild(node)
                 collectTreeNodes(entry.path, node)
 
 
