@@ -62,3 +62,12 @@ QSplitter.setLayoutStretch (index, stretch)
 
 Stretch works only as value of 0 or 1
 
+<br />
+
+## 讓QSplitter裡面的元件可以維持minimum size，而不會背強迫隱藏 (answer provided by ChatGPT and it works)
+
+
+```
+QSplitter.setCollapsible
+```
+
