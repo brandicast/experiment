@@ -141,6 +141,7 @@ walk_dir () {
 		        output_filename=${pathname//$INPUT_DIR/$OUTPUT_DIR}  # change the basepath to output_dir
     		    output_filename=${output_filename//$extension/$NEW_FILE_EXTENSION}  # change the extension
                 
+                # use eval in the case when filename contains space
                 cmd='ffmpeg -i "${pathname}" -vcodec ${VCODEC} "${output_filename}"'
                 if [ $VERBOSE -ne 1 ];then
                     eval $cmd
