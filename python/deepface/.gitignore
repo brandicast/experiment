@@ -1,6 +1,8 @@
 resources/
 faces_data/
 tmp/
+tmp/*
 test.py
 resources_big/
 __pycache__
+.gitignore
