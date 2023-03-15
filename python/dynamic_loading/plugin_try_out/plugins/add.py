@@ -1,4 +1,4 @@
-from plugins.abstract import mathematic
+from lib.abstract import mathematic
 
 
 class increment (mathematic):
