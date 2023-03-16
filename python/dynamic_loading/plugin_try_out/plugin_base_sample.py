@@ -19,6 +19,13 @@ print(getattr(module, '__name__'))
 
 # print(inspect.getmembers(module))
 
+'''
+ This is to list all the classes belong to the module imported above.    
+ However, it list not only the class within the module, but also the super class which inherits from the other module.
+
+ So use __subclasses__ for the time being....
+
+'''
 classes = [cls_name for cls_name, cls_obj in inspect.getmembers(
     module) if inspect.isclass(cls_obj)]
 
