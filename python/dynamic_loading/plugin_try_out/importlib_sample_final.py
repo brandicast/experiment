@@ -9,6 +9,7 @@ import pkgutil
 import importlib
 
 from pathlib import Path
+from lib.abstract import mathematic
 
 '''
 def load_modules():
@@ -30,8 +31,19 @@ load_modules()
 
 '''
 
-iter = pkgutil.iter_modules(['plugins'])
+pkg = 'plugins'
 
+iter = pkgutil.iter_modules([pkg])
+
+plugins = []
+for item in iter:
+    plugin = importlib.import_module('{}.{}'.format(pkg, item.name))
+
+for module in mathematic.__subclasses__():
+    instance = module()
+    print(instance.apply(5))
+
+'''
 plugins = []
 for item in iter:
     print(item)
@@ -46,3 +58,4 @@ for item in iter:
         print(i)
         print(type(getattr(plugin, i)).__name__)
     print('---------------------------------')
+'''

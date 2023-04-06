@@ -1,5 +1,7 @@
 '''
 works but discouraged by PEP 302
+
+use importlib instead....refer to importlib_sample_final.py
 '''
 
 
