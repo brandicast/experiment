@@ -1,0 +1,40 @@
+
+import sys
+import os
+from PySide6.QtUiTools import QUiLoader
+from PySide6.QtCore import QFile, QSize
+from PySide6.QtWidgets import QListView, QListWidgetItem, QApplication
+from PySide6.QtGui import QIcon, QImageReader, QPixmap
+
+
+app = QApplication(sys.argv)
+
+ui_file = QFile('gui\\listwidget.ui')
+ui_file.open(QFile.ReadOnly)
+
+loader = QUiLoader()
+main_window = loader.load(ui_file)
+
+
+path = 'D:\\CouldStation_Photo\\2016\KC\\0422'
+
+
+main_window.listWidget.setViewMode(QListView.IconMode)
+main_window.listWidget.setIconSize(QSize(200, 200))
+main_window.listWidget.setResizeMode(QListView.Adjust)
+
+
+
+for item in os.scandir(path):
+    if item.is_file():
+        print(item.path)
+        reader = QImageReader(item.path)
+        reader.setAutoTransform(True)
+        image = reader.read()  # QImage
+        pixmap = QPixmap.fromImage(image)
+
+        main_window.listWidget.addItem(
+            QListWidgetItem(QIcon(pixmap), item.name))
+
+main_window.show()
+sys.exit(app.exec())
