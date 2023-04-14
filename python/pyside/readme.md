@@ -71,3 +71,12 @@ Stretch works only as value of 0 or 1
 QSplitter.setCollapsible
 ```
 
+## QThread
+
+Reference : https://doc.qt.io/qtforpython/PySide6/QtCore/QThread.html
+
+[To Do]
+
+1. 2 ways of writing QThread 
+2. Signal and Slot
+3. Multi-threading safe :  mutex and stuff
