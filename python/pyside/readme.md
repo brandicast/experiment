@@ -128,6 +128,9 @@ Reference : https://doc.qt.io/qtforpython/PySide6/QtCore/QThread.html
 
     # more parameters refer to https://doc.qt.io/qtforpython-5/PySide2/QtCore/Qt.html
 ```
+3. Resizing Image inside
+
+    https://stackoverflow.com/questions/8211982/qt-resizing-a-qlabel-containing-a-qpixmap-while-keeping-its-aspect-ratio
 
 <br />
 
@@ -138,5 +141,11 @@ Reference : https://doc.qt.io/qtforpython/PySide6/QtCore/QThread.html
     QMainWindow.showMaximized()
 ```
 
+## QSCrollArea
 
+1. setMinimumSize 
+    When the widget inside is bigger than this size, it "may" display scrollbar.  It may because of below proerty
+2. widgetResizable
+    This is one key property in order to display the scrollbar when the widget inside is "bigger" than scrollarea's minimum size
+3. 
 
