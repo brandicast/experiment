@@ -29,7 +29,7 @@ where image_array is reminded as type of cv2.Mat, as well as return the same cv2
 
 ## virtual function
 <br>
-There's no actual virtual function concept in python.  The alternative way is to create an abstract class by raise exception if the class is being called without override, such as:
+There's no actual virtual function concept in python.  The alternative way is to create an abstract class by raising exception if the class is being called without override, such as:
 
 <br>
 
