@@ -10,7 +10,7 @@ NEW_FILE_EXTENSION='mp4'
 ORIGINAL_FILE_EXTENSION='avi'
 
 supported_codec=('libx265' 'libx264')
-supported_source_media_format=('avi' 'mpg' 'mpeg' 'dv' 'mkv' 'flv' 'rm')
+supported_source_media_format=('avi' 'mpg' 'mpeg' 'dv' 'mkv' 'flv' 'rm' 'wmv')
 
 # Print usages
 print_usage () {
