@@ -1,6 +1,7 @@
 from pluginbase import PluginBase
 import inspect
 from lib.abstract import mathematic
+import pkgutil
 
 
 plugin_base = PluginBase(package='test.plugins')
@@ -8,14 +9,17 @@ plugin_base = PluginBase(package='test.plugins')
 
 plugin_source = plugin_base.make_plugin_source(searchpath=['./plugins'])
 
-module = plugin_source.load_plugin('add')
+iter = pkgutil.iter_modules(['plugins'])
+for item in iter:
+    module = plugin_source.load_plugin(item.name)
 
-instance = module.increment()
 
-print(instance.getName())
-print(instance.apply(5))
+#instance = module.increment()
 
-print(getattr(module, '__name__'))
+# print(instance.getName())
+# print(instance.apply(5))
+
+#print(getattr(module, '__name__'))
 
 # print(inspect.getmembers(module))
 
@@ -25,14 +29,17 @@ print(getattr(module, '__name__'))
 
  So use __subclasses__ for the time being....
 
-'''
+
 classes = [cls_name for cls_name, cls_obj in inspect.getmembers(
     module) if inspect.isclass(cls_obj)]
 
+
 print(classes)
+'''
 
+print(mathematic.__subclasses__())
 
-instance = mathematic.__subclasses__()[0]()
+instance = mathematic.__subclasses__()[1]()
 print(instance.apply(6))
 
 '''
