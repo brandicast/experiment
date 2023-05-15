@@ -143,9 +143,8 @@ Reference : https://doc.qt.io/qtforpython/PySide6/QtCore/QThread.html
 
 ## QSCrollArea
 
-1. setMinimumSize 
-    When the widget inside is bigger than this size, it "may" display scrollbar.  It may because of below proerty
-2. widgetResizable
-    This is one key property in order to display the scrollbar when the widget inside is "bigger" than scrollarea's minimum size
-3. 
+1. widgetResizable
+    This is one key property in order to display the scrollbar when the widget inside is "bigger" than scrollarea's minimum size.  Default should be False but "designer" default seems to be True.
+2. setMinimumSize 
+    Turns out this function is optional.  If it's not set, when parent widget resized to smaller than scrollarea, and widgetResiable/scrollBarPolicy is set, scrollbar would still display.
 
