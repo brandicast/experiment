@@ -5,7 +5,7 @@ from PySide6.QtUiTools import QUiLoader
 from PySide6.QtGui import QImageReader
 
 
-from scroll_label_components import ImageDisplayWidget
+from scroll_label_components import *
 
 app = QApplication(sys.argv)
 
@@ -15,7 +15,8 @@ ui_file.open(QFile.ReadOnly)
 loader = QUiLoader()
 main_window = loader.load(ui_file)
 
-label = ImageDisplayWidget()
+#label = ImageDisplayWidget()
+label = ImageDisplayWidget2()
 
 f = "D:\\CouldStation_Photo\\2009\\小娃\\0829 - 第二次玩大武崙\\DSC03540.JPG"
 reader = QImageReader(f)
@@ -28,13 +29,6 @@ scroll.setWidget (label)
 
 
 print ("scrollarea size :" +  str(scroll.size()) + " and minimum size :" + str(scroll.minimumSize()))
-
-# ScrollBarAsNeeded, ScrollBarAlwaysOn, ScrollBarAlwaysOff
-#scroll.setHorizontalScrollBarPolicy(Qt.ScrollBarPolicy.ScrollBarAlwaysOn)
-#scroll.resize(200,200)
-
-print ("scrollarea size :" +  str(scroll.size()) + " and minimum size :" + str(scroll.minimumSize()))
-
 
 main_window.show()
 sys.exit(app.exec())
