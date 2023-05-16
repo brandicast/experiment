@@ -144,7 +144,14 @@ Reference : https://doc.qt.io/qtforpython/PySide6/QtCore/QThread.html
 ## QSCrollArea
 
 1. widgetResizable
-    This is one key property in order to display the scrollbar when the widget inside is "bigger" than scrollarea's minimum size.  Default should be False but "designer" default seems to be True.
+    - This is one key property in order to display the scrollbar when the widget inside is "bigger" than scrollarea's minimum size.  Default should be False but "designer" default seems to be True.
+    - If this is set as True, that means the resize event propagate to the widget inside.  If False, the widget inside will not receive the resize event.
 2. setMinimumSize 
     Turns out this function is optional.  If it's not set, when parent widget resized to smaller than scrollarea, and widgetResiable/scrollBarPolicy is set, scrollbar would still display.
+3. Contained widget size
+    Size of the widget inside scrollarea is the factor that scrollarea decides whether to display the bar or not.
+    (Assuming an image label, by changing the image size doesn't change the size of the label.  Need to change the label size so that scrollbar would display)
 
+## QStyleItemDelegate (To be study)
+
+    https://doc.qt.io/qt-5/qtwidgets-itemviews-stardelegate-example.html
