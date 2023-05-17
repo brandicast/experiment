@@ -11,7 +11,17 @@ When try to inherit class from parent/child folder, it causes issue in python.  
 
 ***Since this is not the priority, tentatively move the abstract class into subfolder instead of isolate to somewhere else.***
 
-<br>
+<br><br>
+
+## multiple inheritance
+
+- https://www.learncodewithmike.com/2020/01/python-inheritance.html
+
+- https://medium.com/seaniap/oop-python-inheritance-%E9%97%9C%E6%96%BC%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E7%9A%84%E7%B9%BC%E6%89%BF-f93028056d9b
+
+
+<br />
+<br />
 
 ## parameter type definition
 

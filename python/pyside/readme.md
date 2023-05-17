@@ -83,6 +83,29 @@ Reference : https://doc.qt.io/qtforpython/PySide6/QtCore/QThread.html
 2. Signal and Slot
 3. Multi-threading safe :  mutex and stuff
 
+* note
+    - When enounter : QThread: Destroyed while thread is still running
+
+        Could because the main thread is finish while child thread is still running.  To solve this, make the thread global or keep track in global/class level.  
+        For example:  
+        ```
+            thread = MyQThread ()
+            thread.start()
+        ```
+        Above may cause the error.  Instead, change to the following:
+        ```
+            self.thread = MyQThread()
+            self.thread.start()
+        ```
+        or hold the reference in global level
+        ```
+            thread = MyQThread()
+            self.thread_pool.appen (thread)  # where self.thread_pool is a list in class level
+            thread.start()
+        ```
+
+
+
 <br />
 
 ## QTTreeWidget
