@@ -5,7 +5,7 @@ from PySide6.QtUiTools import QUiLoader
 from PySide6.QtGui import QImageReader
 
 
-from scroll_label_components import ImageDisplayWidget
+from scroll_label_components import *
 
 x = 0
 y = 0
@@ -69,8 +69,8 @@ main_window = loader.load(ui_file)
 #label = ImageDisplayWidget()
 label = ImageDisplayWidget2()
 
-#f = "D:\\CouldStation_Photo\\2009\\小娃\\0829 - 第二次玩大武崙\\DSC03540.JPG"
-f = "/home/brandon/圖片/IMG_8647.jpg"
+f = "D:\\CouldStation_Photo\\2009\\小娃\\0829 - 第二次玩大武崙\\DSC03540.JPG"
+#f = "/home/brandon/圖片/IMG_8647.jpg"
 
 reader = QImageReader(f)
 reader.setAutoTransform(True)

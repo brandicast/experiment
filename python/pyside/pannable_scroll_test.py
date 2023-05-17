@@ -13,8 +13,8 @@ def window():
 
     label = ImageDisplayWidget()
 
-    #f = "D:\\CouldStation_Photo\\2009\\小娃\\0829 - 第二次玩大武崙\\DSC03540.JPG"
-    f = "/home/brandon/圖片/IMG_8647.jpg"
+    f = "D:\\CouldStation_Photo\\2009\\小娃\\0829 - 第二次玩大武崙\\DSC03540.JPG"
+    #f = "/home/brandon/圖片/IMG_8647.jpg"
     reader = QImageReader(f)
     reader.setAutoTransform(True)
     image = reader.read()  # QImage
