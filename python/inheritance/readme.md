@@ -23,7 +23,18 @@ When try to inherit class from parent/child folder, it causes issue in python.  
 <br />
 <br />
 
-## parameter type definition
+## parameter type hint
+
+   ``` python
+   def function (var : <type here>) -> <return type here> :
+   ```
+<br>
+<br>
+
+## private variable/ (and maybe functions)
+
+variable name with __ as beginning seems enforced to be treated as private.  So parent class's self.__xxx  will not be inherit by child.
+
 
 <br>
 
