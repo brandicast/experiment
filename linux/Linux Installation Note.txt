@@ -1,0 +1,244 @@
+1. RHN SSL issue
+
+https://rhn.redhat.com/help/ssl_cert.pxt
+
+Certificate installation script
+As an alternative to manually downloading and installing the certificates above, you can also run the following shell script. Please note that although the method listed below is shown for convenience, it is preferred that users download the script and verify the md5sum's separately before executing. 
+
+This script must be run as root. To run the script directly from our servers:
+
+[root@localhost root]# wget -q -O - https://rhn.redhat.com/help/new-cert.sh | /bin/bash 
+
+The preferred method of running the script is to download it and verify the md5sum first:
+
+[user@localhosthost user]$ md5sum new-cert.sh
+8da6aef05771287bd43b5366241d75e0 new-cert.sh
+
+
+[user@localhost user]$ su
+Password: (enter root password)
+
+[root@localhost user]# /bin/bash new-cert.sh
+
+
+
+2. Latest Up2date
+
+https://rhn.redhat.com/errata/RHSA-2003-267.html#Red%20Hat%20Linux%207.3
+
+
+3. Java installation
+
+http://java.sun.com/j2se/1.5.0/install-linux.html
+
+[root@localhost user]# rpm -iv j2sdk-1_5_0_<version>-linux-i586.rpm
+
+[root@localhost user]# vim /etc/bashrc
+
+PATH=/usr/java/j2sdk-1_5_0_<version>:$PATH
+
+4. Install Tomcat
+
+tar zxf jakarta-tomcat-4.0.1.tar.gz 解?Tomcat到/usr/local
+
+修改Tomcat/bin/catatlina.sh ?:
+
+export JAVA_HOME=/usr/local/jdk
+export CLASSPATH=$JAVA_HOME/lib:$JAVA_HOME/jre/lib:.
+export PATH=$PATH:$JAVA_HOME/bin:$JAVA_HOME/jre/bin
+
+/usr/local/tomcat/bin/catalina.sh start
+
+
+
+
+
+5. Install Apache 2
+
+http://httpd.apache.org/docs-2.0/install.html
+
+Download $ lynx http://httpd.apache.org/download.cgi  
+Extract $ gzip -d httpd-2_0_NN.tar.gz
+$ tar xvf httpd-2_0_NN.tar  
+Configure $ ./configure --prefix=PREFIX  
+Compile $ make  
+Install $ make install  
+Customize $ vi PREFIX/conf/httpd.conf  
+Test $ PREFIX/bin/apachectl start  
+
+
+if to enable user's home being browse change the following :
+
+UserDir public_html
+
+#
+# Control access to UserDir directories.  The following is an example
+# for a site where these directories are restricted to read-only.
+#
+#<Directory /home/*/public_html>
+#    AllowOverride FileInfo AuthConfig Limit Indexes
+#    Options MultiViews Indexes SymLinksIfOwnerMatch IncludesNoExec
+#    <Limit GET POST OPTIONS PROPFIND>
+#        Order allow,deny
+#        Allow from all
+#    </Limit>
+#    <LimitExcept GET POST OPTIONS PROPFIND>
+#        Order deny,allow
+#        Deny from all
+#    </LimitExcept>
+#</Directory>
+
+# Brandon : if enable user's home being browse
+#<Directory /home/*/public_html>
+#       Options Indexes
+#</Directory>
+
+
+
+6. SAMBA 
+
+/etc/samba/smb.conf
+
+workgroup = myworkgroup
+
+if add new share
+
+[myshare]
+   comment = Brandon's Share
+   path = /home/hhwu
+   valid users = hhwu
+   public = no
+   writable = yes
+   printable = no
+   create mask = 0765
+
+and need to execute 
+
+	smbpassword -a username
+
+to add new user, and enter password.
+
+
+另外在Fedora上，如果一切都設好之後，但是從windows上看的到分享卻無法進入，則可試著改變SELinux的設定。
+
+
+
+7. WU-FTP
+
+use root
+
+open
+/etc/ftpaccess
+
+remove the 
+
+class 	all 	real,guest",anonymous" *
+
+to get rid of anonymous login
+
+
+
+
+8. Xterm 的Backspace設定
+
+
+######################################
+# STEP 1
+######################################
+
+# fix the backspace key in rxvt/xterm
+# 設定rxvt/xterm中的退後鍵
+
+CTRL_H="\010"
+NULL_STRING=" $CTRL_H" # space + backspace
+if [ "$NULL_STRING" != "" ] ; then
+  stty erase ^?
+else
+  stty erase ^H
+fi
+
+
+######################################
+# STEP 2
+######################################
+
+
+設定下列參數使 backspace 和 delete 兩鍵在xterm 和其他X11應用中運作正常： 
+
+在.xinitrc中添加： 
+usermodmap=$HOME/.Xmodmap
+xmodmap $usermodmap
+
+在.Xmodmap中添加： 
+keycode 22 = BackSpace
+keycode 107 = Delete
+
+以上就設定了主控台的參數。要修改xterm，則更改如下： 
+在.Xdefaults中增添： 
+xterm*VT100.Translations: #override <Key>BackSpace: string(0x7F)\n\
+        <Key>Delete:        string(0x1b) string("[3
+        <Key>Home:          string(0x1b) string("[1
+        <Key>End:           string(0x1b) string("[4
+        Ctrl<Key>Prior:     string(0x1b) string("[40
+        Ctrl<Key>Next:      string(0x1b) string("[41
+
+nxterm*VT100.Translations: #override <Key>BackSpace: string(0x7F)\n\
+        <Key>Delete:        string(0x1b) string("[3
+        <Key>Home:          string(0x1b) string("[1
+        <Key>End:           string(0x1b) string("[4
+        Ctrl<Key>Prior:     string(0x1b) string("[40
+        Ctrl<Key>Next:      string(0x1b) string("[41
+
+
+rxvt的問題比較複雜，因為在編輯時的一些設定會影響它的功能。參看上文 /etc/profile部分。
+
+在bash(1) 和 readline(3) 的 man 說明中有更多這方面的資料。
+
+不要以為這些設定在每種應用中都可正常運作。例如，在xterm中運行joe，有些鍵位就不起作用；運行rxvt也有相同的問題。
+
+
+
+
+9. xcin
+
+字型alias vim /usr/X11R6/lib/X11/fonts/misc/fonts.alias 
+
+
+
+10. mount
+
+mount --bind olddir newdir
+
+
+11. vncserver
+
+
+Fedora的話可以在遠端桌面上面設定，但只會是暫時的
+
+更改 /etc/sysconfig/vncservers 的設定，比方說 vncserver "0:root" 表示要在0這個tty上面開啟vnc，會以root登入
+
+用vncpasswd之類的先設定vnc的密碼
+
+另外，假設是以root，記得看看 /root/.vnc/xstartup 的設定，否則不會出現window manager
+
+
+
+12.
+Enable 1394  on Ubuntu
+sudo chmod 666 /dev/raw1394
+
+
+
+13. 
+mdadm
+
+check detail
+mdadm --detail /dev/md127
+
+add hdd back
+mdadm --manage /dev/md1 --re-add /dev/diskxx
+
+but I tried 
+mdadm --manage /dev/md1 --add /dev/diskxx
+
+
