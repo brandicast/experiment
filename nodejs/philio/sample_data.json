@@ -1,0 +1,48 @@
+
+[wall switch]  
+
+9999
+ 
+ [{"Dim_ON_Value":255,"Scene_schedule_time":0,"basicValue":255,"battery":255,"channelID":0,"dataUnit":5,"eventCode":9999,"funcName":"Wall Switch","funcType":22,"meter":{"current":0,"kwh":4093,"pf":2140,"voltage":0,"watt":0},"productCode":16843048,"sensorValue":0,"sequence":2023,"timeStamp":1580879850,"timeStamp_ms":619,"tx_status":{"ackchannelno":1,"bLastFailedLink_from":0,"bLastFailedLink_to":0,"lasttxchannelno":1,"repeater_0":8,"repeater_1":0,"repeater_2":0,"repeater_3":0,"repeater_rssi_0":202,"repeater_rssi_1":127,"repeater_rssi_2":127,"repeater_rssi_3":127,"repeater_rssi_4":127,"repeaters":1,"routeschemestate":3,"routespeed":2,"routetries":1},"uid":260}]
+
+5002 status update
+off
+[{"Dim_ON_Value":255,"Scene_schedule_time":0,"basicValue":0,"battery":255,"channelID":0,"dataUnit":5,"eventCode":5002,"funcName":"Wall Switch","funcType":22,"meter":{"current":0,"kwh":4093,"pf":2140,"voltage":0,"watt":0},"productCode":16843048,"sensorValue":0,"sequence":2031,"timeStamp":1580880079,"timeStamp_ms":155,"tx_status":{"ackchannelno":1,"bLastFailedLink_from":0,"bLastFailedLink_to":0,"lasttxchannelno":1,"repeater_0":8,"repeater_1":0,"repeater_2":0,"repeater_3":0,"repeater_rssi_0":202,"repeater_rssi_1":127,"repeater_rssi_2":127,"repeater_rssi_3":127,"repeater_rssi_4":127,"repeaters":1,"routeschemestate":3,"routespeed":2,"routetries":1},"uid":260}]
+on
+[{"Dim_ON_Value":255,"Scene_schedule_time":0,"basicValue":255,"battery":255,"channelID":0,"dataUnit":5,"eventCode":5002,"funcName":"Wall Switch","funcType":22,"meter":{"current":0,"kwh":4093,"pf":2140,"voltage":0,"watt":0},"productCode":16843048,"sensorValue":0,"sequence":2034,"timeStamp":1580880093,"timeStamp_ms":763,"tx_status":{"ackchannelno":1,"bLastFailedLink_from":0,"bLastFailedLink_to":0,"lasttxchannelno":1,"repeater_0":8,"repeater_1":0,"repeater_2":0,"repeater_3":0,"repeater_rssi_0":202,"repeater_rssi_1":127,"repeater_rssi_2":127,"repeater_rssi_3":127,"repeater_rssi_4":127,"repeaters":1,"routeschemestate":3,"routespeed":2,"routetries":1},"uid":260}]
+
+
+
+4804  Meter report
+ [{"Dim_ON_Value":255,"Scene_schedule_time":0,"basicValue":255,"battery":255,"channelID":0,"dataUnit":5,"eventCode":4804,"funcName":"Wall Switch","funcType":22,"meter":{"current":0,"kwh":4093,"pf":2140,"voltage":0,"watt":0},"productCode":16843048,"sensorValue":0,"sequence":2025,"timeStamp":1580879852,"timeStamp_ms":355,"tx_status":{"ackchannelno":1,"bLastFailedLink_from":0,"bLastFailedLink_to":0,"lasttxchannelno":1,"repeater_0":8,"repeater_1":0,"repeater_2":0,"repeater_3":0,"repeater_rssi_0":202,"repeater_rssi_1":127,"repeater_rssi_2":127,"repeater_rssi_3":127,"repeater_rssi_4":127,"repeaters":1,"routeschemestate":3,"routespeed":2,"routetries":1},"uid":260}]
+
+
+ [Temp]
+4801 temp report
+ [{"Dim_ON_Value":0,"Scene_schedule_time":0,"basicValue":0,"battery":50,"channelID":11,"dataUnit":2,"eventCode":4801,"funcName":"Temperature Sensor","funcType":11,"productCode":16843276,"sensorValue":650,"sequence":2511,"timeStamp":1580915581,"timeStamp_ms":392,"uid":268}]
+
+ [Lumin]
+ 4802 lumin report
+ [{"Dim_ON_Value":0,"Scene_schedule_time":0,"basicValue":0,"battery":50,"channelID":12,"dataUnit":3,"eventCode":4802,"funcName":"Illumination Sensor","funcType":12,"productCode":16843276,"sensorValue":2,"sequence":2510,"timeStamp":1580915581,"timeStamp_ms":374,"uid":268}]
+
+
+
+[Door/Window]
+4103 close
+[{"Dim_ON_Value":0,"Scene_schedule_time":0,"basicValue":0,"battery":50,"channelID":13,"dataUnit":0,"eventCode":4103,"funcName":"Door / Window Sensor","funcType":13,"productCode":16843276,"sensorValue":0,"sequence":2509,"timeStamp":1580915581,"timeStamp_ms":354,"uid":268}]
+4102  open
+[{"Dim_ON_Value":0,"Scene_schedule_time":0,"basicValue":255,"battery":50,"channelID":13,"dataUnit":0,"eventCode":4102,"funcName":"Door / Window Sensor","funcType":13,"productCode":16843276,"sensorValue":0,"sequence":2500,"timeStamp":1580915574,"timeStamp_ms":604,"uid":268}]
+
+
+
+[PIR]
+4101 PIR Trigger
+[{"Dim_ON_Value":0,"Scene_schedule_time":0,"basicValue":255,"battery":50,"channelID":14,"dataUnit":0,"eventCode":4101,"funcName":"PIR Detector","funcType":14,"productCode":16843276,"sensorValue":0,"sequence":2505,"timeStamp":1580915580,"timeStamp_ms":910,"uid":268}]
+
+[Multi Sensor]
+4003 (Battery change)
+[{"Dim_ON_Value":0,"Scene_schedule_time":0,"basicValue":255,"battery":50,"channelID":0,"dataUnit":0,"eventCode":4003,"funcName":"Multi-Sensor","funcType":0,"productCode":16843276,"sensorValue":0,"sequence":2504,"timeStamp":1580915580,"timeStamp_ms":891,"uid":268}]
+
+[Scene] 
+5002 status update
+[{"Dim_ON_Value":0,"Scene_schedule_time":0,"basicValue":999,"battery":0,"channelID":0,"dataUnit":0,"eventCode":5002,"funcName":"Scene number","funcType":44,"productCode":16842755,"sensorValue":999,"sequence":2503,"timeStamp":1580915574,"timeStamp_ms":745,"uid":511}]

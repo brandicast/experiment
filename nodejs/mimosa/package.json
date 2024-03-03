@@ -1,0 +1,17 @@
+{
+  "name": "mimosa",
+  "version": "1.0.0",
+  "main": "mimosa.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "linebot": "^1.5.3",
+    "log4js": "^6.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon",
+  "license": "ISC",
+  "description": ""
+}

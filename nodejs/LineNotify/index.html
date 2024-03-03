@@ -1,0 +1,25 @@
+ <!DOCTYPE html>
+<html lang="tw">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script>
+        function auth() {
+            var URL = 'https://notify-bot.line.me/oauth/authorize?';
+            URL += 'response_type=code';
+            URL += '&client_id=1Co3qNTYnvw9x1X9Zd5dt5';
+            URL += '&redirect_uri=http:\/\/192.168.0.18:8888/code_receiver';
+            URL += '&scope=notify';
+            URL += '&state=NO_STATE';
+            window.location.href = URL;
+        }
+    </script>
+    </head>
+    <body>
+        <button onclick="auth();"> LineNotify </button>
+        <script> 
+        auth() ;
+        </script>
+    </body>
+</html>

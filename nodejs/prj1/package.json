@@ -1,0 +1,17 @@
+{
+  "name": "5fbot",
+  "version": "1.0.0",
+  "description": "this is the test bot for iot at 5f",
+  "main": "gateway.js",
+  "dependencies": {
+    "linebot": "^1.4.1",
+    "socket.io-client": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brandon Wu",
+  "license": "ISC"
+}

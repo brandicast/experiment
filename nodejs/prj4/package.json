@@ -1,0 +1,15 @@
+{
+  "name": "prj4",
+  "version": "1.0.0",
+  "main": "mongodb_test.js",
+  "dependencies": {
+    "mongodb": "^3.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,9 @@
+{ type: 'follow',
+  replyToken: 'token',
+  source: 
+   { userId: 'U2267ea4d718f408df85dcf8677b34764',
+     type: 'user',
+     profile: [Function],
+     member: [Function] },
+  timestamp: 1540573289814,
+  reply: [Function] }

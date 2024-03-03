@@ -1,0 +1,247 @@
+connected fh4NJBM5NuFTjO_wAAAs
+send: U17f3c29570cb4be181aa7e82b86b3ba7:您好，我準備為您即時回報 !
+0) event fh4NJBM5NuFTjO_wAAAs { eventlog: 
+   { Dim_ON_Value: 0,
+     basicValue: 255,
+     battery: 100,
+     channelID: 0,
+     dataUnit: 0,
+     eventCode: 4001,
+     funcName: 'Door Sensor',
+     funcType: 0,
+     productCode: 16843278,
+     sensorValue: 0,
+     sequence: 3988,
+     timeStamp: 1541001899,
+     uid: 261 },
+  mac: '18CC23004AB4' }
+1) current timeStamp  -  last_record.temp_timestamp  = 1541001900170-0
+4) msg.length = 24
+0) event fh4NJBM5NuFTjO_wAAAs { eventlog: 
+   { Dim_ON_Value: 0,
+     basicValue: 255,
+     battery: 100,
+     channelID: 0,
+     dataUnit: 0,
+     eventCode: 4003,
+     funcName: 'Door Sensor',
+     funcType: 0,
+     productCode: 16843278,
+     sensorValue: 0,
+     sequence: 3989,
+     timeStamp: 1541001900,
+     uid: 261 },
+  mac: '18CC23004AB4' }
+1) current timeStamp  -  last_record.temp_timestamp  = 1541001900722-0
+4) msg.length = 0
+0) event fh4NJBM5NuFTjO_wAAAs { eventlog: 
+   { Dim_ON_Value: 0,
+     basicValue: 255,
+     battery: 100,
+     channelID: 13,
+     dataUnit: 0,
+     eventCode: 4102,
+     funcName: 'Door / Window Sensor',
+     funcType: 13,
+     productCode: 16843278,
+     sensorValue: 0,
+     sequence: 3990,
+     timeStamp: 1541001900,
+     uid: 261 },
+  mac: '18CC23004AB4' }
+1) current timeStamp  -  last_record.temp_timestamp  = 1541001900732-0
+4) msg.length = 26
+0) event fh4NJBM5NuFTjO_wAAAs { eventlog: 
+   { Dim_ON_Value: 0,
+     basicValue: 0,
+     battery: 100,
+     channelID: 12,
+     dataUnit: 3,
+     eventCode: 4802,
+     funcName: 'Illumination Sensor',
+     funcType: 12,
+     productCode: 16843278,
+     sensorValue: 27,
+     sequence: 3991,
+     timeStamp: 1541001900,
+     uid: 261 },
+  mac: '18CC23004AB4' }
+1) current timeStamp  -  last_record.temp_timestamp  = 1541001900773-0
+4) msg.length = 15
+0) event fh4NJBM5NuFTjO_wAAAs { eventlog: 
+   { Dim_ON_Value: 0,
+     basicValue: 0,
+     battery: 100,
+     channelID: 11,
+     dataUnit: 2,
+     eventCode: 4801,
+     funcName: 'Temperature Sensor',
+     funcType: 11,
+     productCode: 16843278,
+     sensorValue: 750,
+     sequence: 3992,
+     timeStamp: 1541001900,
+     uid: 261 },
+  mac: '18CC23004AB4' }
+1) current timeStamp  -  last_record.temp_timestamp  = 1541001900782-0
+4) msg.length = 17
+0) event fh4NJBM5NuFTjO_wAAAs { eventlog: 
+   { Dim_ON_Value: 0,
+     basicValue: 255,
+     battery: 100,
+     channelID: 0,
+     dataUnit: 0,
+     eventCode: 4003,
+     funcName: 'Door Sensor',
+     funcType: 0,
+     productCode: 16843278,
+     sensorValue: 0,
+     sequence: 3993,
+     timeStamp: 1541001902,
+     uid: 261 },
+  mac: '18CC23004AB4' }
+1) current timeStamp  -  last_record.temp_timestamp  = 1541001902958-1541001900782
+4) msg.length = 0
+0) event fh4NJBM5NuFTjO_wAAAs { eventlog: 
+   { Dim_ON_Value: 0,
+     basicValue: 0,
+     battery: 100,
+     channelID: 13,
+     dataUnit: 0,
+     eventCode: 4103,
+     funcName: 'Door / Window Sensor',
+     funcType: 13,
+     productCode: 16843278,
+     sensorValue: 0,
+     sequence: 3994,
+     timeStamp: 1541001902,
+     uid: 261 },
+  mac: '18CC23004AB4' }
+1) current timeStamp  -  last_record.temp_timestamp  = 1541001902982-1541001900782
+4) msg.length = 27
+0) event fh4NJBM5NuFTjO_wAAAs { eventlog: 
+   { Dim_ON_Value: 0,
+     basicValue: 0,
+     battery: 100,
+     channelID: 12,
+     dataUnit: 3,
+     eventCode: 4802,
+     funcName: 'Illumination Sensor',
+     funcType: 12,
+     productCode: 16843278,
+     sensorValue: 46,
+     sequence: 3995,
+     timeStamp: 1541001902,
+     uid: 261 },
+  mac: '18CC23004AB4' }
+1) current timeStamp  -  last_record.temp_timestamp  = 1541001902998-1541001900782
+4) msg.length = 0
+0) event fh4NJBM5NuFTjO_wAAAs { eventlog: 
+   { Dim_ON_Value: 0,
+     basicValue: 0,
+     battery: 100,
+     channelID: 11,
+     dataUnit: 2,
+     eventCode: 4801,
+     funcName: 'Temperature Sensor',
+     funcType: 11,
+     productCode: 16843278,
+     sensorValue: 750,
+     sequence: 3996,
+     timeStamp: 1541001902,
+     uid: 261 },
+  mac: '18CC23004AB4' }
+1) current timeStamp  -  last_record.temp_timestamp  = 1541001903020-1541001900782
+4) msg.length = 0
+0) event fh4NJBM5NuFTjO_wAAAs { eventlog: 
+   { Dim_ON_Value: 0,
+     basicValue: 0,
+     battery: 100,
+     channelID: 11,
+     dataUnit: 2,
+     eventCode: 4801,
+     funcName: 'Temperature Sensor',
+     funcType: 11,
+     productCode: 16843278,
+     sensorValue: 760,
+     sequence: 3997,
+     timeStamp: 1541001935,
+     uid: 261 },
+  mac: '18CC23004AB4' }
+1) current timeStamp  -  last_record.temp_timestamp  = 1541001935348-1541001900782
+4) msg.length = 0
+0) event fh4NJBM5NuFTjO_wAAAs { sysinfo: 
+   { ram: { total: 129134592, free: 88104960 },
+     load: [ 1.44, 1.47, 1.44 ],
+     uptime: 873238,
+     latency: 63 },
+  mac: '18CC23004AB4' }
+4) msg.length = 0
+0) event fh4NJBM5NuFTjO_wAAAs { eventlog: 
+   { Dim_ON_Value: 0,
+     basicValue: 255,
+     battery: 100,
+     channelID: 0,
+     dataUnit: 0,
+     eventCode: 4003,
+     funcName: 'Multi-Sensor',
+     funcType: 0,
+     productCode: 16843276,
+     sensorValue: 0,
+     sequence: 3998,
+     timeStamp: 1541002008,
+     uid: 259 },
+  mac: '18CC23004AB4' }
+1) current timeStamp  -  last_record.temp_timestamp  = 1541002008393-1541001900782
+4) msg.length = 0
+0) event fh4NJBM5NuFTjO_wAAAs { eventlog: 
+   { Dim_ON_Value: 0,
+     basicValue: 255,
+     battery: 100,
+     channelID: 14,
+     dataUnit: 0,
+     eventCode: 4101,
+     funcName: 'PIR Detector',
+     funcType: 14,
+     productCode: 16843276,
+     sensorValue: 0,
+     sequence: 3999,
+     timeStamp: 1541002008,
+     uid: 259 },
+  mac: '18CC23004AB4' }
+1) current timeStamp  -  last_record.temp_timestamp  = 1541002008409-1541001900782
+4) msg.length = 21
+0) event fh4NJBM5NuFTjO_wAAAs { eventlog: 
+   { Dim_ON_Value: 0,
+     basicValue: 0,
+     battery: 100,
+     channelID: 12,
+     dataUnit: 3,
+     eventCode: 4802,
+     funcName: 'Illumination Sensor',
+     funcType: 12,
+     productCode: 16843276,
+     sensorValue: 9,
+     sequence: 4000,
+     timeStamp: 1541002008,
+     uid: 259 },
+  mac: '18CC23004AB4' }
+1) current timeStamp  -  last_record.temp_timestamp  = 1541002008421-1541001900782
+4) msg.length = 0
+0) event fh4NJBM5NuFTjO_wAAAs { eventlog: 
+   { Dim_ON_Value: 0,
+     basicValue: 0,
+     battery: 100,
+     channelID: 11,
+     dataUnit: 2,
+     eventCode: 4801,
+     funcName: 'Temperature Sensor',
+     funcType: 11,
+     productCode: 16843276,
+     sensorValue: 710,
+     sequence: 4001,
+     timeStamp: 1541002008,
+     uid: 259 },
+  mac: '18CC23004AB4' }
+1) current timeStamp  -  last_record.temp_timestamp  = 1541002008442-1541001900782
+4) msg.length = 0
