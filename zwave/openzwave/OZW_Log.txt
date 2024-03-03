@@ -1,0 +1,45 @@
+2020-09-23 14:15:56.047 Always, OpenZwave Version 1.4.3428 Starting Up
+2020-09-23 14:15:57.050 Info, Setting Up Provided Network Key for Secure Communications
+2020-09-23 14:15:57.050 Warning, Failed - Network Key Not Set
+2020-09-23 14:15:57.050 Info, mgr,     Added driver for controller /dev/ttyACM0
+2020-09-23 14:15:57.051 Info,   Opening controller /dev/ttyACM0
+2020-09-23 14:15:57.051 Info, Trying to open serial port /dev/ttyACM0 (attempt 1)
+2020-09-23 14:15:57.051 Error, ERROR: Cannot open serial port /dev/ttyACM0. Error code 13
+2020-09-23 14:15:57.051 Error, ERROR: Failed to open serial port /dev/ttyACM0
+2020-09-23 14:15:57.051 Warning, WARNING: Failed to init the controller (attempt 0)
+2020-09-23 14:16:02.051 Info,   Opening controller /dev/ttyACM0
+2020-09-23 14:16:02.051 Info, Trying to open serial port /dev/ttyACM0 (attempt 1)
+2020-09-23 14:16:02.051 Error, ERROR: Cannot open serial port /dev/ttyACM0. Error code 13
+2020-09-23 14:16:02.052 Error, ERROR: Failed to open serial port /dev/ttyACM0
+2020-09-23 14:16:02.052 Warning, WARNING: Failed to init the controller (attempt 1)
+2020-09-23 14:16:07.052 Info,   Opening controller /dev/ttyACM0
+2020-09-23 14:16:07.052 Info, Trying to open serial port /dev/ttyACM0 (attempt 1)
+2020-09-23 14:16:07.054 Error, ERROR: Cannot open serial port /dev/ttyACM0. Error code 13
+2020-09-23 14:16:07.054 Error, ERROR: Failed to open serial port /dev/ttyACM0
+2020-09-23 14:16:07.054 Warning, WARNING: Failed to init the controller (attempt 2)
+2020-09-23 14:16:12.055 Info,   Opening controller /dev/ttyACM0
+2020-09-23 14:16:12.055 Info, Trying to open serial port /dev/ttyACM0 (attempt 1)
+2020-09-23 14:16:12.057 Error, ERROR: Cannot open serial port /dev/ttyACM0. Error code 13
+2020-09-23 14:16:12.057 Error, ERROR: Failed to open serial port /dev/ttyACM0
+2020-09-23 14:16:12.057 Warning, WARNING: Failed to init the controller (attempt 3)
+2020-09-23 14:16:12.082 Detail, Notification: DriverRemoved
+2020-09-23 14:16:12.082 Always, ***************************************************************************
+2020-09-23 14:16:12.082 Always, *********************  Cumulative Network Statistics  *********************
+2020-09-23 14:16:12.082 Always, *** General
+2020-09-23 14:16:12.082 Always, Driver run time: . .  . 0 days, 0 hours, 0 minutes
+2020-09-23 14:16:12.082 Always, Frames processed: . . . . . . . . . . . . . . . . . . . . 0
+2020-09-23 14:16:12.083 Always, Total messages successfully received: . . . . . . . . . . 0
+2020-09-23 14:16:12.083 Always, Total Messages successfully sent: . . . . . . . . . . . . 0
+2020-09-23 14:16:12.083 Always, ACKs received from controller:  . . . . . . . . . . . . . 0
+2020-09-23 14:16:12.083 Always, *** Errors
+2020-09-23 14:16:12.083 Always, Unsolicited messages received while waiting for ACK:  . . 0
+2020-09-23 14:16:12.083 Always, Reads aborted due to timeouts:  . . . . . . . . . . . . . 0
+2020-09-23 14:16:12.083 Always, Bad checksum errors:  . . . . . . . . . . . . . . . . . . 0
+2020-09-23 14:16:12.083 Always, CANs received from controller:  . . . . . . . . . . . . . 0
+2020-09-23 14:16:12.083 Always, NAKs received from controller:  . . . . . . . . . . . . . 0
+2020-09-23 14:16:12.083 Always, Out of frame data flow errors:  . . . . . . . . . . . . . 0
+2020-09-23 14:16:12.083 Always, Messages retransmitted: . . . . . . . . . . . . . . . . . 0
+2020-09-23 14:16:12.083 Always, Messages dropped and not delivered: . . . . . . . . . . . 0
+2020-09-23 14:16:12.083 Always, ***************************************************************************
+2020-09-23 14:16:12.083 Warning, WARNING: Tried to write driver config with no home ID set
+2020-09-23 14:16:12.084 Info, mgr,     Driver for controller /dev/ttyACM0 removed

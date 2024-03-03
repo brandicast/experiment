@@ -1,0 +1,64 @@
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:52:21: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:52:21: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:52:21: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:52:21: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:22:50: debug Parsed SensorMultilevelReport(scale: 1, sensorValue: [0, 88], precision: 0, sensorType: 1, scaledSensorValue: 88, size: 2) to ['displayed':true, 'value':'88', 'name':'溫度', 'unit':'F', 'linkText':'4 in 1 Sensor', 'descriptionText':4 in 1 Sensor is 88°F, 'isStateChange':true]
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:22:50: debug Received: 'zw device: 06, command: 3105, payload: 01 0A 00 58 '
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:22:50: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:22:50: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:22:50: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:22:50: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:14:51: debug Parsed SensorMultilevelReport(scale: 1, sensorValue: [0, 87], precision: 0, sensorType: 1, scaledSensorValue: 87, size: 2) to ['displayed':true, 'value':'87', 'name':'溫度', 'unit':'F', 'linkText':'4 in 1 Sensor', 'descriptionText':4 in 1 Sensor is 87°F, 'isStateChange':true]
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:14:51: debug Received: 'zw device: 06, command: 3105, payload: 01 0A 00 57 '
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:14:51: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:14:51: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:14:51: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:14:51: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:13:50: debug Parsed SensorMultilevelReport(scale: 1, sensorValue: [0, 88], precision: 0, sensorType: 1, scaledSensorValue: 88, size: 2) to ['displayed':true, 'value':'88', 'name':'溫度', 'unit':'F', 'linkText':'4 in 1 Sensor', 'descriptionText':4 in 1 Sensor is 88°F, 'isStateChange':true]
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:13:17: debug Parsed SensorMultilevelReport(scale: 0, sensorValue: [18], precision: 0, sensorType: 3, scaledSensorValue: 18, size: 1) to ['displayed':true, 'value':'18', 'name':'亮度', 'unit':'lux', 'linkText':'4 in 1 Sensor', 'descriptionText':4 in 1 Sensor is 18 lux, 'isStateChange':false]
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:13:17: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:13:17: debug Parsed NotificationReport(eventParametersLength: 0, eventParameter: [], zensorNetSourceNodeId: 0, v1AlarmType: 0, reserved61: 0, notificationStatus: 255, sequence: false, event: 8, notificationType: 7, v1AlarmLevel: 0) to ['descriptionText':4 in 1 Sensor: NotificationReport(eventParametersLength: 0, eventParameter: [], zensorNetSourceNodeId: 0, v1AlarmType: 0, reserved61: 0, notificationStatus: 255, sequence: false, event: 8, notificationType: 7, v1AlarmLevel: 0), 'linkText':'4 in 1 Sensor', 'isStateChange':false, 'displayed':false]
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:13:17: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:13:17: debug Parsed BatteryReport(batteryLevel: 100) to ['name':'battery', 'unit':'%', 'value':100, 'linkText':'4 in 1 Sensor', 'descriptionText':4 in 1 Sensor battery is 100%, 'isStateChange':false, 'displayed':false]
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:13:17: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:13:16: debug Parsed SensorMultilevelReport(scale: 0, sensorValue: [18], precision: 0, sensorType: 3, scaledSensorValue: 18, size: 1) to ['displayed':true, 'value':'18', 'name':'亮度', 'unit':'lux', 'linkText':'4 in 1 Sensor', 'descriptionText':4 in 1 Sensor is 18 lux, 'isStateChange':true]
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:13:16: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:13:16: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:13:16: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:13:16: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:13:15: debug Parsed NotificationReport(eventParametersLength: 0, eventParameter: [], zensorNetSourceNodeId: 0, v1AlarmType: 0, reserved61: 0, notificationStatus: 255, sequence: false, event: 8, notificationType: 7, v1AlarmLevel: 0) to ['descriptionText':4 in 1 Sensor: NotificationReport(eventParametersLength: 0, eventParameter: [], zensorNetSourceNodeId: 0, v1AlarmType: 0, reserved61: 0, notificationStatus: 255, sequence: false, event: 8, notificationType: 7, v1AlarmLevel: 0), 'linkText':'4 in 1 Sensor', 'isStateChange':false, 'displayed':false]
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:13:15: debug Parsed BatteryReport(batteryLevel: 100) to ['name':'battery', 'unit':'%', 'value':100, 'linkText':'4 in 1 Sensor', 'descriptionText':4 in 1 Sensor battery is 100%, 'isStateChange':false, 'displayed':false]
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:12:29: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:12:29: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:12:29: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:12:29: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:11:51: debug Parsed SensorMultilevelReport(scale: 1, sensorValue: [0, 87], precision: 0, sensorType: 1, scaledSensorValue: 87, size: 2) to ['displayed':true, 'value':'87', 'name':'溫度', 'unit':'F', 'linkText':'4 in 1 Sensor', 'descriptionText':4 in 1 Sensor is 87°F, 'isStateChange':true]
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:11:51: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:11:51: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:11:51: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:10:51: debug Parsed SensorMultilevelReport(scale: 1, sensorValue: [0, 88], precision: 0, sensorType: 1, scaledSensorValue: 88, size: 2) to ['displayed':true, 'value':'88', 'name':'溫度', 'unit':'F', 'linkText':'4 in 1 Sensor', 'descriptionText':4 in 1 Sensor is 88°F, 'isStateChange':true]
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:10:51: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:10:51: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:10:51: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:10:51: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:10:21: debug Parsed WakeUpNotification() to [['descriptionText':4 in 1 Sensor woke up, 'isStateChange':false, 'linkText':'4 in 1 Sensor', 'displayed':false], 8408]
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:10:21: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:10:21: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:10:21: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:10:21: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:04:33: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:04:33: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:04:33: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:04:33: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:00:30: debug getConfigurationCommands
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:00:30: debug updated
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:00:30: info sending commands: [BatteryGet(), SensorBinaryGet(sensorType: 12), NotificationGet(v1AlarmType: 0, notificationType: 7, event: 8)]
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午10:00:30: debug Request is: [BatteryGet(), SensorBinaryGet(sensorType: 12), NotificationGet(v1AlarmType: 0, notificationType: 7, event: 8)]
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午9:56:50: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午9:56:50: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午9:56:50: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午9:56:50: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午9:56:09: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午9:56:09: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午9:56:09: debug test !
+ab164eb6-9e65-4137-855e-6c71be0c53f8 上午9:56:09: debug test !
