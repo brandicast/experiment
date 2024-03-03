@@ -1,0 +1,6542 @@
+{
+    "a": {
+        "chi": "[冠詞] 一個;一種",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=a",
+        "count": "489"
+    },
+    "a few": {
+        "chi": "[片語] 一些",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=a+few",
+        "count": "12"
+    },
+    "a little": {
+        "chi": "[片語] 一點點",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=a+little",
+        "count": "22"
+    },
+    "a lot": {
+        "chi": "[片語] 很多",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=a+lot",
+        "count": "72"
+    },
+    "A.M.": {
+        "chi": "[副詞] 上午; [副詞] 上午",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=A.M.",
+        "count": "17"
+    },
+    "able": {
+        "chi": "[形容詞] 能;有能力的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=able",
+        "count": "14"
+    },
+    "about": {
+        "chi": "[介系詞] 大約;關於",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=about",
+        "count": "208"
+    },
+    "above": {
+        "chi": "[介系詞] 在…之上",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=above",
+        "count": "3"
+    },
+    "abroad": {
+        "chi": "[副詞] 在國外",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=abroad",
+        "count": "3"
+    },
+    "across": {
+        "chi": "[介系詞] 橫越;穿過",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=across",
+        "count": "4"
+    },
+    "act": {
+        "chi": "[動詞] 扮演; [名詞] 行動,法案",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=act",
+        "count": "2"
+    },
+    "action": {
+        "chi": "[名詞] 動作",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=action",
+        "count": "5"
+    },
+    "actor": {
+        "chi": "[名詞] 男演員",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=actor",
+        "count": "4"
+    },
+    "actress": {
+        "chi": "[名詞] 女演員",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=actress",
+        "count": "2"
+    },
+    "afraid": {
+        "chi": "[形容詞] 害怕",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=afraid",
+        "count": "25"
+    },
+    "after": {
+        "chi": "[介系詞] 在…之後; [連接詞] 在...之後",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=after",
+        "count": "100"
+    },
+    "afternoon": {
+        "chi": "[名詞] 下午;午後",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=afternoon",
+        "count": "27"
+    },
+    "again": {
+        "chi": "[副詞] 再一次",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=again",
+        "count": "35"
+    },
+    "age": {
+        "chi": "[名詞] 年齡",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=age",
+        "count": "13"
+    },
+    "ago": {
+        "chi": "[副詞] 以前",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ago",
+        "count": "35"
+    },
+    "agree": {
+        "chi": "[動詞] 同意",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=agree",
+        "count": "7"
+    },
+    "ahead": {
+        "chi": "[副詞] 在前;向前;預先;事前",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ahead",
+        "count": "3"
+    },
+    "air": {
+        "chi": "[名詞] 空氣",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=air",
+        "count": "11"
+    },
+    "airplane": {
+        "chi": "[名詞] 飛機",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=airplane",
+        "count": "4"
+    },
+    "airport": {
+        "chi": "[名詞] 飛機場",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=airport",
+        "count": "6"
+    },
+    "all": {
+        "chi": "[形容詞] 所有的;全部; [代名詞] 一切",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=all",
+        "count": "123"
+    },
+    "almost": {
+        "chi": "[副詞] 幾乎",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=almost",
+        "count": "27"
+    },
+    "along": {
+        "chi": "[介系詞] 沿著",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=along",
+        "count": "15"
+    },
+    "already": {
+        "chi": "[副詞] 已經",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=already",
+        "count": "27"
+    },
+    "also": {
+        "chi": "[副詞] 也",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=also",
+        "count": "64"
+    },
+    "although": {
+        "chi": "[連接詞] 雖然",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=although",
+        "count": "11"
+    },
+    "always": {
+        "chi": "[副詞] 總是",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=always",
+        "count": "67"
+    },
+    "am": {
+        "chi": "[動詞] 是,在;  be 動詞第一人稱,單數,現在式",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=am",
+        "count": "226"
+    },
+    "America": {
+        "chi": "[名詞] 美國;美洲",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=America",
+        "count": "9"
+    },
+    "American": {
+        "chi": "[形容詞] 美國的;美洲的; [名詞] 美國人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=American",
+        "count": "15"
+    },
+    "an": {
+        "chi": "[冠詞] 一個;一種",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=an",
+        "count": "85"
+    },
+    "and": {
+        "chi": "[連接詞] 和；及；而；就",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=and",
+        "count": "432"
+    },
+    "angle": {
+        "chi": "[名詞] 角,邊角；角度；觀點,立場",
+        "link": "None",
+        "count": "0"
+    },
+    "angry": {
+        "chi": "[形容詞] 生氣的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=angry",
+        "count": "18"
+    },
+    "animal": {
+        "chi": "[名詞] 動物",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=animal",
+        "count": "29"
+    },
+    "another": {
+        "chi": "[形容詞] 另一個; [代名詞] 另一個",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=another",
+        "count": "36"
+    },
+    "answer": {
+        "chi": "[動詞] 回答; [名詞] 答案",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=answer",
+        "count": "73"
+    },
+    "ant": {
+        "chi": "[名詞] 螞蟻",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ant",
+        "count": "1"
+    },
+    "any": {
+        "chi": "[形容詞] 任何的; [代名詞] 任何一個",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=any",
+        "count": "71"
+    },
+    "anybody": {
+        "chi": "[代名詞] 任何人",
+        "link": "None",
+        "count": "0"
+    },
+    "anyone": {
+        "chi": "[代名詞] 任何人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=anyone",
+        "count": "15"
+    },
+    "anything": {
+        "chi": "[代名詞] 任何事物",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=anything",
+        "count": "32"
+    },
+    "apartment": {
+        "chi": "[名詞] 公寓",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=apartment",
+        "count": "13"
+    },
+    "appear": {
+        "chi": "[動詞] 出現",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=appear",
+        "count": "11"
+    },
+    "apple": {
+        "chi": "[名詞] 蘋果",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=apple",
+        "count": "7"
+    },
+    "April": {
+        "chi": "[名詞] 四月",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=April",
+        "count": "6"
+    },
+    "are": {
+        "chi": "[動詞] 是,在;  be 動詞第一、第三人稱, 複數, 現在式; 第二人稱，單、複數, 現在式",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=are",
+        "count": "312"
+    },
+    "aren't": {
+        "chi": "[縮短形] are not",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=aren%27t",
+        "count": "7"
+    },
+    "arm": {
+        "chi": "[名詞] 手臂;（衣服）袖子；（椅子的）扶手，靠手",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=arm",
+        "count": "3"
+    },
+    "around": {
+        "chi": "[介系詞] 差不多;環繞",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=around",
+        "count": "32"
+    },
+    "arrive": {
+        "chi": "[動詞] 到達",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=arrive",
+        "count": "15"
+    },
+    "art": {
+        "chi": "[名詞] 藝術",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=art",
+        "count": "17"
+    },
+    "as": {
+        "chi": "[介系詞] 以…的身份；作為; [連接詞] 依照;當...時",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=as",
+        "count": "69"
+    },
+    "ask": {
+        "chi": "[動詞] 問",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ask",
+        "count": "78"
+    },
+    "at": {
+        "chi": "[介系詞] 在",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=at",
+        "count": "264"
+    },
+    "attack": {
+        "chi": "[動詞] 進攻;襲擊; [名詞] 攻擊",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=attack",
+        "count": "2"
+    },
+    "August": {
+        "chi": "[名詞] 八月",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=August",
+        "count": "8"
+    },
+    "aunt": {
+        "chi": "[名詞] 姨媽;姑媽",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=aunt",
+        "count": "5"
+    },
+    "autumn": {
+        "chi": "[名詞] 秋天;秋季",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=autumn",
+        "count": "2"
+    },
+    "away": {
+        "chi": "[形容詞] 不在的; [副詞] 離開",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=away",
+        "count": "45"
+    },
+    "baby": {
+        "chi": "[名詞] 嬰兒",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=baby",
+        "count": "17"
+    },
+    "back": {
+        "chi": "[副詞] 回原處; [名詞] 背部;後面",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=back",
+        "count": "71"
+    },
+    "bad": {
+        "chi": "[形容詞] 壞的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bad",
+        "count": "41"
+    },
+    "badminton": {
+        "chi": "[名詞] 羽毛球",
+        "link": "None",
+        "count": "0"
+    },
+    "bag": {
+        "chi": "[名詞] 袋子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bag",
+        "count": "18"
+    },
+    "bake": {
+        "chi": "[動詞] 烘;烤",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bake",
+        "count": "4"
+    },
+    "bakery": {
+        "chi": "[名詞] 麵包店",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bakery",
+        "count": "5"
+    },
+    "balcony": {
+        "chi": "[名詞] 陽臺",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=balcony",
+        "count": "1"
+    },
+    "ball": {
+        "chi": "[名詞] 球",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ball",
+        "count": "10"
+    },
+    "banana": {
+        "chi": "[名詞] 香蕉",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=banana",
+        "count": "3"
+    },
+    "band": {
+        "chi": "[名詞] 樂團;樂隊",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=band",
+        "count": "4"
+    },
+    "bank": {
+        "chi": "[名詞] 銀行;堤;岸",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bank",
+        "count": "5"
+    },
+    "barbecue": {
+        "chi": "[名詞] 烤肉",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=barbecue",
+        "count": "1"
+    },
+    "base": {
+        "chi": "[名詞] 基;底;基部",
+        "link": "None",
+        "count": "0"
+    },
+    "baseball": {
+        "chi": "[名詞] 棒球",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=baseball",
+        "count": "13"
+    },
+    "basket": {
+        "chi": "[名詞] 籃子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=basket",
+        "count": "4"
+    },
+    "basketball": {
+        "chi": "[名詞] 籃球",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=basketball",
+        "count": "17"
+    },
+    "bat": {
+        "chi": "[名詞] 球棒;蝙蝠",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bat",
+        "count": "1"
+    },
+    "bath": {
+        "chi": "[名詞] 洗澡",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bath",
+        "count": "14"
+    },
+    "bathroom": {
+        "chi": "[名詞] 廁所;浴室",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bathroom",
+        "count": "4"
+    },
+    "be": {
+        "chi": "[動詞] 是;要;有;在; [助動詞] 正在...,被…",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=be",
+        "count": "227"
+    },
+    "beach": {
+        "chi": "[名詞] 海灘",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=beach",
+        "count": "22"
+    },
+    "bean": {
+        "chi": "[名詞] 豆莢;豆子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bean",
+        "count": "1"
+    },
+    "bear": {
+        "chi": "[動詞] 承受; [名詞] 熊",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bear",
+        "count": "6"
+    },
+    "beautiful": {
+        "chi": "[形容詞] 漂亮的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=beautiful",
+        "count": "53"
+    },
+    "because": {
+        "chi": "[連接詞] 因為",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=because",
+        "count": "105"
+    },
+    "become": {
+        "chi": "[動詞] 變成",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=become",
+        "count": "61"
+    },
+    "bed": {
+        "chi": "[名詞] 床",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bed",
+        "count": "23"
+    },
+    "bedroom": {
+        "chi": "[名詞] 臥房",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bedroom",
+        "count": "5"
+    },
+    "bee": {
+        "chi": "[名詞] 蜜蜂",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bee",
+        "count": "4"
+    },
+    "beef": {
+        "chi": "[名詞] 牛肉",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=beef",
+        "count": "5"
+    },
+    "before": {
+        "chi": "[介系詞] 在…之前",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=before",
+        "count": "92"
+    },
+    "begin": {
+        "chi": "[動詞] 開始",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=begin",
+        "count": "22"
+    },
+    "behind": {
+        "chi": "[介系詞] 在…後面",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=behind",
+        "count": "11"
+    },
+    "believe": {
+        "chi": "[動詞] 相信",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=believe",
+        "count": "34"
+    },
+    "bell": {
+        "chi": "[名詞] 鈴;鐘",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bell",
+        "count": "1"
+    },
+    "belong": {
+        "chi": "[動詞] 屬於",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=belong",
+        "count": "5"
+    },
+    "below": {
+        "chi": "[介系詞] 在…之下",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=below",
+        "count": "21"
+    },
+    "belt": {
+        "chi": "[名詞] 腰帶",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=belt",
+        "count": "4"
+    },
+    "bench": {
+        "chi": "[名詞] 長凳;長椅",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bench",
+        "count": "2"
+    },
+    "beside": {
+        "chi": "[介系詞] 在...旁側",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=beside",
+        "count": "2"
+    },
+    "between": {
+        "chi": "[介系詞] 在…和…之間",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=between",
+        "count": "24"
+    },
+    "bicycle": {
+        "chi": "[名詞] 腳踏車",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bicycle",
+        "count": "13"
+    },
+    "big": {
+        "chi": "[形容詞] 大的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=big",
+        "count": "51"
+    },
+    "bike": {
+        "chi": "[動詞] 騎腳踏車; [名詞] 腳踏車",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bike",
+        "count": "12"
+    },
+    "bird": {
+        "chi": "[名詞] 鳥",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bird",
+        "count": "18"
+    },
+    "birthday": {
+        "chi": "[名詞] 生日",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=birthday",
+        "count": "37"
+    },
+    "bite": {
+        "chi": "[動詞] 咬",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bite",
+        "count": "7"
+    },
+    "black": {
+        "chi": "[形容詞] 黑色的; [名詞] 黑色;美國黑人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=black",
+        "count": "11"
+    },
+    "blackboard": {
+        "chi": "[名詞] 黑板",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=blackboard",
+        "count": "4"
+    },
+    "blanket": {
+        "chi": "[名詞] 毯子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=blanket",
+        "count": "1"
+    },
+    "blind": {
+        "chi": "[形容詞] 瞎的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=blind",
+        "count": "3"
+    },
+    "block": {
+        "chi": "[動詞] 阻塞; [名詞] 街區",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=block",
+        "count": "11"
+    },
+    "blow": {
+        "chi": "[動詞] 吹",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=blow",
+        "count": "5"
+    },
+    "blue": {
+        "chi": "[形容詞] 藍色的; [名詞] 藍色",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=blue",
+        "count": "17"
+    },
+    "boat": {
+        "chi": "[名詞] 小船",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=boat",
+        "count": "4"
+    },
+    "body": {
+        "chi": "[名詞] 身體",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=body",
+        "count": "11"
+    },
+    "boil": {
+        "chi": "[動詞] (水等)沸騰",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=boil",
+        "count": "1"
+    },
+    "book": {
+        "chi": "[名詞] 書本",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=book",
+        "count": "46"
+    },
+    "bookstore": {
+        "chi": "[名詞] 書店",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bookstore",
+        "count": "10"
+    },
+    "bore": {
+        "chi": "[動詞] 使厭煩",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bore",
+        "count": "11"
+    },
+    "boring": {
+        "chi": "[形容詞] 乏味的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=boring",
+        "count": "10"
+    },
+    "born": {
+        "chi": "[形容詞] 出生的;誕生的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=born",
+        "count": "21"
+    },
+    "borrow": {
+        "chi": "[動詞] 借",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=borrow",
+        "count": "11"
+    },
+    "boss": {
+        "chi": "[名詞] 老闆",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=boss",
+        "count": "6"
+    },
+    "both": {
+        "chi": "[形容詞] 兩者; [代名詞] 兩者(都)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=both",
+        "count": "37"
+    },
+    "bottle": {
+        "chi": "[名詞] 瓶子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bottle",
+        "count": "2"
+    },
+    "bottom": {
+        "chi": "[名詞] 底部;屁股",
+        "link": "None",
+        "count": "0"
+    },
+    "bow": {
+        "chi": "[動詞] 鞠躬; [名詞] 弓；鞠躬；蝴蝶結",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bow",
+        "count": "3"
+    },
+    "bowl": {
+        "chi": "[名詞] 碗",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bowl",
+        "count": "4"
+    },
+    "box": {
+        "chi": "[名詞] 箱;盒;匣",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=box",
+        "count": "12"
+    },
+    "boy": {
+        "chi": "[名詞] 男孩",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=boy",
+        "count": "27"
+    },
+    "bread": {
+        "chi": "[名詞] 麵包",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bread",
+        "count": "13"
+    },
+    "break": {
+        "chi": "[動詞] 斷裂;中斷;打破（記錄）; [名詞] 暫停",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=break",
+        "count": "13"
+    },
+    "breakfast": {
+        "chi": "[名詞] 早餐",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=breakfast",
+        "count": "9"
+    },
+    "bridge": {
+        "chi": "[名詞] 橋",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bridge",
+        "count": "8"
+    },
+    "bright": {
+        "chi": "[形容詞] 光亮的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bright",
+        "count": "13"
+    },
+    "bring": {
+        "chi": "[動詞] 帶來",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bring",
+        "count": "36"
+    },
+    "brother": {
+        "chi": "[名詞] 兄;弟",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=brother",
+        "count": "40"
+    },
+    "brown": {
+        "chi": "[形容詞] 褐色的;棕色的; [名詞] 棕色",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=brown",
+        "count": "13"
+    },
+    "brush": {
+        "chi": "[動詞] 刷; [名詞] 刷子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=brush",
+        "count": "5"
+    },
+    "bug": {
+        "chi": "[名詞] 小蟲",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bug",
+        "count": "2"
+    },
+    "build": {
+        "chi": "[動詞] 建造;蓋",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=build",
+        "count": "20"
+    },
+    "bun": {
+        "chi": "[名詞] 小圓麵包",
+        "link": "None",
+        "count": "0"
+    },
+    "burger": {
+        "chi": "[名詞] 漢堡牛肉餅",
+        "link": "None",
+        "count": "0"
+    },
+    "burn": {
+        "chi": "[動詞] 燒;燙傷; [名詞] 灼傷",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=burn",
+        "count": "5"
+    },
+    "bus": {
+        "chi": "[名詞] 公車",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bus",
+        "count": "35"
+    },
+    "business": {
+        "chi": "[名詞] 商業;事",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=business",
+        "count": "28"
+    },
+    "businessman": {
+        "chi": "[名詞] 商人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=businessman",
+        "count": "4"
+    },
+    "busy": {
+        "chi": "[形容詞] 忙碌的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=busy",
+        "count": "22"
+    },
+    "but": {
+        "chi": "[連接詞] 但是",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=but",
+        "count": "258"
+    },
+    "butter": {
+        "chi": "[名詞] 奶油",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=butter",
+        "count": "2"
+    },
+    "butterfly": {
+        "chi": "[名詞] 蝴蝶",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=butterfly",
+        "count": "5"
+    },
+    "buy": {
+        "chi": "[動詞] 買",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=buy",
+        "count": "87"
+    },
+    "by": {
+        "chi": "[介系詞] 經由",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=by",
+        "count": "97"
+    },
+    "bye": {
+        "chi": "[感歎詞] 再見;再會",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=bye",
+        "count": "1"
+    },
+    "cage": {
+        "chi": "[名詞] 鳥籠;獸籠",
+        "link": "None",
+        "count": "0"
+    },
+    "cake": {
+        "chi": "[名詞] 蛋糕",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cake",
+        "count": "12"
+    },
+    "call": {
+        "chi": "[動詞] 喊;打電話;稱呼",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=call",
+        "count": "55"
+    },
+    "camera": {
+        "chi": "[名詞] 照相機",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=camera",
+        "count": "2"
+    },
+    "camp": {
+        "chi": "[動詞] 露營; [名詞] 營地",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=camp",
+        "count": "3"
+    },
+    "can": {
+        "chi": "[助動詞] 能,會;可能;可以;必須; [名詞] 罐頭",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=can",
+        "count": "254"
+    },
+    "candle": {
+        "chi": "[名詞] 蠟燭",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=candle",
+        "count": "2"
+    },
+    "candy": {
+        "chi": "[名詞] 糖果",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=candy",
+        "count": "6"
+    },
+    "cannot": {
+        "chi": "[助動詞] 不能",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cannot",
+        "count": "26"
+    },
+    "can't": {
+        "chi": "[縮短形] cannot (can 的反義)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=can%27t",
+        "count": "47"
+    },
+    "cap": {
+        "chi": "[名詞] 無邊便帽;蓋子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cap",
+        "count": "5"
+    },
+    "car": {
+        "chi": "[名詞] 汽車",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=car",
+        "count": "25"
+    },
+    "card": {
+        "chi": "[名詞] 卡片",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=card",
+        "count": "20"
+    },
+    "care": {
+        "chi": "[動詞] 關心;照顧",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=care",
+        "count": "31"
+    },
+    "careful": {
+        "chi": "[形容詞] 小心的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=careful",
+        "count": "25"
+    },
+    "carry": {
+        "chi": "[動詞] 提;搬運",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=carry",
+        "count": "11"
+    },
+    "case": {
+        "chi": "[名詞] 盒子;案件",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=case",
+        "count": "2"
+    },
+    "castle": {
+        "chi": "[名詞] 城堡",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=castle",
+        "count": "1"
+    },
+    "cat": {
+        "chi": "[名詞] 貓",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cat",
+        "count": "11"
+    },
+    "catch": {
+        "chi": "[動詞] 接(球);捕獲",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=catch",
+        "count": "18"
+    },
+    "celebrate": {
+        "chi": "[動詞] 慶祝",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=celebrate",
+        "count": "17"
+    },
+    "cell": {
+        "chi": "[名詞] 單人牢房;細胞;蜂房的巢室;電池",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cell",
+        "count": "9"
+    },
+    "cell phone": {
+        "chi": "[名詞] 手機",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cell+phone",
+        "count": "9"
+    },
+    "cellphone": {
+        "chi": "[名詞] 手機,大哥大",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cellphone",
+        "count": "5"
+    },
+    "cent": {
+        "chi": "[名詞] 分(錢幣)",
+        "link": "None",
+        "count": "0"
+    },
+    "center": {
+        "chi": "[名詞] 中心(點)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=center",
+        "count": "12"
+    },
+    "centimeter": {
+        "chi": "[名詞] 公分",
+        "link": "None",
+        "count": "0"
+    },
+    "chair": {
+        "chi": "[名詞] 椅子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=chair",
+        "count": "5"
+    },
+    "chalk": {
+        "chi": "[名詞] 粉筆",
+        "link": "None",
+        "count": "0"
+    },
+    "chance": {
+        "chi": "[名詞] 機會",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=chance",
+        "count": "20"
+    },
+    "change": {
+        "chi": "[動詞] 改變;更改; [名詞] 零錢",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=change",
+        "count": "44"
+    },
+    "cheap": {
+        "chi": "[形容詞] 便宜的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cheap",
+        "count": "9"
+    },
+    "cheat": {
+        "chi": "[動詞] 欺騙;作弊",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cheat",
+        "count": "3"
+    },
+    "check": {
+        "chi": "[動詞] 檢查; [名詞] 支票;買單",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=check",
+        "count": "17"
+    },
+    "cheer": {
+        "chi": "[動詞] 向...歡呼; [名詞] 喝采;鼓勵",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cheer",
+        "count": "5"
+    },
+    "cheese": {
+        "chi": "[名詞] 起司;乳酪",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cheese",
+        "count": "4"
+    },
+    "chess": {
+        "chi": "[名詞] 西洋棋",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=chess",
+        "count": "1"
+    },
+    "chicken": {
+        "chi": "[名詞] 雞;雞肉",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=chicken",
+        "count": "9"
+    },
+    "child": {
+        "chi": "[名詞] 小孩",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=child",
+        "count": "44"
+    },
+    "China": {
+        "chi": "[名詞] 中國",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=China",
+        "count": "2"
+    },
+    "Chinese": {
+        "chi": "[形容詞] 中國的;中國人的; [名詞] 中文;中國人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Chinese",
+        "count": "13"
+    },
+    "chocolate": {
+        "chi": "[名詞] 巧克力",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=chocolate",
+        "count": "6"
+    },
+    "choose": {
+        "chi": "[動詞] 選擇;挑選",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=choose",
+        "count": "6"
+    },
+    "chopsticks": {
+        "chi": "[名詞] 筷子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=chopsticks",
+        "count": "2"
+    },
+    "Christmas": {
+        "chi": "[名詞] 耶誕節",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Christmas",
+        "count": "12"
+    },
+    "church": {
+        "chi": "[名詞] 教堂",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=church",
+        "count": "11"
+    },
+    "circle": {
+        "chi": "[名詞] 圓圈;集團",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=circle",
+        "count": "5"
+    },
+    "city": {
+        "chi": "[名詞] 都市",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=city",
+        "count": "45"
+    },
+    "clap": {
+        "chi": "[動詞] 拍(手);鼓(掌)",
+        "link": "None",
+        "count": "0"
+    },
+    "class": {
+        "chi": "[名詞] 階級;班級;上課",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=class",
+        "count": "48"
+    },
+    "classmate": {
+        "chi": "[名詞] 同班同學",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=classmate",
+        "count": "20"
+    },
+    "classroom": {
+        "chi": "[名詞] 教室",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=classroom",
+        "count": "11"
+    },
+    "clean": {
+        "chi": "[形容詞] 乾淨的; [動詞] 打掃",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=clean",
+        "count": "24"
+    },
+    "clear": {
+        "chi": "[形容詞] 清楚的;晴朗的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=clear",
+        "count": "21"
+    },
+    "clerk": {
+        "chi": "[名詞] 店員;辦事員;職員",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=clerk",
+        "count": "6"
+    },
+    "climb": {
+        "chi": "[動詞] 爬;攀登",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=climb",
+        "count": "5"
+    },
+    "clock": {
+        "chi": "[名詞] 鐘",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=clock",
+        "count": "3"
+    },
+    "close": {
+        "chi": "[形容詞] 近的;密切的; [動詞] 關上",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=close",
+        "count": "18"
+    },
+    "cloudy": {
+        "chi": "[形容詞] 多雲的;陰天的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cloudy",
+        "count": "4"
+    },
+    "club": {
+        "chi": "[名詞] 俱樂部;夜總會;社團",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=club",
+        "count": "9"
+    },
+    "coat": {
+        "chi": "[名詞] 外套",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=coat",
+        "count": "2"
+    },
+    "coffee": {
+        "chi": "[名詞] 咖啡",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=coffee",
+        "count": "23"
+    },
+    "cola": {
+        "chi": "[名詞] 可樂",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cola",
+        "count": "1"
+    },
+    "cold": {
+        "chi": "[形容詞] 寒冷的; [名詞] 感冒",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cold",
+        "count": "23"
+    },
+    "collect": {
+        "chi": "[動詞] 收集",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=collect",
+        "count": "17"
+    },
+    "color": {
+        "chi": "[名詞] 顏色",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=color",
+        "count": "17"
+    },
+    "comb": {
+        "chi": "[動詞] 用梳子梳理; [名詞] 梳子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=comb",
+        "count": "1"
+    },
+    "come": {
+        "chi": "[動詞] 到來",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=come",
+        "count": "117"
+    },
+    "comfortable": {
+        "chi": "[形容詞] 舒適的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=comfortable",
+        "count": "18"
+    },
+    "comic": {
+        "chi": "[形容詞] 滑稽的；有趣的; [名詞] 漫畫雜誌；喜劇演員",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=comic",
+        "count": "6"
+    },
+    "common": {
+        "chi": "[形容詞] 常見的;尋常的;普遍的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=common",
+        "count": "5"
+    },
+    "computer": {
+        "chi": "[名詞] 電腦",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=computer",
+        "count": "28"
+    },
+    "convenient": {
+        "chi": "[形容詞] 方便的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=convenient",
+        "count": "13"
+    },
+    "cook": {
+        "chi": "[動詞] 煮; [名詞] 廚師",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cook",
+        "count": "16"
+    },
+    "cookie": {
+        "chi": "[名詞] 餅乾",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cookie",
+        "count": "1"
+    },
+    "cool": {
+        "chi": "[形容詞] 涼快的;很棒的;酷",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cool",
+        "count": "15"
+    },
+    "copy": {
+        "chi": "[動詞] 拷貝;抄襲; [名詞] 拷貝;副本",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=copy",
+        "count": "9"
+    },
+    "corner": {
+        "chi": "[名詞] 角落",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=corner",
+        "count": "9"
+    },
+    "correct": {
+        "chi": "[形容詞] 正確的; [動詞] 改正;糾正",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=correct",
+        "count": "5"
+    },
+    "cost": {
+        "chi": "[動詞] 花費; [名詞] 費用;成本",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cost",
+        "count": "11"
+    },
+    "couch": {
+        "chi": "[名詞] 長沙發",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=couch",
+        "count": "2"
+    },
+    "couldn't": {
+        "chi": "[縮短形] could not",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=couldn%27t",
+        "count": "17"
+    },
+    "count": {
+        "chi": "[動詞] 計算;數; [名詞] 計數;計算",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=count",
+        "count": "7"
+    },
+    "country": {
+        "chi": "[名詞] 國家;鄉下",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=country",
+        "count": "32"
+    },
+    "course": {
+        "chi": "[名詞] 課程;科目",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=course",
+        "count": "14"
+    },
+    "cousin": {
+        "chi": "[名詞] 表(堂)兄弟姊妹",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cousin",
+        "count": "9"
+    },
+    "cover": {
+        "chi": "[動詞] 蓋住; [名詞] 封面",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cover",
+        "count": "7"
+    },
+    "cow": {
+        "chi": "[名詞] 母牛",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cow",
+        "count": "4"
+    },
+    "crazy": {
+        "chi": "[形容詞] 古怪的;著迷的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=crazy",
+        "count": "15"
+    },
+    "cross": {
+        "chi": "[動詞] 越過;渡過; [名詞] 十字架",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cross",
+        "count": "8"
+    },
+    "cry": {
+        "chi": "[動詞] 哭叫",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cry",
+        "count": "18"
+    },
+    "cup": {
+        "chi": "[名詞] 杯子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cup",
+        "count": "10"
+    },
+    "cut": {
+        "chi": "[動詞] 切割;剪",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cut",
+        "count": "8"
+    },
+    "cute": {
+        "chi": "[形容詞] 可愛的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=cute",
+        "count": "7"
+    },
+    "dad": {
+        "chi": "[名詞] 父親",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dad",
+        "count": "42"
+    },
+    "daddy": {
+        "chi": "[名詞] 父親",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=daddy",
+        "count": "4"
+    },
+    "dance": {
+        "chi": "[動詞] 跳舞; [名詞] 舞會",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dance",
+        "count": "20"
+    },
+    "dangerous": {
+        "chi": "[形容詞] 危險的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dangerous",
+        "count": "16"
+    },
+    "dark": {
+        "chi": "[形容詞] 黑暗的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dark",
+        "count": "13"
+    },
+    "date": {
+        "chi": "[動詞] 約會; [名詞] 日期",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=date",
+        "count": "14"
+    },
+    "daughter": {
+        "chi": "[名詞] 女兒",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=daughter",
+        "count": "17"
+    },
+    "day": {
+        "chi": "[名詞] 白天;日",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=day",
+        "count": "157"
+    },
+    "dead": {
+        "chi": "[形容詞] 死的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dead",
+        "count": "12"
+    },
+    "deal": {
+        "chi": "[動詞] 處理;對付;對待[(+with)]; [名詞] 交易",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=deal",
+        "count": "6"
+    },
+    "dear": {
+        "chi": "[形容詞] 親愛的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dear",
+        "count": "39"
+    },
+    "December": {
+        "chi": "[名詞] 十二月",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=December",
+        "count": "4"
+    },
+    "decide": {
+        "chi": "[動詞] 決定",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=decide",
+        "count": "30"
+    },
+    "define": {
+        "chi": "[動詞] 解釋,給...下定義",
+        "link": "None",
+        "count": "0"
+    },
+    "delicious": {
+        "chi": "[形容詞] 好吃的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=delicious",
+        "count": "22"
+    },
+    "dentist": {
+        "chi": "[名詞] 牙醫",
+        "link": "None",
+        "count": "0"
+    },
+    "department store": {
+        "chi": "[名詞] 百貨公司",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=department+store",
+        "count": "10"
+    },
+    "desk": {
+        "chi": "[名詞] 書桌",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=desk",
+        "count": "8"
+    },
+    "dictionary": {
+        "chi": "[名詞] 字典",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dictionary",
+        "count": "6"
+    },
+    "didn't": {
+        "chi": "[縮短形] did not",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=didn%27t",
+        "count": "42"
+    },
+    "die": {
+        "chi": "[動詞] 死; [名詞] 骰子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=die",
+        "count": "21"
+    },
+    "different": {
+        "chi": "[形容詞] 不同的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=different",
+        "count": "56"
+    },
+    "difficult": {
+        "chi": "[形容詞] 困難的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=difficult",
+        "count": "17"
+    },
+    "dig": {
+        "chi": "[動詞] 挖掘",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dig",
+        "count": "4"
+    },
+    "dining room": {
+        "chi": "[名詞] 飯廳",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dining+room",
+        "count": "1"
+    },
+    "dinner": {
+        "chi": "[名詞] 晚餐",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dinner",
+        "count": "32"
+    },
+    "dirty": {
+        "chi": "[形容詞] 骯髒的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dirty",
+        "count": "11"
+    },
+    "dish": {
+        "chi": "[名詞] 盤子;一盤菜",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dish",
+        "count": "12"
+    },
+    "do": {
+        "chi": "[動詞] 做; [助動詞] 構成否定句,疑問句,或強調句",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=do",
+        "count": "329"
+    },
+    "doctor": {
+        "chi": "[名詞] 醫生",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=doctor",
+        "count": "21"
+    },
+    "dodge ball": {
+        "chi": "[名詞] 躲避球遊戲",
+        "link": "None",
+        "count": "0"
+    },
+    "doesn't": {
+        "chi": "[縮短形] does not",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=doesn%27t",
+        "count": "22"
+    },
+    "dog": {
+        "chi": "[名詞] 狗",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dog",
+        "count": "28"
+    },
+    "doll": {
+        "chi": "[名詞] 洋娃娃",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=doll",
+        "count": "7"
+    },
+    "dollar": {
+        "chi": "[名詞] 美元",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dollar",
+        "count": "7"
+    },
+    "don't": {
+        "chi": "[縮短形] do not",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=don%27t",
+        "count": "105"
+    },
+    "door": {
+        "chi": "[名詞] 門",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=door",
+        "count": "14"
+    },
+    "dot": {
+        "chi": "[名詞] 點;小圓點",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dot",
+        "count": "1"
+    },
+    "down": {
+        "chi": "[介系詞] 向下",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=down",
+        "count": "36"
+    },
+    "download": {
+        "chi": "[動詞] （尤指從網際網路）下載; [名詞] 下載,下載資訊",
+        "link": "None",
+        "count": "0"
+    },
+    "dozen": {
+        "chi": "[名詞] 一打",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dozen",
+        "count": "1"
+    },
+    "Dr.": {
+        "chi": "[縮寫] 醫生",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Dr.",
+        "count": "4"
+    },
+    "dragon": {
+        "chi": "[名詞] 龍",
+        "link": "None",
+        "count": "0"
+    },
+    "draw": {
+        "chi": "[動詞] 畫;繪製;描寫; [名詞] 平局;平手",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=draw",
+        "count": "16"
+    },
+    "drawer": {
+        "chi": "[名詞] 抽屜",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=drawer",
+        "count": "3"
+    },
+    "dream": {
+        "chi": "[名詞] 夢",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dream",
+        "count": "22"
+    },
+    "dress": {
+        "chi": "[動詞] 穿著; [名詞] 洋裝",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dress",
+        "count": "11"
+    },
+    "drink": {
+        "chi": "[動詞] 喝; [名詞] 飲料",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=drink",
+        "count": "29"
+    },
+    "drive": {
+        "chi": "[動詞] 開車",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=drive",
+        "count": "18"
+    },
+    "driver": {
+        "chi": "[名詞] 司機",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=driver",
+        "count": "12"
+    },
+    "drop": {
+        "chi": "[動詞] (使)滴落;丟下",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=drop",
+        "count": "12"
+    },
+    "drum": {
+        "chi": "[名詞] 鼓",
+        "link": "None",
+        "count": "0"
+    },
+    "dry": {
+        "chi": "[形容詞] 乾的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=dry",
+        "count": "8"
+    },
+    "duck": {
+        "chi": "[名詞] 鴨",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=duck",
+        "count": "1"
+    },
+    "dumpling": {
+        "chi": "[名詞] 餃子",
+        "link": "None",
+        "count": "0"
+    },
+    "during": {
+        "chi": "[介系詞] 在…期間",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=during",
+        "count": "36"
+    },
+    "each": {
+        "chi": "[形容詞] 每個; [代名詞] 各個",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=each",
+        "count": "40"
+    },
+    "ear": {
+        "chi": "[名詞] 耳朵",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ear",
+        "count": "4"
+    },
+    "early": {
+        "chi": "[形容詞] 早的;提早的; [副詞] 早;提早",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=early",
+        "count": "26"
+    },
+    "earth": {
+        "chi": "[名詞] 地球;土地",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=earth",
+        "count": "5"
+    },
+    "earthquake": {
+        "chi": "[名詞] 地震",
+        "link": "None",
+        "count": "0"
+    },
+    "east": {
+        "chi": "[形容詞] 東方的; [副詞] 向東方; [名詞] 東方",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=east",
+        "count": "4"
+    },
+    "Easter": {
+        "chi": "[名詞] 復活節",
+        "link": "None",
+        "count": "0"
+    },
+    "easy": {
+        "chi": "[形容詞] 容易的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=easy",
+        "count": "37"
+    },
+    "eat": {
+        "chi": "[動詞] 吃",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=eat",
+        "count": "45"
+    },
+    "egg": {
+        "chi": "[名詞] 蛋",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=egg",
+        "count": "3"
+    },
+    "eight": {
+        "chi": "[形容詞] 八的; [名詞] 八",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=eight",
+        "count": "4"
+    },
+    "eighteen": {
+        "chi": "[形容詞] 十八的; [名詞] 十八",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=eighteen",
+        "count": "2"
+    },
+    "eighty": {
+        "chi": "[形容詞] 八十的; [名詞] 八十",
+        "link": "None",
+        "count": "0"
+    },
+    "either": {
+        "chi": "[形容詞] 兩者之一; [副詞] 也; [連接詞] 或者(和or連用); [代名詞] (兩者之中)任何一個",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=either",
+        "count": "9"
+    },
+    "elementary school": {
+        "chi": "[名詞] 小學",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=elementary+school",
+        "count": "6"
+    },
+    "elephant": {
+        "chi": "[名詞] 大象",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=elephant",
+        "count": "2"
+    },
+    "eleven": {
+        "chi": "[形容詞] 十一的; [名詞] 十一",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=eleven",
+        "count": "4"
+    },
+    "else": {
+        "chi": "[形容詞] 其他的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=else",
+        "count": "12"
+    },
+    "email": {
+        "chi": "[名詞] 電子郵件",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=email",
+        "count": "1"
+    },
+    "e-mail": {
+        "chi": "[名詞] 電子郵件",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=e-mail",
+        "count": "5"
+    },
+    "end": {
+        "chi": "[動詞] 結束; [名詞] 盡頭;結局",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=end",
+        "count": "29"
+    },
+    "engineer": {
+        "chi": "[名詞] 工程師",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=engineer",
+        "count": "1"
+    },
+    "English": {
+        "chi": "[名詞] 英語",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=English",
+        "count": "30"
+    },
+    "enjoy": {
+        "chi": "[動詞] 喜歡;享受",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=enjoy",
+        "count": "76"
+    },
+    "enough": {
+        "chi": "[形容詞] 足夠的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=enough",
+        "count": "35"
+    },
+    "enter": {
+        "chi": "[動詞] 輸入;進入",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=enter",
+        "count": "13"
+    },
+    "envelope": {
+        "chi": "[名詞] 信封",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=envelope",
+        "count": "3"
+    },
+    "eraser": {
+        "chi": "[名詞] 橡皮擦",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=eraser",
+        "count": "4"
+    },
+    "eve": {
+        "chi": "[名詞] 前夕",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=eve",
+        "count": "4"
+    },
+    "even": {
+        "chi": "[形容詞] 均勻的;偶數的;平手的; [副詞] 即使",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=even",
+        "count": "84"
+    },
+    "ever": {
+        "chi": "[副詞] 從來;曾經",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ever",
+        "count": "22"
+    },
+    "every": {
+        "chi": "[形容詞] 每一個的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=every",
+        "count": "87"
+    },
+    "everybody": {
+        "chi": "[代名詞] 每個人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=everybody",
+        "count": "4"
+    },
+    "everyone": {
+        "chi": "[代名詞] 每個人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=everyone",
+        "count": "33"
+    },
+    "everything": {
+        "chi": "[代名詞] 每樣事物;重於一切",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=everything",
+        "count": "23"
+    },
+    "example": {
+        "chi": "[名詞] 例子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=example",
+        "count": "27"
+    },
+    "excellent": {
+        "chi": "[形容詞] 非常好的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=excellent",
+        "count": "5"
+    },
+    "except": {
+        "chi": "[介系詞] 除…之外",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=except",
+        "count": "10"
+    },
+    "excited": {
+        "chi": "[形容詞] 感到興奮的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=excited",
+        "count": "16"
+    },
+    "exciting": {
+        "chi": "[形容詞] 令人興奮的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=exciting",
+        "count": "17"
+    },
+    "excuse": {
+        "chi": "[動詞] 原諒;借光; [名詞] 藉口",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=excuse",
+        "count": "15"
+    },
+    "exercise": {
+        "chi": "[名詞] 運動;習題",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=exercise",
+        "count": "16"
+    },
+    "expensive": {
+        "chi": "[形容詞] 貴的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=expensive",
+        "count": "13"
+    },
+    "experience": {
+        "chi": "[動詞] 經歷;感受到; [名詞] 經驗",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=experience",
+        "count": "27"
+    },
+    "eye": {
+        "chi": "[名詞] 眼睛",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=eye",
+        "count": "21"
+    },
+    "face": {
+        "chi": "[名詞] 臉",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=face",
+        "count": "23"
+    },
+    "fact": {
+        "chi": "[名詞] 事實",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fact",
+        "count": "30"
+    },
+    "factory": {
+        "chi": "[名詞] 工廠",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=factory",
+        "count": "10"
+    },
+    "fail": {
+        "chi": "[動詞] 失敗;不及格",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fail",
+        "count": "4"
+    },
+    "fall": {
+        "chi": "[動詞] 掉下; [名詞] 秋天;秋季",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fall",
+        "count": "21"
+    },
+    "family": {
+        "chi": "[名詞] 家庭",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=family",
+        "count": "62"
+    },
+    "famous": {
+        "chi": "[形容詞] 著名的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=famous",
+        "count": "35"
+    },
+    "fan": {
+        "chi": "[名詞] 電風扇;迷友;熱烈崇拜者",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fan",
+        "count": "20"
+    },
+    "far": {
+        "chi": "[形容詞] 遠的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=far",
+        "count": "10"
+    },
+    "farm": {
+        "chi": "[動詞] 耕作;養殖;經營農場;從事畜牧業; [名詞] 農場",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=farm",
+        "count": "14"
+    },
+    "farmer": {
+        "chi": "[名詞] 農夫",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=farmer",
+        "count": "8"
+    },
+    "fast": {
+        "chi": "[形容詞] 快的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fast",
+        "count": "19"
+    },
+    "fat": {
+        "chi": "[形容詞] 胖的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fat",
+        "count": "2"
+    },
+    "father": {
+        "chi": "[名詞] 父親",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=father",
+        "count": "22"
+    },
+    "favorite": {
+        "chi": "[形容詞] 最喜愛的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=favorite",
+        "count": "25"
+    },
+    "February": {
+        "chi": "[名詞] 二月",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=February",
+        "count": "4"
+    },
+    "feed": {
+        "chi": "[動詞] 吃;餵養",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=feed",
+        "count": "2"
+    },
+    "feel": {
+        "chi": "[動詞] 感覺",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=feel",
+        "count": "69"
+    },
+    "festival": {
+        "chi": "[名詞] 節日",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=festival",
+        "count": "9"
+    },
+    "fever": {
+        "chi": "[名詞] 發燒",
+        "link": "None",
+        "count": "0"
+    },
+    "few": {
+        "chi": "[形容詞] 少數的;一些; [代名詞] (與a或the連用)一些",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=few",
+        "count": "32"
+    },
+    "fifteen": {
+        "chi": "[形容詞] 十五的; [名詞] 十五",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fifteen",
+        "count": "4"
+    },
+    "fifty": {
+        "chi": "[形容詞] 五十的; [名詞] 五十",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fifty",
+        "count": "3"
+    },
+    "fight": {
+        "chi": "[動詞] 打架;作戰; [名詞] 打架;戰鬥",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fight",
+        "count": "7"
+    },
+    "file": {
+        "chi": "[動詞] 把...歸檔; [名詞] 檔案,案卷",
+        "link": "None",
+        "count": "0"
+    },
+    "fill": {
+        "chi": "[動詞] 充滿;填充",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fill",
+        "count": "8"
+    },
+    "find": {
+        "chi": "[動詞] 找到",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=find",
+        "count": "76"
+    },
+    "fine": {
+        "chi": "[形容詞] 好的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fine",
+        "count": "10"
+    },
+    "finger": {
+        "chi": "[名詞] 手指",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=finger",
+        "count": "2"
+    },
+    "finish": {
+        "chi": "[動詞] 完成",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=finish",
+        "count": "19"
+    },
+    "fire": {
+        "chi": "[名詞] 火",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fire",
+        "count": "8"
+    },
+    "first": {
+        "chi": "[形容詞] 第一的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=first",
+        "count": "85"
+    },
+    "fish": {
+        "chi": "[動詞] 釣魚; [名詞] 魚",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fish",
+        "count": "29"
+    },
+    "fisherman": {
+        "chi": "[名詞] 漁夫",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fisherman",
+        "count": "1"
+    },
+    "five": {
+        "chi": "[形容詞] 五的; [名詞] 五",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=five",
+        "count": "36"
+    },
+    "fix": {
+        "chi": "[動詞] 修理",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fix",
+        "count": "7"
+    },
+    "floor": {
+        "chi": "[名詞] 地板;樓;室內地上",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=floor",
+        "count": "9"
+    },
+    "flower": {
+        "chi": "[名詞] 花",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=flower",
+        "count": "32"
+    },
+    "flute": {
+        "chi": "[名詞] 橫笛",
+        "link": "None",
+        "count": "0"
+    },
+    "fly": {
+        "chi": "[動詞] 飛; [名詞] 蒼蠅",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fly",
+        "count": "20"
+    },
+    "follow": {
+        "chi": "[動詞] 遵循;跟隨",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=follow",
+        "count": "22"
+    },
+    "food": {
+        "chi": "[名詞] 食物",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=food",
+        "count": "57"
+    },
+    "foot": {
+        "chi": "[名詞] 腳;英尺",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=foot",
+        "count": "9"
+    },
+    "for": {
+        "chi": "[介系詞] 為…做的;給;計;關於; [連接詞] 因為,由於",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=for",
+        "count": "359"
+    },
+    "foreign": {
+        "chi": "[形容詞] 外國的,陌生的,外來的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=foreign",
+        "count": "20"
+    },
+    "foreigner": {
+        "chi": "[名詞] 外國人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=foreigner",
+        "count": "1"
+    },
+    "forget": {
+        "chi": "[動詞] 忘記",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=forget",
+        "count": "47"
+    },
+    "fork": {
+        "chi": "[名詞] 叉子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fork",
+        "count": "2"
+    },
+    "forty": {
+        "chi": "[形容詞] 四十的; [名詞] 四十",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=forty",
+        "count": "1"
+    },
+    "four": {
+        "chi": "[形容詞] 四的; [名詞] 四",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=four",
+        "count": "31"
+    },
+    "fourteen": {
+        "chi": "[形容詞] 十四的; [名詞] 十四",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fourteen",
+        "count": "1"
+    },
+    "fox": {
+        "chi": "[名詞] 狐狸",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fox",
+        "count": "1"
+    },
+    "free": {
+        "chi": "[形容詞] 空閒的;自由的;免費的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=free",
+        "count": "30"
+    },
+    "French": {
+        "chi": "[形容詞] 法國的;法語的; [名詞] 法國人;法語",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=French",
+        "count": "6"
+    },
+    "French fries": {
+        "chi": "[名詞] 薯條",
+        "link": "None",
+        "count": "0"
+    },
+    "fresh": {
+        "chi": "[形容詞] 新鮮的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fresh",
+        "count": "15"
+    },
+    "Friday": {
+        "chi": "[名詞] 星期五",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Friday",
+        "count": "19"
+    },
+    "fridge": {
+        "chi": "[名詞] 電冰箱",
+        "link": "None",
+        "count": "0"
+    },
+    "friend": {
+        "chi": "[名詞] 朋友",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=friend",
+        "count": "81"
+    },
+    "friendly": {
+        "chi": "[形容詞] 友善的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=friendly",
+        "count": "15"
+    },
+    "frisbee": {
+        "chi": "[名詞] (投擲遊戲用的)飛碟;飛盤",
+        "link": "None",
+        "count": "0"
+    },
+    "frog": {
+        "chi": "[名詞] 青蛙",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=frog",
+        "count": "2"
+    },
+    "from": {
+        "chi": "[介系詞] 從",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=from",
+        "count": "178"
+    },
+    "front": {
+        "chi": "[名詞] 前方",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=front",
+        "count": "17"
+    },
+    "fruit": {
+        "chi": "[名詞] 水果",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fruit",
+        "count": "8"
+    },
+    "fry": {
+        "chi": "[動詞] 油炸; [名詞] 炸薯條",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fry",
+        "count": "4"
+    },
+    "full": {
+        "chi": "[形容詞] 飽的;滿的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=full",
+        "count": "18"
+    },
+    "fun": {
+        "chi": "[名詞] 樂趣",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=fun",
+        "count": "38"
+    },
+    "funny": {
+        "chi": "[形容詞] 可笑的;滑稽的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=funny",
+        "count": "11"
+    },
+    "future": {
+        "chi": "[名詞] 未來",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=future",
+        "count": "16"
+    },
+    "game": {
+        "chi": "[名詞] 比賽;遊戲",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=game",
+        "count": "40"
+    },
+    "garbage": {
+        "chi": "[名詞] 垃圾",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=garbage",
+        "count": "12"
+    },
+    "garden": {
+        "chi": "[名詞] 花園",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=garden",
+        "count": "18"
+    },
+    "gas": {
+        "chi": "[名詞] 瓦斯;汽油",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=gas",
+        "count": "2"
+    },
+    "gate": {
+        "chi": "[名詞] 柵門;登機門",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=gate",
+        "count": "3"
+    },
+    "get": {
+        "chi": "[動詞] 得到;拿到",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=get",
+        "count": "204"
+    },
+    "ghost": {
+        "chi": "[名詞] 鬼",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ghost",
+        "count": "1"
+    },
+    "giant": {
+        "chi": "[形容詞] 巨大的; [名詞] 巨人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=giant",
+        "count": "2"
+    },
+    "gift": {
+        "chi": "[名詞] 禮物",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=gift",
+        "count": "10"
+    },
+    "girl": {
+        "chi": "[名詞] 女孩",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=girl",
+        "count": "36"
+    },
+    "give": {
+        "chi": "[動詞] 給",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=give",
+        "count": "83"
+    },
+    "glad": {
+        "chi": "[形容詞] 高興的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=glad",
+        "count": "8"
+    },
+    "glass": {
+        "chi": "[名詞] 玻璃杯;玻璃",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=glass",
+        "count": "4"
+    },
+    "glasses": {
+        "chi": "[名詞] 眼鏡",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=glasses",
+        "count": "2"
+    },
+    "glove": {
+        "chi": "[名詞] 手套",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=glove",
+        "count": "5"
+    },
+    "glue": {
+        "chi": "[動詞] 黏住;緊附; [名詞] 膠;膠水",
+        "link": "None",
+        "count": "0"
+    },
+    "go": {
+        "chi": "[動詞] 去;走",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=go",
+        "count": "181"
+    },
+    "goat": {
+        "chi": "[名詞] 山羊",
+        "link": "None",
+        "count": "0"
+    },
+    "good": {
+        "chi": "[形容詞] 好的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=good",
+        "count": "117"
+    },
+    "goodbye": {
+        "chi": "[感歎詞] 再見;再會",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=goodbye",
+        "count": "5"
+    },
+    "good-bye": {
+        "chi": "[感歎詞] 再見;再會; [名詞] 告別",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=good-bye",
+        "count": "2"
+    },
+    "goose": {
+        "chi": "[名詞] 鵝",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=goose",
+        "count": "1"
+    },
+    "grade": {
+        "chi": "[名詞] 年級;分數",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=grade",
+        "count": "11"
+    },
+    "gram": {
+        "chi": "[名詞] 公克",
+        "link": "None",
+        "count": "0"
+    },
+    "grandfather": {
+        "chi": "[名詞] 祖父;外祖父",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=grandfather",
+        "count": "5"
+    },
+    "grandma": {
+        "chi": "[名詞] 祖母;外祖母",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=grandma",
+        "count": "5"
+    },
+    "grandmother": {
+        "chi": "[名詞] 祖母;外祖母",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=grandmother",
+        "count": "2"
+    },
+    "grandpa": {
+        "chi": "[名詞] 祖父;外祖父",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=grandpa",
+        "count": "8"
+    },
+    "grape": {
+        "chi": "[名詞] 葡萄",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=grape",
+        "count": "3"
+    },
+    "grass": {
+        "chi": "[名詞] 草",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=grass",
+        "count": "6"
+    },
+    "gray": {
+        "chi": "[形容詞] 灰色的; [名詞] 灰色",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=gray",
+        "count": "5"
+    },
+    "great": {
+        "chi": "[形容詞] 很棒;大的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=great",
+        "count": "56"
+    },
+    "green": {
+        "chi": "[形容詞] 綠色的; [名詞] 綠色",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=green",
+        "count": "19"
+    },
+    "ground": {
+        "chi": "[名詞] 地面",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ground",
+        "count": "6"
+    },
+    "group": {
+        "chi": "[名詞] 一群",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=group",
+        "count": "12"
+    },
+    "grow": {
+        "chi": "[動詞] 種植;成長",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=grow",
+        "count": "31"
+    },
+    "guava": {
+        "chi": "[名詞] 番石榴",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=guava",
+        "count": "2"
+    },
+    "guess": {
+        "chi": "[動詞] 猜; [名詞] 猜測",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=guess",
+        "count": "13"
+    },
+    "guitar": {
+        "chi": "[名詞] 吉他",
+        "link": "None",
+        "count": "0"
+    },
+    "guy": {
+        "chi": "[名詞] 傢伙;人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=guy",
+        "count": "7"
+    },
+    "gym": {
+        "chi": "[名詞] 體育館;體育;體操",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=gym",
+        "count": "7"
+    },
+    "habit": {
+        "chi": "[名詞] 習慣",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=habit",
+        "count": "5"
+    },
+    "hadn't": {
+        "chi": "[縮短形] had not",
+        "link": "None",
+        "count": "0"
+    },
+    "hair": {
+        "chi": "[名詞] 頭髮",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hair",
+        "count": "14"
+    },
+    "half": {
+        "chi": "[名詞] 一半",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=half",
+        "count": "12"
+    },
+    "Halloween": {
+        "chi": "[名詞] 萬聖節",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Halloween",
+        "count": "2"
+    },
+    "ham": {
+        "chi": "[名詞] 火腿",
+        "link": "None",
+        "count": "0"
+    },
+    "hamburger": {
+        "chi": "[名詞] 漢堡",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hamburger",
+        "count": "6"
+    },
+    "hand": {
+        "chi": "[動詞] 面交,給,傳遞; [名詞] 手",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hand",
+        "count": "14"
+    },
+    "handsome": {
+        "chi": "[形容詞] 英俊的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=handsome",
+        "count": "6"
+    },
+    "hang": {
+        "chi": "[動詞] 把…掛起;吊",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hang",
+        "count": "3"
+    },
+    "happen": {
+        "chi": "[動詞] 發生",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=happen",
+        "count": "28"
+    },
+    "happy": {
+        "chi": "[形容詞] 快樂的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=happy",
+        "count": "53"
+    },
+    "hard": {
+        "chi": "[形容詞] 硬的;難的; [副詞] 辛苦地;猛烈地;牢固地",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hard",
+        "count": "43"
+    },
+    "hard-working": {
+        "chi": "[形容詞] 勤勉的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hard-working",
+        "count": "1"
+    },
+    "hasn't": {
+        "chi": "[縮短形] has not",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hasn%27t",
+        "count": "5"
+    },
+    "hat": {
+        "chi": "[名詞] 帽子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hat",
+        "count": "13"
+    },
+    "hate": {
+        "chi": "[動詞] 憎恨",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hate",
+        "count": "25"
+    },
+    "have": {
+        "chi": "[動詞] 有; [助動詞] 已經",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=have",
+        "count": "411"
+    },
+    "haven't": {
+        "chi": "[縮短形] have not",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=haven%27t",
+        "count": "9"
+    },
+    "he": {
+        "chi": "[代名詞] 他",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=he",
+        "count": "175"
+    },
+    "head": {
+        "chi": "[名詞] 頭;首長",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=head",
+        "count": "15"
+    },
+    "headache": {
+        "chi": "[名詞] 頭痛",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=headache",
+        "count": "5"
+    },
+    "health": {
+        "chi": "[名詞] 健康",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=health",
+        "count": "14"
+    },
+    "healthy": {
+        "chi": "[形容詞] 健康的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=healthy",
+        "count": "4"
+    },
+    "hear": {
+        "chi": "[動詞] 聽見",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hear",
+        "count": "42"
+    },
+    "heart": {
+        "chi": "[名詞] 心臟",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=heart",
+        "count": "18"
+    },
+    "heat": {
+        "chi": "[名詞] 熱氣",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=heat",
+        "count": "8"
+    },
+    "heavy": {
+        "chi": "[形容詞] 重的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=heavy",
+        "count": "26"
+    },
+    "he'd": {
+        "chi": "[縮短形] he had; he would",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=he%27d",
+        "count": "2"
+    },
+    "he'll": {
+        "chi": "[縮短形] he will",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=he%27ll",
+        "count": "3"
+    },
+    "hello": {
+        "chi": "[感歎詞] 哈囉",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hello",
+        "count": "5"
+    },
+    "help": {
+        "chi": "[動詞] 幫忙",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=help",
+        "count": "90"
+    },
+    "helpful": {
+        "chi": "[形容詞] 有益的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=helpful",
+        "count": "5"
+    },
+    "hen": {
+        "chi": "[名詞] 母雞",
+        "link": "None",
+        "count": "0"
+    },
+    "her": {
+        "chi": "[代名詞] (受格) 她; (所有格) 她的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=her",
+        "count": "153"
+    },
+    "here": {
+        "chi": "[副詞] 在這裡",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=here",
+        "count": "88"
+    },
+    "hers": {
+        "chi": "[代名詞] (所有格) 她的(東西)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hers",
+        "count": "2"
+    },
+    "herself": {
+        "chi": "[代名詞] (反身代名詞)   她自己",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=herself",
+        "count": "12"
+    },
+    "he's": {
+        "chi": "[縮短形] he is; he has",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=he%27s",
+        "count": "18"
+    },
+    "hey": {
+        "chi": "[感歎詞] 嗨;喂",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hey",
+        "count": "13"
+    },
+    "hi": {
+        "chi": "[感歎詞] 嗨",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hi",
+        "count": "13"
+    },
+    "hide": {
+        "chi": "[動詞] 躲;隱藏",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hide",
+        "count": "6"
+    },
+    "high": {
+        "chi": "[形容詞] 高的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=high",
+        "count": "32"
+    },
+    "hike": {
+        "chi": "[動詞] 徒步旅行; [名詞] 徒步旅行",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hike",
+        "count": "1"
+    },
+    "hill": {
+        "chi": "[名詞] 丘陵",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hill",
+        "count": "5"
+    },
+    "him": {
+        "chi": "[代名詞] (受格) 他",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=him",
+        "count": "89"
+    },
+    "himself": {
+        "chi": "[代名詞] (反身代名詞)   他自己",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=himself",
+        "count": "11"
+    },
+    "hippo": {
+        "chi": "[名詞] 河馬",
+        "link": "None",
+        "count": "0"
+    },
+    "his": {
+        "chi": "[代名詞] (所有格) 他的;  他的(東西)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=his",
+        "count": "142"
+    },
+    "history": {
+        "chi": "[名詞] 歷史",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=history",
+        "count": "26"
+    },
+    "hit": {
+        "chi": "[動詞] 打;擊",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hit",
+        "count": "17"
+    },
+    "hobby": {
+        "chi": "[名詞] 嗜好",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hobby",
+        "count": "7"
+    },
+    "hold": {
+        "chi": "[動詞] 拿著",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hold",
+        "count": "6"
+    },
+    "holiday": {
+        "chi": "[名詞] 假日",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=holiday",
+        "count": "12"
+    },
+    "home": {
+        "chi": "[名詞] 家",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=home",
+        "count": "73"
+    },
+    "homework": {
+        "chi": "[名詞] 家庭作業",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=homework",
+        "count": "19"
+    },
+    "honest": {
+        "chi": "[形容詞] 誠實的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=honest",
+        "count": "13"
+    },
+    "honey": {
+        "chi": "[名詞] 蜂蜜;心愛的人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=honey",
+        "count": "1"
+    },
+    "hop": {
+        "chi": "[動詞] 單足跳",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hop",
+        "count": "2"
+    },
+    "hope": {
+        "chi": "[動詞] 希望",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hope",
+        "count": "41"
+    },
+    "horse": {
+        "chi": "[名詞] 馬",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=horse",
+        "count": "3"
+    },
+    "hospital": {
+        "chi": "[名詞] 醫院",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hospital",
+        "count": "18"
+    },
+    "hot": {
+        "chi": "[形容詞] 熱的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hot",
+        "count": "26"
+    },
+    "hot dog": {
+        "chi": "[名詞] 熱狗",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hot+dog",
+        "count": "2"
+    },
+    "hotel": {
+        "chi": "[名詞] 旅館",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hotel",
+        "count": "7"
+    },
+    "hour": {
+        "chi": "[名詞] 小時",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hour",
+        "count": "50"
+    },
+    "house": {
+        "chi": "[名詞] 房子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=house",
+        "count": "76"
+    },
+    "housewife": {
+        "chi": "[名詞] 家庭主婦",
+        "link": "None",
+        "count": "0"
+    },
+    "how": {
+        "chi": "[副詞] 如何",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=how",
+        "count": "142"
+    },
+    "however": {
+        "chi": "[副詞] 無論如何,不管怎樣; [連接詞] 然而;不過",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=however",
+        "count": "17"
+    },
+    "how's": {
+        "chi": "[縮短形] how is",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=how%27s",
+        "count": "2"
+    },
+    "hundred": {
+        "chi": "[形容詞] 一百的; [名詞] 一百",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hundred",
+        "count": "9"
+    },
+    "hungry": {
+        "chi": "[形容詞] 飢餓的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hungry",
+        "count": "15"
+    },
+    "hunt": {
+        "chi": "[動詞] 追獵",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hunt",
+        "count": "3"
+    },
+    "hurry": {
+        "chi": "[動詞] 趕快; [名詞] 匆忙",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hurry",
+        "count": "10"
+    },
+    "hurt": {
+        "chi": "[動詞] 傷害;使疼痛",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=hurt",
+        "count": "26"
+    },
+    "husband": {
+        "chi": "[名詞] 丈夫",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=husband",
+        "count": "7"
+    },
+    "I": {
+        "chi": "[代名詞] 我",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=I",
+        "count": "346"
+    },
+    "ice": {
+        "chi": "[名詞] 冰",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ice",
+        "count": "12"
+    },
+    "ice cream": {
+        "chi": "[名詞] 冰淇淋",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ice+cream",
+        "count": "4"
+    },
+    "I'd": {
+        "chi": "[縮短形] I had; I would",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=I%27d",
+        "count": "14"
+    },
+    "idea": {
+        "chi": "[名詞] 主意",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=idea",
+        "count": "51"
+    },
+    "if": {
+        "chi": "[連接詞] 如果",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=if",
+        "count": "134"
+    },
+    "I'll": {
+        "chi": "[縮短形] I shall, I will",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=I%27ll",
+        "count": "34"
+    },
+    "I'm": {
+        "chi": "[縮短形] I am",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=I%27m",
+        "count": "99"
+    },
+    "important": {
+        "chi": "[形容詞] 重要的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=important",
+        "count": "49"
+    },
+    "in": {
+        "chi": "[介系詞] 在…之內",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=in",
+        "count": "433"
+    },
+    "inch": {
+        "chi": "[名詞] 英吋",
+        "link": "None",
+        "count": "0"
+    },
+    "insect": {
+        "chi": "[名詞] 昆蟲",
+        "link": "None",
+        "count": "0"
+    },
+    "inside": {
+        "chi": "[介系詞] 在…裡面",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=inside",
+        "count": "12"
+    },
+    "interest": {
+        "chi": "[名詞] 興趣",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=interest",
+        "count": "11"
+    },
+    "interested": {
+        "chi": "[形容詞] 感興趣的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=interested",
+        "count": "22"
+    },
+    "interesting": {
+        "chi": "[形容詞] 有趣的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=interesting",
+        "count": "23"
+    },
+    "Internet": {
+        "chi": "[名詞] 網際網路",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Internet",
+        "count": "12"
+    },
+    "interview": {
+        "chi": "[動詞] 面談;採訪; [名詞] 面談;採訪",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=interview",
+        "count": "9"
+    },
+    "into": {
+        "chi": "[介系詞] 進入",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=into",
+        "count": "49"
+    },
+    "invite": {
+        "chi": "[動詞] 邀請",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=invite",
+        "count": "18"
+    },
+    "is": {
+        "chi": "[動詞] 是,在;  be 動詞第三人稱,單數,現在式",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=is",
+        "count": "464"
+    },
+    "island": {
+        "chi": "[名詞] 島嶼",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=island",
+        "count": "10"
+    },
+    "isn't": {
+        "chi": "[縮短形] is not",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=isn%27t",
+        "count": "12"
+    },
+    "it": {
+        "chi": "[代名詞] 它",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=it",
+        "count": "341"
+    },
+    "item": {
+        "chi": "[名詞] 項目;品目",
+        "link": "None",
+        "count": "0"
+    },
+    "it'll": {
+        "chi": "[縮短形] it will",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=it%27ll",
+        "count": "3"
+    },
+    "its": {
+        "chi": "[代名詞] (所有格) 它的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=its",
+        "count": "30"
+    },
+    "it's": {
+        "chi": "[縮短形] it is; it has",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=it%27s",
+        "count": "106"
+    },
+    "itself": {
+        "chi": "[代名詞] (反身代名詞)   它自己",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=itself",
+        "count": "6"
+    },
+    "I've": {
+        "chi": "[縮短形] I have",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=I%27ve",
+        "count": "32"
+    },
+    "jacket": {
+        "chi": "[名詞] 夾克;外套",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=jacket",
+        "count": "13"
+    },
+    "January": {
+        "chi": "[名詞] 一月",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=January",
+        "count": "3"
+    },
+    "jeans": {
+        "chi": "[名詞] 牛仔褲",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=jeans",
+        "count": "3"
+    },
+    "job": {
+        "chi": "[名詞] 職業;工作",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=job",
+        "count": "33"
+    },
+    "jog": {
+        "chi": "[動詞] 慢跑",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=jog",
+        "count": "7"
+    },
+    "join": {
+        "chi": "[動詞] 加入",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=join",
+        "count": "24"
+    },
+    "joy": {
+        "chi": "[名詞] 歡喜;樂趣",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=joy",
+        "count": "10"
+    },
+    "juice": {
+        "chi": "[名詞] 果汁",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=juice",
+        "count": "3"
+    },
+    "July": {
+        "chi": "[名詞] 七月",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=July",
+        "count": "10"
+    },
+    "jump": {
+        "chi": "[動詞] 跳躍",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=jump",
+        "count": "12"
+    },
+    "June": {
+        "chi": "[名詞] 六月",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=June",
+        "count": "12"
+    },
+    "junior high school": {
+        "chi": "[片語] 初級中學",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=junior+high+school",
+        "count": "7"
+    },
+    "just": {
+        "chi": "[副詞] 正好;剛才",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=just",
+        "count": "101"
+    },
+    "kangaroo": {
+        "chi": "[名詞] 袋鼠",
+        "link": "None",
+        "count": "0"
+    },
+    "keep": {
+        "chi": "[動詞] 保留;保持",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=keep",
+        "count": "55"
+    },
+    "key": {
+        "chi": "[名詞] 鑰匙",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=key",
+        "count": "6"
+    },
+    "kick": {
+        "chi": "[動詞] 踢",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=kick",
+        "count": "3"
+    },
+    "kid": {
+        "chi": "[動詞] 戲弄; [名詞] 小孩",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=kid",
+        "count": "16"
+    },
+    "kill": {
+        "chi": "[動詞] 殺",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=kill",
+        "count": "11"
+    },
+    "kilogram": {
+        "chi": "[名詞] 公斤",
+        "link": "None",
+        "count": "0"
+    },
+    "kind": {
+        "chi": "[形容詞] 仁慈的; [名詞] 種類",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=kind",
+        "count": "32"
+    },
+    "king": {
+        "chi": "[名詞] 國王",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=king",
+        "count": "6"
+    },
+    "kiss": {
+        "chi": "[動詞] 親吻; [名詞] 吻",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=kiss",
+        "count": "1"
+    },
+    "kitchen": {
+        "chi": "[名詞] 廚房",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=kitchen",
+        "count": "15"
+    },
+    "kite": {
+        "chi": "[名詞] 風箏",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=kite",
+        "count": "1"
+    },
+    "knee": {
+        "chi": "[名詞] 膝蓋",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=knee",
+        "count": "1"
+    },
+    "knife": {
+        "chi": "[名詞] 刀子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=knife",
+        "count": "5"
+    },
+    "knock": {
+        "chi": "[動詞] 敲",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=knock",
+        "count": "6"
+    },
+    "know": {
+        "chi": "[動詞] 知道",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=know",
+        "count": "129"
+    },
+    "knowledge": {
+        "chi": "[名詞] 學問;知識",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=knowledge",
+        "count": "6"
+    },
+    "koala": {
+        "chi": "[名詞] 澳洲產無尾熊",
+        "link": "None",
+        "count": "0"
+    },
+    "lake": {
+        "chi": "[名詞] 湖",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lake",
+        "count": "6"
+    },
+    "lamp": {
+        "chi": "[名詞] 燈",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lamp",
+        "count": "4"
+    },
+    "land": {
+        "chi": "[動詞] 登陸; [名詞] 陸地",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=land",
+        "count": "10"
+    },
+    "language": {
+        "chi": "[名詞] 語言",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=language",
+        "count": "26"
+    },
+    "lantern": {
+        "chi": "[名詞] 燈籠",
+        "link": "None",
+        "count": "0"
+    },
+    "large": {
+        "chi": "[形容詞] 大的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=large",
+        "count": "12"
+    },
+    "last": {
+        "chi": "[形容詞] 最後的; [動詞] 持續; [副詞] 最後地",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=last",
+        "count": "88"
+    },
+    "late": {
+        "chi": "[形容詞] 晚的;遲的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=late",
+        "count": "55"
+    },
+    "laugh": {
+        "chi": "[動詞] 笑",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=laugh",
+        "count": "8"
+    },
+    "lawyer": {
+        "chi": "[名詞] 律師",
+        "link": "None",
+        "count": "0"
+    },
+    "lazy": {
+        "chi": "[形容詞] 懶惰的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lazy",
+        "count": "6"
+    },
+    "lead": {
+        "chi": "[動詞] 引導",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lead",
+        "count": "3"
+    },
+    "leader": {
+        "chi": "[名詞] 領袖",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=leader",
+        "count": "3"
+    },
+    "learn": {
+        "chi": "[動詞] 學習",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=learn",
+        "count": "65"
+    },
+    "least": {
+        "chi": "[名詞] 最少",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=least",
+        "count": "10"
+    },
+    "leave": {
+        "chi": "[動詞] 離開;丟下",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=leave",
+        "count": "23"
+    },
+    "left": {
+        "chi": "[形容詞] 左邊的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=left",
+        "count": "26"
+    },
+    "leg": {
+        "chi": "[名詞] 腿",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=leg",
+        "count": "11"
+    },
+    "lemon": {
+        "chi": "[名詞] 檸檬",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lemon",
+        "count": "2"
+    },
+    "lend": {
+        "chi": "[動詞] 出借",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lend",
+        "count": "7"
+    },
+    "less": {
+        "chi": "[形容詞] 較少的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=less",
+        "count": "16"
+    },
+    "lesson": {
+        "chi": "[名詞] 課;教訓",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lesson",
+        "count": "17"
+    },
+    "let": {
+        "chi": "[動詞] 讓",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=let",
+        "count": "25"
+    },
+    "let's": {
+        "chi": "[縮短形] let us",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=let%27s",
+        "count": "29"
+    },
+    "letter": {
+        "chi": "[名詞] 信;字母",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=letter",
+        "count": "27"
+    },
+    "lettuce": {
+        "chi": "[名詞] 類似萵苣的生菜",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lettuce",
+        "count": "1"
+    },
+    "library": {
+        "chi": "[名詞] 圖書館",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=library",
+        "count": "13"
+    },
+    "lid": {
+        "chi": "[名詞] 蓋子",
+        "link": "None",
+        "count": "0"
+    },
+    "lie": {
+        "chi": "[動詞] 說謊;躺; [名詞] 謊言",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lie",
+        "count": "7"
+    },
+    "life": {
+        "chi": "[名詞] 人生;生命",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=life",
+        "count": "73"
+    },
+    "light": {
+        "chi": "[形容詞] 輕的; [名詞] 光線;燈",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=light",
+        "count": "19"
+    },
+    "like": {
+        "chi": "[動詞] 喜歡; [介系詞] 像;如",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=like",
+        "count": "158"
+    },
+    "line": {
+        "chi": "[動詞] 排隊; [名詞] 線;隊伍",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=line",
+        "count": "15"
+    },
+    "lion": {
+        "chi": "[名詞] 獅子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lion",
+        "count": "4"
+    },
+    "lip": {
+        "chi": "[名詞] 嘴唇",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lip",
+        "count": "4"
+    },
+    "list": {
+        "chi": "[動詞] 列成表; [名詞] 單子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=list",
+        "count": "9"
+    },
+    "listen": {
+        "chi": "[動詞] 傾聽",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=listen",
+        "count": "19"
+    },
+    "little": {
+        "chi": "[形容詞] 很少的; [副詞] 一點點",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=little",
+        "count": "63"
+    },
+    "live": {
+        "chi": "[動詞] 居住",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=live",
+        "count": "56"
+    },
+    "living room": {
+        "chi": "[名詞] 客廳",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=living+room",
+        "count": "12"
+    },
+    "lonely": {
+        "chi": "[形容詞] 寂寞的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lonely",
+        "count": "5"
+    },
+    "long": {
+        "chi": "[形容詞] 長的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=long",
+        "count": "56"
+    },
+    "look": {
+        "chi": "[動詞] 看",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=look",
+        "count": "147"
+    },
+    "lose": {
+        "chi": "[動詞] 輸;失去",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lose",
+        "count": "19"
+    },
+    "lot": {
+        "chi": "[名詞] 很多,多數;一批;一塊地",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lot",
+        "count": "87"
+    },
+    "loud": {
+        "chi": "[形容詞] 大聲的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=loud",
+        "count": "13"
+    },
+    "love": {
+        "chi": "[動詞] 愛，愛好；喜歡; [名詞] 愛",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=love",
+        "count": "82"
+    },
+    "lovely": {
+        "chi": "[形容詞] 動人的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lovely",
+        "count": "4"
+    },
+    "low": {
+        "chi": "[形容詞] 低的;矮的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=low",
+        "count": "8"
+    },
+    "lucky": {
+        "chi": "[形容詞] 幸運的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lucky",
+        "count": "25"
+    },
+    "lunch": {
+        "chi": "[名詞] 午餐",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=lunch",
+        "count": "19"
+    },
+    "machine": {
+        "chi": "[名詞] 機器",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=machine",
+        "count": "10"
+    },
+    "mad": {
+        "chi": "[形容詞] 發火;發瘋;發狂的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mad",
+        "count": "1"
+    },
+    "magic": {
+        "chi": "[形容詞] 不可思議的;有魔力的; [名詞] 魔術",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=magic",
+        "count": "10"
+    },
+    "mail": {
+        "chi": "[動詞] 寄信; [名詞] 信件",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mail",
+        "count": "5"
+    },
+    "mailman": {
+        "chi": "[名詞] 郵差",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mailman",
+        "count": "3"
+    },
+    "make": {
+        "chi": "[動詞] 製造; 使得",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=make",
+        "count": "137"
+    },
+    "man": {
+        "chi": "[名詞] 男人; 人類",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=man",
+        "count": "35"
+    },
+    "many": {
+        "chi": "[形容詞] 很多的; [代名詞] 許多",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=many",
+        "count": "117"
+    },
+    "map": {
+        "chi": "[名詞] 地圖",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=map",
+        "count": "18"
+    },
+    "march": {
+        "chi": "[名詞] 三月",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=march",
+        "count": "8"
+    },
+    "mark": {
+        "chi": "[動詞] 做記號; [名詞] 記號",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mark",
+        "count": "11"
+    },
+    "marker": {
+        "chi": "[名詞] 標誌;白板筆;馬克筆",
+        "link": "None",
+        "count": "0"
+    },
+    "market": {
+        "chi": "[名詞] 市場",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=market",
+        "count": "19"
+    },
+    "married": {
+        "chi": "[形容詞] 已婚的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=married",
+        "count": "18"
+    },
+    "mask": {
+        "chi": "[名詞] 面具",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mask",
+        "count": "1"
+    },
+    "mat": {
+        "chi": "[名詞] 蓆子;墊子",
+        "link": "None",
+        "count": "0"
+    },
+    "math": {
+        "chi": "[名詞] 數學",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=math",
+        "count": "11"
+    },
+    "mathematics": {
+        "chi": "[名詞] 數學",
+        "link": "None",
+        "count": "0"
+    },
+    "matter": {
+        "chi": "[名詞] 事情",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=matter",
+        "count": "1"
+    },
+    "may": {
+        "chi": "[助動詞] 可能",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=may",
+        "count": "69"
+    },
+    "maybe": {
+        "chi": "[副詞] 可能;也許",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=maybe",
+        "count": "21"
+    },
+    "me": {
+        "chi": "[代名詞] (受格) 我",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=me",
+        "count": "168"
+    },
+    "meal": {
+        "chi": "[名詞] 餐",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=meal",
+        "count": "5"
+    },
+    "mean": {
+        "chi": "[形容詞] 兇的;吝嗇的; [動詞] 意指",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mean",
+        "count": "35"
+    },
+    "meat": {
+        "chi": "[名詞] 肉類",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=meat",
+        "count": "5"
+    },
+    "medicine": {
+        "chi": "[名詞] 藥",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=medicine",
+        "count": "13"
+    },
+    "medium": {
+        "chi": "[形容詞] 中間的；中等的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=medium",
+        "count": "3"
+    },
+    "meet": {
+        "chi": "[動詞] 遇見",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=meet",
+        "count": "36"
+    },
+    "menu": {
+        "chi": "[名詞] 菜單",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=menu",
+        "count": "5"
+    },
+    "metro": {
+        "chi": "[名詞] 地下鐵道,大都市",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=metro",
+        "count": "1"
+    },
+    "mightn't": {
+        "chi": "[縮短形] might not",
+        "link": "None",
+        "count": "0"
+    },
+    "mile": {
+        "chi": "[名詞] 英哩",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mile",
+        "count": "1"
+    },
+    "milk": {
+        "chi": "[名詞] 牛奶",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=milk",
+        "count": "5"
+    },
+    "million": {
+        "chi": "[名詞] 百萬",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=million",
+        "count": "7"
+    },
+    "mind": {
+        "chi": "[動詞] 介意; [名詞] 心智",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mind",
+        "count": "16"
+    },
+    "mine": {
+        "chi": "[代名詞] (所有格) 我的(東西)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mine",
+        "count": "10"
+    },
+    "minute": {
+        "chi": "[名詞] 分鐘",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=minute",
+        "count": "28"
+    },
+    "miss": {
+        "chi": "[動詞] 想念;惦記;未達到; [名詞] 少女",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=miss",
+        "count": "34"
+    },
+    "mistake": {
+        "chi": "[名詞] 錯誤",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mistake",
+        "count": "5"
+    },
+    "modern": {
+        "chi": "[形容詞] 現代的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=modern",
+        "count": "7"
+    },
+    "mom": {
+        "chi": "[名詞] 母親",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mom",
+        "count": "57"
+    },
+    "moment": {
+        "chi": "[名詞] 片刻",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=moment",
+        "count": "18"
+    },
+    "mommy": {
+        "chi": "[名詞] 母親",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mommy",
+        "count": "1"
+    },
+    "Monday": {
+        "chi": "[名詞] 星期一",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Monday",
+        "count": "12"
+    },
+    "money": {
+        "chi": "[名詞] 錢",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=money",
+        "count": "49"
+    },
+    "monkey": {
+        "chi": "[名詞] 猴子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=monkey",
+        "count": "2"
+    },
+    "month": {
+        "chi": "[名詞] 月份",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=month",
+        "count": "53"
+    },
+    "moon": {
+        "chi": "[名詞] 月亮",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=moon",
+        "count": "5"
+    },
+    "mop": {
+        "chi": "[動詞] 拖洗;擦去; [名詞] 拖把",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mop",
+        "count": "2"
+    },
+    "more": {
+        "chi": "[名詞] 更多的數量",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=more",
+        "count": "112"
+    },
+    "morning": {
+        "chi": "[名詞] 早晨",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=morning",
+        "count": "55"
+    },
+    "most": {
+        "chi": "[代名詞] 大部分",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=most",
+        "count": "90"
+    },
+    "mother": {
+        "chi": "[名詞] 母親",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mother",
+        "count": "26"
+    },
+    "motorcycle": {
+        "chi": "[名詞] 機車",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=motorcycle",
+        "count": "7"
+    },
+    "mountain": {
+        "chi": "[名詞] 山",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mountain",
+        "count": "14"
+    },
+    "mouse": {
+        "chi": "[名詞] 老鼠; 滑鼠",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mouse",
+        "count": "3"
+    },
+    "mouth": {
+        "chi": "[名詞] 嘴巴",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mouth",
+        "count": "2"
+    },
+    "move": {
+        "chi": "[動詞] 移動",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=move",
+        "count": "32"
+    },
+    "movie": {
+        "chi": "[名詞] 電影",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=movie",
+        "count": "46"
+    },
+    "Mr.": {
+        "chi": "[縮寫] 先生",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Mr.",
+        "count": "55"
+    },
+    "Mrs.": {
+        "chi": "[縮寫] 女士;太太",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Mrs.",
+        "count": "23"
+    },
+    "MRT": {
+        "chi": "[縮寫] 大眾捷運系統",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=MRT",
+        "count": "1"
+    },
+    "Ms.": {
+        "chi": "[縮寫] 女士或小姐",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Ms.",
+        "count": "23"
+    },
+    "much": {
+        "chi": "[形容詞] 很多的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=much",
+        "count": "92"
+    },
+    "mud": {
+        "chi": "[名詞] 泥巴",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=mud",
+        "count": "2"
+    },
+    "museum": {
+        "chi": "[名詞] 博物館",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=museum",
+        "count": "10"
+    },
+    "music": {
+        "chi": "[名詞] 音樂",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=music",
+        "count": "33"
+    },
+    "must": {
+        "chi": "[助動詞] 必須",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=must",
+        "count": "20"
+    },
+    "mustn't": {
+        "chi": "[縮短形] must not",
+        "link": "None",
+        "count": "0"
+    },
+    "my": {
+        "chi": "[代名詞] (所有格) 我的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=my",
+        "count": "227"
+    },
+    "myself": {
+        "chi": "[代名詞] (反身代名詞)    我自己",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=myself",
+        "count": "17"
+    },
+    "nail": {
+        "chi": "[名詞] 釘子;指甲",
+        "link": "None",
+        "count": "0"
+    },
+    "name": {
+        "chi": "[動詞] 給...取名;列舉; [名詞] 名字",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=name",
+        "count": "30"
+    },
+    "national": {
+        "chi": "[形容詞] 國家的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=national",
+        "count": "10"
+    },
+    "nature": {
+        "chi": "[名詞] 自然",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=nature",
+        "count": "7"
+    },
+    "near": {
+        "chi": "[形容詞] 近的; [副詞] 近地; [介系詞] 接近",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=near",
+        "count": "34"
+    },
+    "neck": {
+        "chi": "[名詞] 脖子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=neck",
+        "count": "2"
+    },
+    "need": {
+        "chi": "[動詞] 需要; [助動詞] (用於疑問句和否定句)需要,必須",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=need",
+        "count": "66"
+    },
+    "neighbor": {
+        "chi": "[名詞] 鄰居",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=neighbor",
+        "count": "5"
+    },
+    "net": {
+        "chi": "[縮寫] 網際網路（the internet的簡稱）; [名詞] 網子",
+        "link": "None",
+        "count": "0"
+    },
+    "never": {
+        "chi": "[副詞] 永不",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=never",
+        "count": "58"
+    },
+    "new": {
+        "chi": "[形容詞] 新的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=new",
+        "count": "99"
+    },
+    "news": {
+        "chi": "[名詞] 新聞",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=news",
+        "count": "23"
+    },
+    "newspaper": {
+        "chi": "[名詞] 報紙",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=newspaper",
+        "count": "6"
+    },
+    "next": {
+        "chi": "[形容詞] 下一個",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=next",
+        "count": "76"
+    },
+    "nice": {
+        "chi": "[形容詞] 好的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=nice",
+        "count": "37"
+    },
+    "night": {
+        "chi": "[名詞] 夜晚",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=night",
+        "count": "52"
+    },
+    "nine": {
+        "chi": "[形容詞] 九的; [名詞] 九",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=nine",
+        "count": "7"
+    },
+    "nineteen": {
+        "chi": "[形容詞] 十九的; [名詞] 十九",
+        "link": "None",
+        "count": "0"
+    },
+    "ninety": {
+        "chi": "[形容詞] 九十的; [名詞] 九十",
+        "link": "None",
+        "count": "0"
+    },
+    "no": {
+        "chi": "[形容詞] 沒有;不; [副詞] 不",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=no",
+        "count": "104"
+    },
+    "nobody": {
+        "chi": "[名詞] 無名小子; [代名詞] 無人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=nobody",
+        "count": "6"
+    },
+    "nobody's": {
+        "chi": "[縮短形] nobody is; nobody has",
+        "link": "None",
+        "count": "0"
+    },
+    "nod": {
+        "chi": "[動詞] 點頭; [名詞] 點頭",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=nod",
+        "count": "1"
+    },
+    "noise": {
+        "chi": "[名詞] 噪音",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=noise",
+        "count": "7"
+    },
+    "noodle": {
+        "chi": "[名詞] 麵",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=noodle",
+        "count": "2"
+    },
+    "noon": {
+        "chi": "[名詞] 中午",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=noon",
+        "count": "3"
+    },
+    "north": {
+        "chi": "[形容詞] 北方的; [副詞] 向北方; [名詞] 北方",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=north",
+        "count": "7"
+    },
+    "nose": {
+        "chi": "[名詞] 鼻子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=nose",
+        "count": "2"
+    },
+    "not": {
+        "chi": "[副詞] 不",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=not",
+        "count": "223"
+    },
+    "note": {
+        "chi": "[動詞] 注意;記下; [名詞] 筆記;音符;記錄;便條",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=note",
+        "count": "5"
+    },
+    "notebook": {
+        "chi": "[名詞] 筆記本",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=notebook",
+        "count": "8"
+    },
+    "nothing": {
+        "chi": "[代名詞] 無事;無物",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=nothing",
+        "count": "13"
+    },
+    "notice": {
+        "chi": "[動詞] 注意到;通知; [名詞] 注意;通知",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=notice",
+        "count": "18"
+    },
+    "November": {
+        "chi": "[名詞] 十一月",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=November",
+        "count": "5"
+    },
+    "now": {
+        "chi": "[副詞] 現在",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=now",
+        "count": "121"
+    },
+    "number": {
+        "chi": "[名詞] 號碼;數字",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=number",
+        "count": "24"
+    },
+    "nurse": {
+        "chi": "[名詞] 護士",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=nurse",
+        "count": "1"
+    },
+    "o'clock": {
+        "chi": "[名詞] 點鐘",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=o%27clock",
+        "count": "16"
+    },
+    "October": {
+        "chi": "[名詞] 十月",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=October",
+        "count": "9"
+    },
+    "of": {
+        "chi": "[介系詞] …的，屬於",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=of",
+        "count": "368"
+    },
+    "off": {
+        "chi": "[副詞] 脫下; [介系詞] 離去",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=off",
+        "count": "28"
+    },
+    "office": {
+        "chi": "[名詞] 辦公室",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=office",
+        "count": "25"
+    },
+    "officer": {
+        "chi": "[名詞] 軍官;官員",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=officer",
+        "count": "6"
+    },
+    "often": {
+        "chi": "[副詞] 常常",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=often",
+        "count": "43"
+    },
+    "oil": {
+        "chi": "[名詞] 油",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=oil",
+        "count": "5"
+    },
+    "OK": {
+        "chi": "[形容詞] 好吧",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=OK",
+        "count": "27"
+    },
+    "old": {
+        "chi": "[形容詞] 年老的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=old",
+        "count": "64"
+    },
+    "on": {
+        "chi": "[介系詞] 在…上面",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=on",
+        "count": "275"
+    },
+    "once": {
+        "chi": "[副詞] 一次",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=once",
+        "count": "10"
+    },
+    "one": {
+        "chi": "[形容詞] 一個的; [名詞] 一;一個人;一件事物; [代名詞] 任何人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=one",
+        "count": "194"
+    },
+    "only": {
+        "chi": "[副詞] 只,僅僅,才;不料;反而; [連接詞] 可是,不過;要不是,若非",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=only",
+        "count": "97"
+    },
+    "open": {
+        "chi": "[動詞] 打開",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=open",
+        "count": "34"
+    },
+    "or": {
+        "chi": "[連接詞] 或",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=or",
+        "count": "79"
+    },
+    "orange": {
+        "chi": "[形容詞] 橙色的; [名詞] 柳橙;橙色",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=orange",
+        "count": "5"
+    },
+    "order": {
+        "chi": "[動詞] 點菜;訂購; [名詞] 定單",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=order",
+        "count": "17"
+    },
+    "other": {
+        "chi": "[形容詞] 其他的; [代名詞] 其他的人或物",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=other",
+        "count": "68"
+    },
+    "our": {
+        "chi": "[代名詞] 我們的 (所有格)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=our",
+        "count": "78"
+    },
+    "ours": {
+        "chi": "[代名詞] (所有格) 我們的(東西)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ours",
+        "count": "3"
+    },
+    "ourselves": {
+        "chi": "[代名詞] (反身代名詞)   我們自己",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ourselves",
+        "count": "2"
+    },
+    "out": {
+        "chi": "[形容詞] 在外的; [副詞] 在外地; [介系詞] 通過...而出",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=out",
+        "count": "86"
+    },
+    "outside": {
+        "chi": "[副詞] 外面地; [介系詞] 在外",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=outside",
+        "count": "14"
+    },
+    "over": {
+        "chi": "[形容詞] 結束了; [介系詞] 在…之上",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=over",
+        "count": "46"
+    },
+    "own": {
+        "chi": "[形容詞] 自己的; [動詞] 擁有",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=own",
+        "count": "22"
+    },
+    "ox": {
+        "chi": "[名詞] 公牛",
+        "link": "None",
+        "count": "0"
+    },
+    "p.m.": {
+        "chi": "[副詞] 下午; [副詞] 下午",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=p.m.",
+        "count": "29"
+    },
+    "pack": {
+        "chi": "[動詞] 包裝; [名詞] 一小包",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pack",
+        "count": "7"
+    },
+    "package": {
+        "chi": "[名詞] 包裹",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=package",
+        "count": "7"
+    },
+    "page": {
+        "chi": "[名詞] 頁",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=page",
+        "count": "8"
+    },
+    "paint": {
+        "chi": "[動詞] 畫圖;油漆",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=paint",
+        "count": "12"
+    },
+    "pair": {
+        "chi": "[名詞] 一副",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pair",
+        "count": "8"
+    },
+    "pants": {
+        "chi": "[名詞] 褲子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pants",
+        "count": "8"
+    },
+    "papaya": {
+        "chi": "[名詞] 木瓜",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=papaya",
+        "count": "2"
+    },
+    "paper": {
+        "chi": "[名詞] 紙張",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=paper",
+        "count": "6"
+    },
+    "parent": {
+        "chi": "[名詞] (父親；母親) 雙親之一",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=parent",
+        "count": "36"
+    },
+    "park": {
+        "chi": "[動詞] 停放車輛; 放置; [名詞] 公園",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=park",
+        "count": "43"
+    },
+    "part": {
+        "chi": "[名詞] 部份",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=part",
+        "count": "19"
+    },
+    "party": {
+        "chi": "[名詞] 派對",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=party",
+        "count": "44"
+    },
+    "pass": {
+        "chi": "[動詞] 及格;經過;超過;傳遞",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pass",
+        "count": "12"
+    },
+    "past": {
+        "chi": "[形容詞] 過去的; [介系詞] 走過",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=past",
+        "count": "21"
+    },
+    "paste": {
+        "chi": "[動詞] 黏貼; [名詞] 漿糊",
+        "link": "None",
+        "count": "0"
+    },
+    "pay": {
+        "chi": "[動詞] 付錢",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pay",
+        "count": "18"
+    },
+    "PE": {
+        "chi": "[縮寫] 體育 (physical education)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=PE",
+        "count": "8"
+    },
+    "peach": {
+        "chi": "[名詞] 桃子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=peach",
+        "count": "2"
+    },
+    "pear": {
+        "chi": "[名詞] 梨子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pear",
+        "count": "1"
+    },
+    "pen": {
+        "chi": "[名詞] 原子筆;墨水筆",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pen",
+        "count": "2"
+    },
+    "pencil": {
+        "chi": "[名詞] 鉛筆",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pencil",
+        "count": "6"
+    },
+    "people": {
+        "chi": "[名詞] 人們",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=people",
+        "count": "166"
+    },
+    "perhaps": {
+        "chi": "[副詞] 或許;可能",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=perhaps",
+        "count": "7"
+    },
+    "person": {
+        "chi": "[名詞] 人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=person",
+        "count": "30"
+    },
+    "pet": {
+        "chi": "[名詞] 寵物",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pet",
+        "count": "13"
+    },
+    "phone": {
+        "chi": "[名詞] 電話",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=phone",
+        "count": "25"
+    },
+    "photo": {
+        "chi": "[名詞] 相片",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=photo",
+        "count": "4"
+    },
+    "piano": {
+        "chi": "[名詞] 鋼琴",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=piano",
+        "count": "9"
+    },
+    "pick": {
+        "chi": "[動詞] 採收;撿起;選",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pick",
+        "count": "18"
+    },
+    "picnic": {
+        "chi": "[名詞] 野餐",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=picnic",
+        "count": "4"
+    },
+    "picture": {
+        "chi": "[名詞] 圖畫;照片",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=picture",
+        "count": "54"
+    },
+    "pie": {
+        "chi": "[名詞] 派(食品)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pie",
+        "count": "7"
+    },
+    "piece": {
+        "chi": "[名詞] 件;片",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=piece",
+        "count": "9"
+    },
+    "pig": {
+        "chi": "[名詞] 豬",
+        "link": "None",
+        "count": "0"
+    },
+    "pin": {
+        "chi": "[名詞] 大頭針;胸針",
+        "link": "None",
+        "count": "0"
+    },
+    "pink": {
+        "chi": "[形容詞] 粉紅色的; [名詞] 粉紅色",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pink",
+        "count": "4"
+    },
+    "pipe": {
+        "chi": "[名詞] 管子",
+        "link": "None",
+        "count": "0"
+    },
+    "pizza": {
+        "chi": "[名詞] 披薩",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pizza",
+        "count": "7"
+    },
+    "place": {
+        "chi": "[名詞] 地方",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=place",
+        "count": "53"
+    },
+    "plan": {
+        "chi": "[動詞] 計劃; [名詞] 計畫",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=plan",
+        "count": "34"
+    },
+    "plane": {
+        "chi": "[名詞] 飛機",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=plane",
+        "count": "7"
+    },
+    "planet": {
+        "chi": "[名詞] 行星",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=planet",
+        "count": "2"
+    },
+    "plant": {
+        "chi": "[動詞] 栽種;播種; [名詞] 植物,農作物;工廠",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=plant",
+        "count": "4"
+    },
+    "plate": {
+        "chi": "[名詞] 盤;碟",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=plate",
+        "count": "5"
+    },
+    "play": {
+        "chi": "[動詞] 玩; [名詞] 遊戲;戲劇",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=play",
+        "count": "64"
+    },
+    "player": {
+        "chi": "[名詞] 遊戲者;運動者;表演者",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=player",
+        "count": "14"
+    },
+    "playground": {
+        "chi": "[名詞] 遊樂場;運動場",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=playground",
+        "count": "7"
+    },
+    "please": {
+        "chi": "[動詞] 請;取悅",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=please",
+        "count": "40"
+    },
+    "pleasure": {
+        "chi": "[名詞] 愉快",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pleasure",
+        "count": "3"
+    },
+    "pocket": {
+        "chi": "[名詞] 口袋",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pocket",
+        "count": "2"
+    },
+    "point": {
+        "chi": "[名詞] 點;要點",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=point",
+        "count": "5"
+    },
+    "police": {
+        "chi": "[名詞] 警察",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=police",
+        "count": "12"
+    },
+    "polite": {
+        "chi": "[形容詞] 有禮貌的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=polite",
+        "count": "14"
+    },
+    "pond": {
+        "chi": "[名詞] 池塘",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pond",
+        "count": "3"
+    },
+    "pool": {
+        "chi": "[名詞] 水池;美式撞球",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pool",
+        "count": "2"
+    },
+    "poor": {
+        "chi": "[形容詞] 貧窮的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=poor",
+        "count": "19"
+    },
+    "pop": {
+        "chi": "[名詞] 流行音樂,汽水,發出砰的一聲,",
+        "link": "None",
+        "count": "0"
+    },
+    "popcorn": {
+        "chi": "[名詞] 爆米花",
+        "link": "None",
+        "count": "0"
+    },
+    "popular": {
+        "chi": "[形容詞] 流行的;受歡迎的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=popular",
+        "count": "39"
+    },
+    "pork": {
+        "chi": "[名詞] 豬肉",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pork",
+        "count": "3"
+    },
+    "possible": {
+        "chi": "[形容詞] 可能的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=possible",
+        "count": "8"
+    },
+    "post": {
+        "chi": "[名詞] 郵件;柱;樁;崗位;站;交易所",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=post",
+        "count": "5"
+    },
+    "post office": {
+        "chi": "[名詞] 郵局",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=post+office",
+        "count": "4"
+    },
+    "postcard": {
+        "chi": "[名詞] 明信片",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=postcard",
+        "count": "1"
+    },
+    "pot": {
+        "chi": "[名詞] 罐;鍋",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pot",
+        "count": "7"
+    },
+    "pound": {
+        "chi": "[名詞] 磅",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pound",
+        "count": "1"
+    },
+    "power": {
+        "chi": "[名詞] 權力;動力",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=power",
+        "count": "7"
+    },
+    "practice": {
+        "chi": "[動詞] 練習;訓練; [名詞] 練習",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=practice",
+        "count": "10"
+    },
+    "pray": {
+        "chi": "[動詞] 禱告",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pray",
+        "count": "3"
+    },
+    "prepare": {
+        "chi": "[動詞] 準備",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=prepare",
+        "count": "14"
+    },
+    "present": {
+        "chi": "[動詞] 提出; [名詞] 禮物",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=present",
+        "count": "16"
+    },
+    "pretty": {
+        "chi": "[形容詞] 漂亮的; [副詞] 十分地",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pretty",
+        "count": "12"
+    },
+    "price": {
+        "chi": "[名詞] 價錢",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=price",
+        "count": "30"
+    },
+    "prince": {
+        "chi": "[名詞] 王子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=prince",
+        "count": "1"
+    },
+    "princess": {
+        "chi": "[名詞] 公主",
+        "link": "None",
+        "count": "0"
+    },
+    "prize": {
+        "chi": "[名詞] 獎品",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=prize",
+        "count": "6"
+    },
+    "problem": {
+        "chi": "[名詞] 問題",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=problem",
+        "count": "52"
+    },
+    "program": {
+        "chi": "[名詞] 節目",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=program",
+        "count": "16"
+    },
+    "proud": {
+        "chi": "[形容詞] 感光榮的;驕傲的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=proud",
+        "count": "15"
+    },
+    "public": {
+        "chi": "[形容詞] 公開的;公立的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=public",
+        "count": "10"
+    },
+    "pull": {
+        "chi": "[動詞] 拉",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pull",
+        "count": "4"
+    },
+    "pumpkin": {
+        "chi": "[名詞] 南瓜",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=pumpkin",
+        "count": "3"
+    },
+    "puppy": {
+        "chi": "[名詞] 小狗",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=puppy",
+        "count": "1"
+    },
+    "purple": {
+        "chi": "[形容詞] 紫色的; [名詞] 紫色",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=purple",
+        "count": "4"
+    },
+    "push": {
+        "chi": "[動詞] 推開",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=push",
+        "count": "1"
+    },
+    "put": {
+        "chi": "[動詞] 放置",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=put",
+        "count": "40"
+    },
+    "quarter": {
+        "chi": "[名詞] ¼;美金25分;15分鐘",
+        "link": "None",
+        "count": "0"
+    },
+    "queen": {
+        "chi": "[名詞] 皇后",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=queen",
+        "count": "3"
+    },
+    "question": {
+        "chi": "[動詞] 詢問; [名詞] 問題",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=question",
+        "count": "66"
+    },
+    "quick": {
+        "chi": "[形容詞] 快的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=quick",
+        "count": "21"
+    },
+    "quiet": {
+        "chi": "[形容詞] 安靜的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=quiet",
+        "count": "21"
+    },
+    "quite": {
+        "chi": "[副詞] 完全地;相當",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=quite",
+        "count": "9"
+    },
+    "quiz": {
+        "chi": "[名詞] 小考",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=quiz",
+        "count": "1"
+    },
+    "R.O.C.": {
+        "chi": "[縮寫] 中華民國",
+        "link": "None",
+        "count": "0"
+    },
+    "rabbit": {
+        "chi": "[名詞] 兔子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=rabbit",
+        "count": "5"
+    },
+    "race": {
+        "chi": "[動詞] 與...賽跑; [名詞] 競賽;(生物的)種類",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=race",
+        "count": "4"
+    },
+    "radio": {
+        "chi": "[名詞] 收音機",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=radio",
+        "count": "7"
+    },
+    "railway": {
+        "chi": "[名詞] 鐵路",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=railway",
+        "count": "3"
+    },
+    "rain": {
+        "chi": "[動詞] 下雨; [名詞] 雨",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=rain",
+        "count": "19"
+    },
+    "rainbow": {
+        "chi": "[名詞] 彩虹",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=rainbow",
+        "count": "4"
+    },
+    "rainy": {
+        "chi": "[形容詞] 下雨的;多雨的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=rainy",
+        "count": "4"
+    },
+    "raise": {
+        "chi": "[動詞] 舉起;提高",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=raise",
+        "count": "3"
+    },
+    "rat": {
+        "chi": "[名詞] 老鼠",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=rat",
+        "count": "1"
+    },
+    "read": {
+        "chi": "[動詞] 閱讀",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=read",
+        "count": "99"
+    },
+    "ready": {
+        "chi": "[形容詞] 準備好的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ready",
+        "count": "14"
+    },
+    "real": {
+        "chi": "[形容詞] 真實的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=real",
+        "count": "83"
+    },
+    "red": {
+        "chi": "[形容詞] 紅色的; [名詞] 紅色",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=red",
+        "count": "12"
+    },
+    "refrigerator": {
+        "chi": "[名詞] 電冰箱",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=refrigerator",
+        "count": "4"
+    },
+    "remember": {
+        "chi": "[動詞] 記得",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=remember",
+        "count": "49"
+    },
+    "repeat": {
+        "chi": "[動詞] 重複",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=repeat",
+        "count": "6"
+    },
+    "reporter": {
+        "chi": "[名詞] 記者",
+        "link": "None",
+        "count": "0"
+    },
+    "rest": {
+        "chi": "[動詞] 休息",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=rest",
+        "count": "10"
+    },
+    "restaurant": {
+        "chi": "[名詞] 餐廳",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=restaurant",
+        "count": "33"
+    },
+    "restroom": {
+        "chi": "[名詞] 廁所",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=restroom",
+        "count": "3"
+    },
+    "rice": {
+        "chi": "[名詞] 稻米;飯",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=rice",
+        "count": "6"
+    },
+    "rich": {
+        "chi": "[形容詞] 富有的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=rich",
+        "count": "5"
+    },
+    "ride": {
+        "chi": "[動詞] 騎;乘; [名詞] 搭乘;兜風",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ride",
+        "count": "16"
+    },
+    "right": {
+        "chi": "[形容詞] 右邊;對的; [副詞] 向右地;馬上; [名詞] 公理;權利",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=right",
+        "count": "54"
+    },
+    "ring": {
+        "chi": "[動詞] (鐘,鈴等)鳴,響; [名詞] 指環;鈴聲",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ring",
+        "count": "12"
+    },
+    "rise": {
+        "chi": "[動詞] 起身;升起",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=rise",
+        "count": "12"
+    },
+    "river": {
+        "chi": "[名詞] 河流",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=river",
+        "count": "16"
+    },
+    "road": {
+        "chi": "[名詞] 道路",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=road",
+        "count": "24"
+    },
+    "robot": {
+        "chi": "[名詞] 機器人",
+        "link": "None",
+        "count": "0"
+    },
+    "ROC": {
+        "chi": "[縮寫] 中華民國",
+        "link": "None",
+        "count": "0"
+    },
+    "rock": {
+        "chi": "[動詞] 搖動; [名詞] 岩石;搖滾樂",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=rock",
+        "count": "1"
+    },
+    "roll": {
+        "chi": "[動詞] 捲;滾",
+        "link": "None",
+        "count": "0"
+    },
+    "room": {
+        "chi": "[名詞] 房間",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=room",
+        "count": "35"
+    },
+    "rope": {
+        "chi": "[名詞] 粗繩",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=rope",
+        "count": "1"
+    },
+    "round": {
+        "chi": "[形容詞] 圓形的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=round",
+        "count": "2"
+    },
+    "row": {
+        "chi": "[動詞] 划船; [名詞] 行列",
+        "link": "None",
+        "count": "0"
+    },
+    "rule": {
+        "chi": "[動詞] 統治;裁決; [名詞] 規則",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=rule",
+        "count": "15"
+    },
+    "ruler": {
+        "chi": "[名詞] 尺;統治者",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ruler",
+        "count": "2"
+    },
+    "run": {
+        "chi": "[動詞] 跑",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=run",
+        "count": "22"
+    },
+    "sad": {
+        "chi": "[形容詞] 難過的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sad",
+        "count": "29"
+    },
+    "safe": {
+        "chi": "[形容詞] 安全的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=safe",
+        "count": "20"
+    },
+    "sail": {
+        "chi": "[動詞] 航行",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sail",
+        "count": "2"
+    },
+    "salad": {
+        "chi": "[名詞] 沙拉",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=salad",
+        "count": "1"
+    },
+    "sale": {
+        "chi": "[名詞] 售賣;賤賣",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sale",
+        "count": "9"
+    },
+    "salesman": {
+        "chi": "[名詞] 售貨員",
+        "link": "None",
+        "count": "0"
+    },
+    "salt": {
+        "chi": "[名詞] 鹽",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=salt",
+        "count": "2"
+    },
+    "same": {
+        "chi": "[形容詞] 相同的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=same",
+        "count": "34"
+    },
+    "sandwich": {
+        "chi": "[名詞] 三明治",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sandwich",
+        "count": "4"
+    },
+    "Saturday": {
+        "chi": "[名詞] 星期六",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Saturday",
+        "count": "25"
+    },
+    "save": {
+        "chi": "[動詞] 救;省;存錢",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=save",
+        "count": "30"
+    },
+    "say": {
+        "chi": "[動詞] 說",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=say",
+        "count": "121"
+    },
+    "scared": {
+        "chi": "[形容詞] 害怕的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=scared",
+        "count": "10"
+    },
+    "school": {
+        "chi": "[名詞] 學校",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=school",
+        "count": "116"
+    },
+    "science": {
+        "chi": "[名詞] 科學",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=science",
+        "count": "5"
+    },
+    "scooter": {
+        "chi": "[名詞] 小輪摩托車",
+        "link": "None",
+        "count": "0"
+    },
+    "screen": {
+        "chi": "[動詞] 檢查;篩選;放映電影; [名詞] 屏;銀幕",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=screen",
+        "count": "1"
+    },
+    "sea": {
+        "chi": "[名詞] 海",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sea",
+        "count": "12"
+    },
+    "season": {
+        "chi": "[名詞] 季節",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=season",
+        "count": "14"
+    },
+    "seat": {
+        "chi": "[名詞] 座位",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=seat",
+        "count": "8"
+    },
+    "second": {
+        "chi": "[名詞] 第二;秒",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=second",
+        "count": "27"
+    },
+    "secretary": {
+        "chi": "[名詞] 秘書",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=secretary",
+        "count": "1"
+    },
+    "see": {
+        "chi": "[動詞] 看見",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=see",
+        "count": "135"
+    },
+    "seed": {
+        "chi": "[名詞] 種子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=seed",
+        "count": "1"
+    },
+    "seesaw": {
+        "chi": "[名詞] 蹺蹺板",
+        "link": "None",
+        "count": "0"
+    },
+    "seldom": {
+        "chi": "[副詞] 很少地",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=seldom",
+        "count": "10"
+    },
+    "sell": {
+        "chi": "[動詞] 賣",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sell",
+        "count": "40"
+    },
+    "send": {
+        "chi": "[動詞] 寄發;送",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=send",
+        "count": "24"
+    },
+    "senior high school": {
+        "chi": "[片語] 高級中學",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=senior+high+school",
+        "count": "3"
+    },
+    "sentence": {
+        "chi": "[動詞] 宣判;判決; [名詞] 句子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sentence",
+        "count": "3"
+    },
+    "September": {
+        "chi": "[名詞] 九月",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=September",
+        "count": "8"
+    },
+    "serious": {
+        "chi": "[形容詞] 嚴肅的;嚴重的;認真的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=serious",
+        "count": "29"
+    },
+    "set": {
+        "chi": "[動詞] 安放;設定; [名詞] 套;組",
+        "link": "None",
+        "count": "0"
+    },
+    "seven": {
+        "chi": "[形容詞] 七的; [名詞] 七",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=seven",
+        "count": "6"
+    },
+    "seventeen": {
+        "chi": "[形容詞] 十七的; [名詞] 十七",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=seventeen",
+        "count": "1"
+    },
+    "seventy": {
+        "chi": "[形容詞] 七十的; [名詞] 七十",
+        "link": "None",
+        "count": "0"
+    },
+    "several": {
+        "chi": "[形容詞] 幾個的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=several",
+        "count": "32"
+    },
+    "shake": {
+        "chi": "[動詞] 搖動;握(手); [名詞] 搖動;奶昔",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=shake",
+        "count": "4"
+    },
+    "shall": {
+        "chi": "[助動詞] 將;應該",
+        "link": "None",
+        "count": "0"
+    },
+    "shape": {
+        "chi": "[名詞] 形狀",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=shape",
+        "count": "6"
+    },
+    "share": {
+        "chi": "[動詞] 分享",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=share",
+        "count": "23"
+    },
+    "shark": {
+        "chi": "[名詞] 鯊魚",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=shark",
+        "count": "1"
+    },
+    "sharp": {
+        "chi": "[形容詞] 尖銳的;敏銳的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sharp",
+        "count": "3"
+    },
+    "she": {
+        "chi": "[代名詞] 她",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=she",
+        "count": "158"
+    },
+    "she'd": {
+        "chi": "[縮短形] she had; she would",
+        "link": "None",
+        "count": "0"
+    },
+    "sheep": {
+        "chi": "[名詞] 綿羊",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sheep",
+        "count": "1"
+    },
+    "she'll": {
+        "chi": "[縮短形] she will",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=she%27ll",
+        "count": "6"
+    },
+    "she's": {
+        "chi": "[縮短形] she is; she has",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=she%27s",
+        "count": "13"
+    },
+    "shine": {
+        "chi": "[動詞] 照耀",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=shine",
+        "count": "5"
+    },
+    "ship": {
+        "chi": "[名詞] 船",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ship",
+        "count": "1"
+    },
+    "shirt": {
+        "chi": "[名詞] 襯衫",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=shirt",
+        "count": "7"
+    },
+    "shoe": {
+        "chi": "[名詞] 鞋子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=shoe",
+        "count": "17"
+    },
+    "shop": {
+        "chi": "[動詞] 購物; [名詞] 商店",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=shop",
+        "count": "55"
+    },
+    "shopkeeper": {
+        "chi": "[名詞] 小店主",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=shopkeeper",
+        "count": "9"
+    },
+    "short": {
+        "chi": "[形容詞] 矮的;短的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=short",
+        "count": "12"
+    },
+    "shorts": {
+        "chi": "[名詞] 短褲",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=shorts",
+        "count": "2"
+    },
+    "should": {
+        "chi": "[助動詞] 將;萬一,竟然;該",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=should",
+        "count": "85"
+    },
+    "shoulder": {
+        "chi": "[名詞] 肩膀",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=shoulder",
+        "count": "2"
+    },
+    "shouldn't": {
+        "chi": "[縮短形] should not",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=shouldn%27t",
+        "count": "3"
+    },
+    "shout": {
+        "chi": "[動詞] 呼叫",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=shout",
+        "count": "6"
+    },
+    "show": {
+        "chi": "[動詞] 表演;顯示; [名詞] 展覽;電影",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=show",
+        "count": "69"
+    },
+    "shy": {
+        "chi": "[形容詞] 害羞的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=shy",
+        "count": "9"
+    },
+    "sick": {
+        "chi": "[形容詞] 生病的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sick",
+        "count": "24"
+    },
+    "side": {
+        "chi": "[形容詞] 側面的; [名詞] 邊",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=side",
+        "count": "7"
+    },
+    "sidewalk": {
+        "chi": "[名詞] 路邊行人道",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sidewalk",
+        "count": "4"
+    },
+    "sight": {
+        "chi": "[名詞] 視力;景象",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sight",
+        "count": "1"
+    },
+    "sign": {
+        "chi": "[動詞] 簽字;做信號; [名詞] 記號",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sign",
+        "count": "2"
+    },
+    "simple": {
+        "chi": "[形容詞] 簡單的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=simple",
+        "count": "10"
+    },
+    "since": {
+        "chi": "[介系詞] 由於;自從...之後; [連接詞] 自...以來;因為",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=since",
+        "count": "45"
+    },
+    "sing": {
+        "chi": "[動詞] 唱歌",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sing",
+        "count": "25"
+    },
+    "singer": {
+        "chi": "[名詞] 歌手",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=singer",
+        "count": "14"
+    },
+    "sir": {
+        "chi": "[名詞] 先生",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sir",
+        "count": "5"
+    },
+    "sister": {
+        "chi": "[名詞] 姊;妹",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sister",
+        "count": "36"
+    },
+    "sit": {
+        "chi": "[動詞] 坐",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sit",
+        "count": "21"
+    },
+    "six": {
+        "chi": "[形容詞] 六的; [名詞] 六",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=six",
+        "count": "19"
+    },
+    "sixteen": {
+        "chi": "[形容詞] 十六的; [名詞] 十六",
+        "link": "None",
+        "count": "0"
+    },
+    "sixty": {
+        "chi": "[形容詞] 六十的; [名詞] 六十",
+        "link": "None",
+        "count": "0"
+    },
+    "size": {
+        "chi": "[名詞] 大小;尺寸",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=size",
+        "count": "12"
+    },
+    "skate": {
+        "chi": "[動詞] 溜冰; [名詞] 冰鞋",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=skate",
+        "count": "1"
+    },
+    "skirt": {
+        "chi": "[名詞] 裙子",
+        "link": "None",
+        "count": "0"
+    },
+    "sky": {
+        "chi": "[名詞] 天空",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sky",
+        "count": "15"
+    },
+    "sleep": {
+        "chi": "[動詞] 睡覺",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sleep",
+        "count": "26"
+    },
+    "slide": {
+        "chi": "[動詞] 滑壘;滑動; [名詞] 滑梯;土崩",
+        "link": "None",
+        "count": "0"
+    },
+    "slim": {
+        "chi": "[形容詞] 細長的;微小的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=slim",
+        "count": "1"
+    },
+    "slow": {
+        "chi": "[形容詞] 緩慢的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=slow",
+        "count": "13"
+    },
+    "small": {
+        "chi": "[形容詞] 小的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=small",
+        "count": "39"
+    },
+    "smart": {
+        "chi": "[形容詞] 聰明的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=smart",
+        "count": "11"
+    },
+    "smell": {
+        "chi": "[動詞] 聞",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=smell",
+        "count": "9"
+    },
+    "smile": {
+        "chi": "[動詞] 微笑; [名詞] 微笑",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=smile",
+        "count": "12"
+    },
+    "smoke": {
+        "chi": "[動詞] 抽煙;冒煙; [名詞] 煙",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=smoke",
+        "count": "6"
+    },
+    "snack": {
+        "chi": "[名詞] 點心",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=snack",
+        "count": "12"
+    },
+    "snake": {
+        "chi": "[名詞] 蛇",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=snake",
+        "count": "3"
+    },
+    "snow": {
+        "chi": "[動詞] 下雪; [名詞] 雪",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=snow",
+        "count": "7"
+    },
+    "snowman": {
+        "chi": "[名詞] 雪人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=snowman",
+        "count": "1"
+    },
+    "snowy": {
+        "chi": "[形容詞] 似雪的;多雪的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=snowy",
+        "count": "1"
+    },
+    "so": {
+        "chi": "[副詞] 這麼;也如此; [連接詞] 因此",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=so",
+        "count": "183"
+    },
+    "soccer": {
+        "chi": "[名詞] 足球",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=soccer",
+        "count": "3"
+    },
+    "socks": {
+        "chi": "[名詞] 一雙襪子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=socks",
+        "count": "4"
+    },
+    "sofa": {
+        "chi": "[名詞] 沙發",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sofa",
+        "count": "3"
+    },
+    "soldier": {
+        "chi": "[名詞] 軍人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=soldier",
+        "count": "2"
+    },
+    "some": {
+        "chi": "[形容詞] 一些的; [代名詞] 一些",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=some",
+        "count": "140"
+    },
+    "somebody": {
+        "chi": "[代名詞] 某人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=somebody",
+        "count": "2"
+    },
+    "somebody's": {
+        "chi": "[縮短形] somebody is; somebody has",
+        "link": "None",
+        "count": "0"
+    },
+    "someone": {
+        "chi": "[代名詞] 某人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=someone",
+        "count": "17"
+    },
+    "something": {
+        "chi": "[代名詞] 某事",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=something",
+        "count": "39"
+    },
+    "sometimes": {
+        "chi": "[副詞] 有時候",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sometimes",
+        "count": "11"
+    },
+    "somewhere": {
+        "chi": "[副詞] 在某處",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=somewhere",
+        "count": "8"
+    },
+    "son": {
+        "chi": "[名詞] 兒子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=son",
+        "count": "20"
+    },
+    "song": {
+        "chi": "[名詞] 歌曲",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=song",
+        "count": "18"
+    },
+    "soon": {
+        "chi": "[副詞] 即刻;不久",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=soon",
+        "count": "35"
+    },
+    "sore": {
+        "chi": "[形容詞] 疼痛的",
+        "link": "None",
+        "count": "0"
+    },
+    "sorry": {
+        "chi": "[形容詞] 抱歉;遺憾的; [感歎詞] 對不起",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sorry",
+        "count": "27"
+    },
+    "sound": {
+        "chi": "[動詞] 聽起來; [名詞] 聲音",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sound",
+        "count": "18"
+    },
+    "soup": {
+        "chi": "[名詞] 湯",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=soup",
+        "count": "5"
+    },
+    "south": {
+        "chi": "[形容詞] 南方的; [副詞] 向南方; [名詞] 南方",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=south",
+        "count": "7"
+    },
+    "space": {
+        "chi": "[名詞] 空位;太空",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=space",
+        "count": "12"
+    },
+    "spaghetti": {
+        "chi": "[名詞] 義大利麵條",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=spaghetti",
+        "count": "1"
+    },
+    "speak": {
+        "chi": "[動詞] 說;講",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=speak",
+        "count": "28"
+    },
+    "special": {
+        "chi": "[形容詞] 特別的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=special",
+        "count": "44"
+    },
+    "spell": {
+        "chi": "[動詞] 拼字",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=spell",
+        "count": "1"
+    },
+    "spend": {
+        "chi": "[動詞] 花費(錢或時間)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=spend",
+        "count": "34"
+    },
+    "spider": {
+        "chi": "[名詞] 蜘蛛",
+        "link": "None",
+        "count": "0"
+    },
+    "spoon": {
+        "chi": "[名詞] 湯匙",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=spoon",
+        "count": "3"
+    },
+    "sports": {
+        "chi": "[形容詞] 運動的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sports",
+        "count": "22"
+    },
+    "spring": {
+        "chi": "[名詞] 春天;春季;泉",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=spring",
+        "count": "19"
+    },
+    "square": {
+        "chi": "[形容詞] 正方形的; [名詞] 正方形",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=square",
+        "count": "7"
+    },
+    "stairs": {
+        "chi": "[名詞] 樓梯",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=stairs",
+        "count": "1"
+    },
+    "stamp": {
+        "chi": "[動詞] 頓足;蓋印; [名詞] 郵票;印章",
+        "link": "None",
+        "count": "0"
+    },
+    "stand": {
+        "chi": "[動詞] 站住; 堅持; 面對; 承擔...任務; [名詞] 攤子;停止,站立；立場;態度",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=stand",
+        "count": "10"
+    },
+    "star": {
+        "chi": "[名詞] 星星;明星",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=star",
+        "count": "19"
+    },
+    "start": {
+        "chi": "[動詞] 開始",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=start",
+        "count": "69"
+    },
+    "station": {
+        "chi": "[名詞] 車站;場所",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=station",
+        "count": "29"
+    },
+    "stay": {
+        "chi": "[動詞] 停留",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=stay",
+        "count": "47"
+    },
+    "steak": {
+        "chi": "[名詞] 牛排",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=steak",
+        "count": "4"
+    },
+    "still": {
+        "chi": "[形容詞] 靜止的; [副詞] 仍然",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=still",
+        "count": "78"
+    },
+    "stomach": {
+        "chi": "[名詞] 胃",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=stomach",
+        "count": "3"
+    },
+    "stop": {
+        "chi": "[動詞] 停止; [名詞] 車站",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=stop",
+        "count": "43"
+    },
+    "store": {
+        "chi": "[名詞] 商店",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=store",
+        "count": "33"
+    },
+    "story": {
+        "chi": "[名詞] 故事;樓層",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=story",
+        "count": "35"
+    },
+    "straight": {
+        "chi": "[形容詞] 直的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=straight",
+        "count": "3"
+    },
+    "strange": {
+        "chi": "[形容詞] 奇怪的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=strange",
+        "count": "22"
+    },
+    "straw": {
+        "chi": "[名詞] 稻草;吸管",
+        "link": "None",
+        "count": "0"
+    },
+    "strawberry": {
+        "chi": "[名詞] 草莓",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=strawberry",
+        "count": "1"
+    },
+    "street": {
+        "chi": "[名詞] 街道",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=street",
+        "count": "29"
+    },
+    "string": {
+        "chi": "[動詞] (用線,繩)縛,紮,掛；給...裝上弦; [名詞] 線;細繩;帶子;（球拍的、樂器的）弦;字串",
+        "link": "None",
+        "count": "0"
+    },
+    "strong": {
+        "chi": "[形容詞] 強壯的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=strong",
+        "count": "29"
+    },
+    "student": {
+        "chi": "[名詞] 學生",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=student",
+        "count": "56"
+    },
+    "study": {
+        "chi": "[動詞] 學習;讀書; [名詞] 書房",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=study",
+        "count": "40"
+    },
+    "stupid": {
+        "chi": "[形容詞] 笨的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=stupid",
+        "count": "7"
+    },
+    "subject": {
+        "chi": "[名詞] 主題;學科",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=subject",
+        "count": "5"
+    },
+    "successful": {
+        "chi": "[形容詞] 成功的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=successful",
+        "count": "13"
+    },
+    "sugar": {
+        "chi": "[名詞] 糖",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sugar",
+        "count": "4"
+    },
+    "summer": {
+        "chi": "[名詞] 夏天;夏季",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=summer",
+        "count": "37"
+    },
+    "sun": {
+        "chi": "[名詞] 太陽",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sun",
+        "count": "12"
+    },
+    "Sunday": {
+        "chi": "[名詞] 星期日",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Sunday",
+        "count": "12"
+    },
+    "sunny": {
+        "chi": "[形容詞] 晴朗的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sunny",
+        "count": "10"
+    },
+    "supermarket": {
+        "chi": "[名詞] 超級市場",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=supermarket",
+        "count": "16"
+    },
+    "sure": {
+        "chi": "[形容詞] 確定",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sure",
+        "count": "57"
+    },
+    "surf": {
+        "chi": "[動詞] 衝浪;在網路或頻道上搜索資料; [名詞] 海浪",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=surf",
+        "count": "1"
+    },
+    "surprise": {
+        "chi": "[動詞] 使驚奇; [名詞] 意外之事物",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=surprise",
+        "count": "7"
+    },
+    "surprised": {
+        "chi": "[形容詞] 驚訝的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=surprised",
+        "count": "23"
+    },
+    "sweater": {
+        "chi": "[名詞] 毛衣",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sweater",
+        "count": "3"
+    },
+    "sweet": {
+        "chi": "[形容詞] 甜的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=sweet",
+        "count": "11"
+    },
+    "swim": {
+        "chi": "[動詞] 游泳",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=swim",
+        "count": "20"
+    },
+    "swing": {
+        "chi": "[動詞] 搖擺;揮動; [名詞] 鞦韆;搖擺音樂",
+        "link": "None",
+        "count": "0"
+    },
+    "table": {
+        "chi": "[名詞] 桌子;表,目錄",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=table",
+        "count": "24"
+    },
+    "tail": {
+        "chi": "[名詞] 尾巴",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tail",
+        "count": "1"
+    },
+    "Taiwan": {
+        "chi": "[名詞] 台灣",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Taiwan",
+        "count": "23"
+    },
+    "take": {
+        "chi": "[動詞] 拿;帶;採用",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=take",
+        "count": "178"
+    },
+    "talk": {
+        "chi": "[動詞] 講話",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=talk",
+        "count": "84"
+    },
+    "tall": {
+        "chi": "[形容詞] 高的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tall",
+        "count": "8"
+    },
+    "tape": {
+        "chi": "[名詞] 錄音帶;錄影帶;膠帶",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tape",
+        "count": "1"
+    },
+    "taste": {
+        "chi": "[動詞] 嘗",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=taste",
+        "count": "13"
+    },
+    "taxi": {
+        "chi": "[名詞] 計程車",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=taxi",
+        "count": "5"
+    },
+    "tea": {
+        "chi": "[名詞] 茶",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tea",
+        "count": "13"
+    },
+    "teach": {
+        "chi": "[動詞] 教",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=teach",
+        "count": "23"
+    },
+    "teacher": {
+        "chi": "[名詞] 老師",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=teacher",
+        "count": "48"
+    },
+    "team": {
+        "chi": "[名詞] 隊",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=team",
+        "count": "15"
+    },
+    "teenager": {
+        "chi": "[名詞] 十幾歲孩子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=teenager",
+        "count": "5"
+    },
+    "telephone": {
+        "chi": "[名詞] 電話",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=telephone",
+        "count": "5"
+    },
+    "television": {
+        "chi": "[名詞] 電視",
+        "link": "None",
+        "count": "0"
+    },
+    "tell": {
+        "chi": "[動詞] 告訴",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tell",
+        "count": "89"
+    },
+    "temple": {
+        "chi": "[名詞] 廟宇;神殿",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=temple",
+        "count": "1"
+    },
+    "ten": {
+        "chi": "[形容詞] 十的; [名詞] 十",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ten",
+        "count": "18"
+    },
+    "tennis": {
+        "chi": "[名詞] 網球",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tennis",
+        "count": "7"
+    },
+    "terrible": {
+        "chi": "[形容詞] 可怕的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=terrible",
+        "count": "15"
+    },
+    "test": {
+        "chi": "[動詞] 試驗;測驗; [名詞] 測驗;考試",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=test",
+        "count": "21"
+    },
+    "than": {
+        "chi": "[介系詞] 比; 超過; [連接詞] 比較",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=than",
+        "count": "65"
+    },
+    "thank": {
+        "chi": "[動詞] 感謝",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=thank",
+        "count": "35"
+    },
+    "that": {
+        "chi": "[形容詞] 那;那個; [連接詞] 以致; [代名詞] 那人;那事",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=that",
+        "count": "229"
+    },
+    "that's": {
+        "chi": "[縮短形] that is",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=that%27s",
+        "count": "36"
+    },
+    "the": {
+        "chi": "[冠詞] 這",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=the",
+        "count": "657"
+    },
+    "theater": {
+        "chi": "[名詞] 戲院;劇院",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=theater",
+        "count": "32"
+    },
+    "their": {
+        "chi": "[代名詞] (所有格) 他們的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=their",
+        "count": "90"
+    },
+    "theirs": {
+        "chi": "[代名詞] (所有格) 他們的(東西)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=theirs",
+        "count": "4"
+    },
+    "them": {
+        "chi": "[代名詞] (受格) 他們",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=them",
+        "count": "88"
+    },
+    "themselves": {
+        "chi": "[代名詞] (反身代名詞)   他(她,它)們自己",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=themselves",
+        "count": "8"
+    },
+    "then": {
+        "chi": "[副詞] 當時;之後;那麼",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=then",
+        "count": "77"
+    },
+    "there": {
+        "chi": "[副詞] 在那裡",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=there",
+        "count": "163"
+    },
+    "there's": {
+        "chi": "[縮短形] there is; there has",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=there%27s",
+        "count": "14"
+    },
+    "these": {
+        "chi": "[代名詞] 這些",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=these",
+        "count": "60"
+    },
+    "they": {
+        "chi": "[代名詞] 他們",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=they",
+        "count": "139"
+    },
+    "they'd": {
+        "chi": "[縮短形] they would",
+        "link": "None",
+        "count": "0"
+    },
+    "they'll": {
+        "chi": "[縮短形] they will",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=they%27ll",
+        "count": "2"
+    },
+    "they're": {
+        "chi": "[縮短形] they are",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=they%27re",
+        "count": "10"
+    },
+    "they've": {
+        "chi": "[縮短形] they have",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=they%27ve",
+        "count": "2"
+    },
+    "thick": {
+        "chi": "[形容詞] 粗的;厚的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=thick",
+        "count": "1"
+    },
+    "thin": {
+        "chi": "[形容詞] 瘦的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=thin",
+        "count": "10"
+    },
+    "thing": {
+        "chi": "[名詞] 事物;東西",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=thing",
+        "count": "73"
+    },
+    "think": {
+        "chi": "[動詞] 想",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=think",
+        "count": "138"
+    },
+    "third": {
+        "chi": "[形容詞] 第三",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=third",
+        "count": "10"
+    },
+    "thirsty": {
+        "chi": "[形容詞] 口渴的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=thirsty",
+        "count": "6"
+    },
+    "thirteen": {
+        "chi": "[形容詞] 十三的; [名詞] 十三",
+        "link": "None",
+        "count": "0"
+    },
+    "thirty": {
+        "chi": "[形容詞] 三十的; [名詞] 三十",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=thirty",
+        "count": "9"
+    },
+    "this": {
+        "chi": "[形容詞] 這; [代名詞] 這個;這人;這事",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=this",
+        "count": "207"
+    },
+    "those": {
+        "chi": "[代名詞] 那些",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=those",
+        "count": "33"
+    },
+    "though": {
+        "chi": "[連接詞] 雖然",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=though",
+        "count": "20"
+    },
+    "thousand": {
+        "chi": "[形容詞] 千的; [名詞] 千",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=thousand",
+        "count": "3"
+    },
+    "three": {
+        "chi": "[形容詞] 三的; [名詞] 三",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=three",
+        "count": "50"
+    },
+    "throat": {
+        "chi": "[名詞] 喉嚨",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=throat",
+        "count": "1"
+    },
+    "throw": {
+        "chi": "[動詞] 投;拋",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=throw",
+        "count": "5"
+    },
+    "Thursday": {
+        "chi": "[名詞] 星期四",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Thursday",
+        "count": "6"
+    },
+    "ticket": {
+        "chi": "[名詞] 票;罰單",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=ticket",
+        "count": "24"
+    },
+    "tidy": {
+        "chi": "[形容詞] 整潔的; [動詞] 使整潔",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tidy",
+        "count": "1"
+    },
+    "tie": {
+        "chi": "[動詞] 綁;繫; [名詞] 結;領帶;平手",
+        "link": "None",
+        "count": "0"
+    },
+    "tiger": {
+        "chi": "[名詞] 老虎",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tiger",
+        "count": "3"
+    },
+    "time": {
+        "chi": "[名詞] 時間;次數",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=time",
+        "count": "183"
+    },
+    "tired": {
+        "chi": "[形容詞] 疲倦的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tired",
+        "count": "18"
+    },
+    "to": {
+        "chi": "[介系詞] 到;向",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=to",
+        "count": "584"
+    },
+    "toast": {
+        "chi": "[動詞] 烤;乾杯; [名詞] 烤麵包片",
+        "link": "None",
+        "count": "0"
+    },
+    "today": {
+        "chi": "[副詞] 今天; [名詞] 今天",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=today",
+        "count": "52"
+    },
+    "toe": {
+        "chi": "[名詞] 腳趾",
+        "link": "None",
+        "count": "0"
+    },
+    "together": {
+        "chi": "[副詞] 一同",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=together",
+        "count": "34"
+    },
+    "tomato": {
+        "chi": "[名詞] 番茄",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tomato",
+        "count": "3"
+    },
+    "tomorrow": {
+        "chi": "[副詞] 明天; [名詞] 明天",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tomorrow",
+        "count": "22"
+    },
+    "tonight": {
+        "chi": "[副詞] 今夜;今晚; [名詞] 今夜;今晚",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tonight",
+        "count": "14"
+    },
+    "too": {
+        "chi": "[副詞] 也是;過於",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=too",
+        "count": "96"
+    },
+    "tool": {
+        "chi": "[名詞] 工具",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tool",
+        "count": "2"
+    },
+    "tooth": {
+        "chi": "[名詞] 牙齒",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tooth",
+        "count": "3"
+    },
+    "top": {
+        "chi": "[形容詞] 最高的; [名詞] 頂部; 陀螺",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=top",
+        "count": "5"
+    },
+    "total": {
+        "chi": "[形容詞] 總的; [名詞] 總額",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=total",
+        "count": "6"
+    },
+    "touch": {
+        "chi": "[動詞] 觸摸",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=touch",
+        "count": "7"
+    },
+    "towel": {
+        "chi": "[名詞] 毛巾",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=towel",
+        "count": "5"
+    },
+    "town": {
+        "chi": "[名詞] 城市",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=town",
+        "count": "44"
+    },
+    "toy": {
+        "chi": "[名詞] 玩具",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=toy",
+        "count": "11"
+    },
+    "traffic": {
+        "chi": "[名詞] 交通",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=traffic",
+        "count": "14"
+    },
+    "train": {
+        "chi": "[名詞] 火車",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=train",
+        "count": "22"
+    },
+    "trash": {
+        "chi": "[名詞] 垃圾",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=trash",
+        "count": "3"
+    },
+    "treat": {
+        "chi": "[動詞] 對待;治療; [名詞] 款待",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=treat",
+        "count": "5"
+    },
+    "tree": {
+        "chi": "[名詞] 樹木",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tree",
+        "count": "26"
+    },
+    "trick": {
+        "chi": "[動詞] 欺騙; [名詞] 詭計;戲法;惡作劇",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=trick",
+        "count": "3"
+    },
+    "trip": {
+        "chi": "[名詞] 旅行",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=trip",
+        "count": "39"
+    },
+    "trouble": {
+        "chi": "[名詞] 麻煩",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=trouble",
+        "count": "12"
+    },
+    "truck": {
+        "chi": "[名詞] 卡車",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=truck",
+        "count": "6"
+    },
+    "true": {
+        "chi": "[形容詞] 真實的;正確的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=true",
+        "count": "31"
+    },
+    "try": {
+        "chi": "[動詞] 試做",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=try",
+        "count": "64"
+    },
+    "T-shirt": {
+        "chi": "[名詞] 短袖圓領運動衫",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=T-shirt",
+        "count": "1"
+    },
+    "tub": {
+        "chi": "[名詞] 浴缸",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=tub",
+        "count": "1"
+    },
+    "Tuesday": {
+        "chi": "[名詞] 星期二",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Tuesday",
+        "count": "4"
+    },
+    "turkey": {
+        "chi": "[名詞] 火雞",
+        "link": "None",
+        "count": "0"
+    },
+    "turn": {
+        "chi": "[動詞] 轉; [名詞] 輪到",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=turn",
+        "count": "34"
+    },
+    "turtle": {
+        "chi": "[名詞] 烏龜",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=turtle",
+        "count": "1"
+    },
+    "TV": {
+        "chi": "[縮寫] 電視",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=TV",
+        "count": "27"
+    },
+    "twelve": {
+        "chi": "[形容詞] 十二的; [名詞] 十二",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=twelve",
+        "count": "6"
+    },
+    "twenty": {
+        "chi": "[形容詞] 二十的; [名詞] 二十",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=twenty",
+        "count": "7"
+    },
+    "twice": {
+        "chi": "[副詞] 兩次",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=twice",
+        "count": "7"
+    },
+    "two": {
+        "chi": "[形容詞] 二的; [名詞] 二",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=two",
+        "count": "89"
+    },
+    "type": {
+        "chi": "[動詞] 打字; [名詞] 類型",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=type",
+        "count": "1"
+    },
+    "typhoon": {
+        "chi": "[名詞] 颱風",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=typhoon",
+        "count": "9"
+    },
+    "U.S.A.": {
+        "chi": "[縮寫] 美國 (United States of America)",
+        "link": "None",
+        "count": "0"
+    },
+    "umbrella": {
+        "chi": "[名詞] 雨傘",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=umbrella",
+        "count": "3"
+    },
+    "uncle": {
+        "chi": "[名詞] 叔叔",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=uncle",
+        "count": "10"
+    },
+    "under": {
+        "chi": "[介系詞] 在…下面",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=under",
+        "count": "30"
+    },
+    "understand": {
+        "chi": "[動詞] 了解",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=understand",
+        "count": "31"
+    },
+    "unhappy": {
+        "chi": "[形容詞] 不快樂的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=unhappy",
+        "count": "7"
+    },
+    "uniform": {
+        "chi": "[名詞] 制服",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=uniform",
+        "count": "5"
+    },
+    "until": {
+        "chi": "[介系詞] 直到",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=until",
+        "count": "22"
+    },
+    "up": {
+        "chi": "[副詞] 向上; [介系詞] 向...上",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=up",
+        "count": "87"
+    },
+    "upload": {
+        "chi": "[動詞] 上載,上傳（資訊）; [名詞] 上傳",
+        "link": "None",
+        "count": "0"
+    },
+    "us": {
+        "chi": "[代名詞] 我們 (受格)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=us",
+        "count": "73"
+    },
+    "USA": {
+        "chi": "[縮寫] 美國 (United States of America)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=USA",
+        "count": "1"
+    },
+    "use": {
+        "chi": "[動詞] 利用; [名詞] 用途",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=use",
+        "count": "35"
+    },
+    "useful": {
+        "chi": "[形容詞] 有用的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=useful",
+        "count": "11"
+    },
+    "vacation": {
+        "chi": "[名詞] 假期",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=vacation",
+        "count": "24"
+    },
+    "vegetable": {
+        "chi": "[名詞] 蔬菜",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=vegetable",
+        "count": "7"
+    },
+    "very": {
+        "chi": "[副詞] 很;非常",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=very",
+        "count": "140"
+    },
+    "vest": {
+        "chi": "[名詞] 背心",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=vest",
+        "count": "1"
+    },
+    "video": {
+        "chi": "[名詞] 錄影機;錄影帶",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=video",
+        "count": "7"
+    },
+    "violin": {
+        "chi": "[名詞] 小提琴",
+        "link": "None",
+        "count": "0"
+    },
+    "visit": {
+        "chi": "[動詞] 訪問; [名詞] 訪問",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=visit",
+        "count": "55"
+    },
+    "voice": {
+        "chi": "[名詞] (人的)聲音",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=voice",
+        "count": "18"
+    },
+    "wait": {
+        "chi": "[動詞] 等候",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wait",
+        "count": "41"
+    },
+    "waiter": {
+        "chi": "[名詞] 男服務生",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=waiter",
+        "count": "12"
+    },
+    "waitress": {
+        "chi": "[名詞] 女服務生",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=waitress",
+        "count": "2"
+    },
+    "wake": {
+        "chi": "[動詞] 叫醒",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wake",
+        "count": "11"
+    },
+    "walk": {
+        "chi": "[動詞] 走路",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=walk",
+        "count": "35"
+    },
+    "wall": {
+        "chi": "[名詞] 牆",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wall",
+        "count": "12"
+    },
+    "wallet": {
+        "chi": "[名詞] 皮夾",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wallet",
+        "count": "6"
+    },
+    "want": {
+        "chi": "[動詞] 想要",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=want",
+        "count": "134"
+    },
+    "warm": {
+        "chi": "[形容詞] 溫暖的; [動詞] 使暖和",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=warm",
+        "count": "21"
+    },
+    "wash": {
+        "chi": "[動詞] 洗",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wash",
+        "count": "12"
+    },
+    "wasn't": {
+        "chi": "[縮短形] was not",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wasn%27t",
+        "count": "4"
+    },
+    "watch": {
+        "chi": "[動詞] 注意看; [名詞] 手錶",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=watch",
+        "count": "44"
+    },
+    "water": {
+        "chi": "[名詞] 水",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=water",
+        "count": "38"
+    },
+    "watermelon": {
+        "chi": "[名詞] 西瓜",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=watermelon",
+        "count": "1"
+    },
+    "wave": {
+        "chi": "[動詞] 揮動; [名詞] 波浪",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wave",
+        "count": "2"
+    },
+    "way": {
+        "chi": "[名詞] 方法;路",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=way",
+        "count": "79"
+    },
+    "we": {
+        "chi": "[代名詞] 我們",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=we",
+        "count": "178"
+    },
+    "weak": {
+        "chi": "[形容詞] 虛弱的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=weak",
+        "count": "12"
+    },
+    "wear": {
+        "chi": "[動詞] 穿著, 磨損, 使力竭",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wear",
+        "count": "29"
+    },
+    "weather": {
+        "chi": "[名詞] 天氣",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=weather",
+        "count": "30"
+    },
+    "we'd": {
+        "chi": "[縮短形] we would",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=we%27d",
+        "count": "1"
+    },
+    "Wednesday": {
+        "chi": "[名詞] 星期三",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=Wednesday",
+        "count": "7"
+    },
+    "week": {
+        "chi": "[名詞] 星期",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=week",
+        "count": "62"
+    },
+    "weekend": {
+        "chi": "[名詞] 周末",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=weekend",
+        "count": "23"
+    },
+    "welcome": {
+        "chi": "[動詞] 歡迎",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=welcome",
+        "count": "26"
+    },
+    "well": {
+        "chi": "[形容詞] 健康的; [副詞] 很好地;充分地; [感歎詞] 啊;那麼",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=well",
+        "count": "92"
+    },
+    "we'll": {
+        "chi": "[縮短形] we will",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=we%27ll",
+        "count": "13"
+    },
+    "we're": {
+        "chi": "[縮短形] we are",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=we%27re",
+        "count": "16"
+    },
+    "weren't": {
+        "chi": "[縮短形] were not",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=weren%27t",
+        "count": "3"
+    },
+    "west": {
+        "chi": "[形容詞] 西方的; [副詞] 向西方; [名詞] 西方",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=west",
+        "count": "1"
+    },
+    "wet": {
+        "chi": "[形容詞] 潮溼的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wet",
+        "count": "5"
+    },
+    "we've": {
+        "chi": "[縮短形] we have",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=we%27ve",
+        "count": "6"
+    },
+    "whale": {
+        "chi": "[名詞] 鯨魚",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=whale",
+        "count": "3"
+    },
+    "what": {
+        "chi": "[代名詞] 什麼",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=what",
+        "count": "251"
+    },
+    "what's": {
+        "chi": "[縮短形] what is",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=what%27s",
+        "count": "14"
+    },
+    "when": {
+        "chi": "[副詞] 何時",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=when",
+        "count": "208"
+    },
+    "when's": {
+        "chi": "[縮短形] when is",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=when%27s",
+        "count": "1"
+    },
+    "where": {
+        "chi": "[副詞] 在哪兒",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=where",
+        "count": "61"
+    },
+    "where's": {
+        "chi": "[縮短形] where is",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=where%27s",
+        "count": "5"
+    },
+    "whether": {
+        "chi": "[連接詞] 是否",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=whether",
+        "count": "18"
+    },
+    "which": {
+        "chi": "[代名詞] 哪一個",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=which",
+        "count": "86"
+    },
+    "white": {
+        "chi": "[形容詞] 白色的; [名詞] 白色",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=white",
+        "count": "20"
+    },
+    "who": {
+        "chi": "[代名詞] 誰",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=who",
+        "count": "104"
+    },
+    "who'd": {
+        "chi": "[縮短形] who had; who would",
+        "link": "None",
+        "count": "0"
+    },
+    "who's": {
+        "chi": "[縮短形] who is; who has",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=who%27s",
+        "count": "4"
+    },
+    "whose": {
+        "chi": "[代名詞] 誰的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=whose",
+        "count": "3"
+    },
+    "why": {
+        "chi": "[副詞] 為什麼",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=why",
+        "count": "96"
+    },
+    "wife": {
+        "chi": "[名詞] 妻子",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wife",
+        "count": "11"
+    },
+    "will": {
+        "chi": "[助動詞] 將",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=will",
+        "count": "228"
+    },
+    "win": {
+        "chi": "[動詞] 贏得",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=win",
+        "count": "19"
+    },
+    "wind": {
+        "chi": "[名詞] 風",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wind",
+        "count": "13"
+    },
+    "window": {
+        "chi": "[名詞] 窗戶",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=window",
+        "count": "7"
+    },
+    "windy": {
+        "chi": "[形容詞] 多風的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=windy",
+        "count": "5"
+    },
+    "winter": {
+        "chi": "[名詞] 冬天;冬季",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=winter",
+        "count": "14"
+    },
+    "wise": {
+        "chi": "[形容詞] 有智慧的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wise",
+        "count": "3"
+    },
+    "wish": {
+        "chi": "[動詞] 祝福",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wish",
+        "count": "18"
+    },
+    "with": {
+        "chi": "[介系詞] 跟...在一起;有",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=with",
+        "count": "234"
+    },
+    "without": {
+        "chi": "[介系詞] 沒有",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=without",
+        "count": "32"
+    },
+    "woman": {
+        "chi": "[名詞] 女人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=woman",
+        "count": "21"
+    },
+    "wonderful": {
+        "chi": "[形容詞] 很棒的;奇妙的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wonderful",
+        "count": "27"
+    },
+    "won't": {
+        "chi": "[縮短形] will not",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=won%27t",
+        "count": "16"
+    },
+    "word": {
+        "chi": "[名詞] 字",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=word",
+        "count": "24"
+    },
+    "work": {
+        "chi": "[動詞] 工作; 運轉; [名詞] 工作,作品",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=work",
+        "count": "82"
+    },
+    "workbook": {
+        "chi": "[名詞] 作業簿",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=workbook",
+        "count": "3"
+    },
+    "worker": {
+        "chi": "[名詞] 工人",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=worker",
+        "count": "6"
+    },
+    "world": {
+        "chi": "[名詞] 世界",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=world",
+        "count": "46"
+    },
+    "worry": {
+        "chi": "[動詞] 擔心",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=worry",
+        "count": "28"
+    },
+    "wouldn't": {
+        "chi": "[縮短形] would not",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wouldn%27t",
+        "count": "10"
+    },
+    "write": {
+        "chi": "[動詞] 寫",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=write",
+        "count": "44"
+    },
+    "writer": {
+        "chi": "[名詞] 作家",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=writer",
+        "count": "26"
+    },
+    "wrong": {
+        "chi": "[形容詞] 錯誤的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=wrong",
+        "count": "19"
+    },
+    "yard": {
+        "chi": "[名詞] 庭院;碼(3英呎)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=yard",
+        "count": "2"
+    },
+    "yeah": {
+        "chi": "[副詞] 是",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=yeah",
+        "count": "9"
+    },
+    "year": {
+        "chi": "[名詞] 年",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=year",
+        "count": "102"
+    },
+    "yellow": {
+        "chi": "[形容詞] 黃色的; [名詞] 黃色",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=yellow",
+        "count": "7"
+    },
+    "yes": {
+        "chi": "[副詞] 是",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=yes",
+        "count": "40"
+    },
+    "yesterday": {
+        "chi": "[形容詞] 昨天; [副詞] 昨天",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=yesterday",
+        "count": "26"
+    },
+    "yet": {
+        "chi": "[副詞] 尚未;但是; [連接詞] 然而",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=yet",
+        "count": "14"
+    },
+    "you": {
+        "chi": "[代名詞] 你;你們",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=you",
+        "count": "338"
+    },
+    "you'd": {
+        "chi": "[縮短形] you had; you would",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=you%27d",
+        "count": "3"
+    },
+    "you'll": {
+        "chi": "[縮短形] you will",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=you%27ll",
+        "count": "21"
+    },
+    "young": {
+        "chi": "[形容詞] 年輕的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=young",
+        "count": "43"
+    },
+    "your": {
+        "chi": "[代名詞] (所有格) 你的;你們的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=your",
+        "count": "145"
+    },
+    "you're": {
+        "chi": "[縮短形] you are",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=you%27re",
+        "count": "22"
+    },
+    "yours": {
+        "chi": "[代名詞] (所有格) 你的(東西);你們的(東西)",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=yours",
+        "count": "8"
+    },
+    "yourself": {
+        "chi": "[代名詞] (反身代名詞)   你自己",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=yourself",
+        "count": "15"
+    },
+    "yourselves": {
+        "chi": "[代名詞] (反身代名詞)   你們自己",
+        "link": "None",
+        "count": "0"
+    },
+    "you've": {
+        "chi": "[縮短形] you have",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=you%27ve",
+        "count": "13"
+    },
+    "yummy": {
+        "chi": "[形容詞] 好吃的",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=yummy",
+        "count": "1"
+    },
+    "zebra": {
+        "chi": "[名詞] 斑馬",
+        "link": "None",
+        "count": "0"
+    },
+    "zero": {
+        "chi": "[形容詞] 零的; [名詞] 零",
+        "link": "None",
+        "count": "0"
+    },
+    "zoo": {
+        "chi": "[名詞] 動物園",
+        "link": "WordQuestions.aspx?MainCategoryID=2&Word=zoo",
+        "count": "8"
+    }
+}

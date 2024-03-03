@@ -1,0 +1,213 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>
+	國中英語基測單題測驗
+</title><link rel="stylesheet" type="text/css" href="../Styles.css" /><meta name="Description" content="國中英語基本學力測驗  出現過的單題考題" /><meta name="Keywords" content="國中英語基測 單題 考題 試題" /></head>
+<body onload="window.focus();">
+    <form method="post" action="./PopupQuestion.aspx?ID=917&amp;Highlight=workbook" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwMjMzNjk0MjkPFgIeCFF1ZXN0aW9uDwUDOTE3FCsABAMEAwIDAQMDFgICAw9kFgQCBQ8PFgIeB1Zpc2libGVoZGQCBw8WAh8BZ2Rk6zavKPTpXLEHwHhDZiZsF4qRu7VTJXpZXY3mE72XZ84=" />
+</div>
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+ (function ($) {
+    var currentUtterance = null;
+    var nextUtterance = null;
+
+    window.initTTS = function(targetControlId, speedListId, playButtonId, stopButtonId) {
+	    $(playButtonId).click(function () {
+	        if (!window.speechSynthesis) {
+	            alert('Your device or browser does not support text-to-speech. Please use a recent version of Chrome, Edge, Firefox, or Safari. \n\r\n\r您的設備或瀏覽器不支持文字轉語音功能。 請使用最新版本的Chrome，Edge，Firefox 或 Safari。');
+                return false;
+            }
+
+            var text = $(targetControlId).text();
+            var utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'en-US';
+	        utterance.rate = $(speedListId + ' input:checked').val();
+            utterance.onend = function() {
+	            $(playButtonId).show();
+	            $(stopButtonId).hide();
+                currentUtterance = nextUtterance;
+                nextUtterance = null;
+                if (currentUtterance) {
+                    setTimeout(function () {
+                        window.speechSynthesis.speak(currentUtterance);
+                    }, 250); // delay for Chrome
+                }
+            };
+	        $(playButtonId).hide();
+	        $(stopButtonId).show();
+
+            if (currentUtterance) {
+                nextUtterance = utterance;
+                window.speechSynthesis.cancel();
+            } else {
+                currentUtterance = utterance;
+                window.speechSynthesis.speak(currentUtterance);
+            }
+	        return false;
+	    });
+
+	    $(stopButtonId).click(function () {
+            window.speechSynthesis.cancel();
+            return false;
+        });
+
+        $(speedListId + ' input').click(function () {
+            if (window.sessionStorage)
+                window.sessionStorage.setItem('TextToSpeechSpeed', this.value);
+        });
+
+	    if (window.sessionStorage) {
+	        var speed = window.sessionStorage.getItem('TextToSpeechSpeed');
+	        if (speed) {
+	            $(speedListId + ' input').filter(function () { return this.value == speed; }).attr('checked', true);
+	        }
+	    }
+    };
+
+    if (window.speechSynthesis)
+        $(window).bind('unload', function () { window.speechSynthesis.cancel(); });
+})(jQuery);
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="08BD9D45" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAbfKdRTXvEWR6mnAwKn+07dwRYJaqWFQuGc30ySAyq+i5N+EH5F+3fAL3VV+id330Y8M2xzhukm2TSfTcmBnRw4d05ovkNLfjKiVw5NWCsmav23iWixK91mBDHLnU8TqTEpsdFwT0JToWbif7IHGTOXqQPhKDvstt3L0SoitCJcsA==" />
+</div>
+    <p style="padding: 1em 2em; font-size:115%; color:#366; background: #efe">國中英語基測出現過 workbook 的考題。</p>
+    <div class="narrow">
+    <table>
+        
+
+<tr>
+    <td class="QuestionNumber">
+        </td>
+    <td class="QuestionText">
+        <div>
+            
+            <div id="TestQuestion_QuestionTextDiv">
+                <p class="PersonA">Doris: <span title="[代名詞] 你;你們">You</span> <span title="[動詞] 看; [名詞] 看;瞥;臉色;眼神;表情">look</span> <span title="[形容詞] 漂亮的; [副詞] 十分地">pretty</span> <span title="[形容詞] 在裡面的; [副詞] 進;在裡頭;在家; [介系詞] 在…之內">in</span> <span title="[代名詞] (所有格) 你的;你們的">your</span> <span title="[動詞] 教育,訓練; [名詞] 學校">school</span> <span style="font-weight: bold; text-decoration: underline;">&nbsp;<span title="[形容詞] 相同的,一致的;不變的; [動詞] 使成一樣;使一律化; [名詞] 制服">uniform</span>&nbsp;</span>.
+</p>
+<p class="PersonB">Lucy: <span title="[形容詞] real(真實的) 的衍生的副詞; [副詞] 真地,確實;很,十分;實在;是嗎">Really</span>? <span title="[副詞] 只,僅僅,才;絕對地; [介系詞] 除...以外; [連接詞] 但是">But</span> <span title="[代名詞] 我">I</span> <span title="[動詞] 憎恨; [名詞] 仇恨,憎恨;厭惡">hate</span> <span title="[介系詞] 到;向">to</span> <span title="[動詞] 穿著, 磨損, 使力竭; [名詞] 穿;戴;佩;磨損">wear</span> <span title="[冠詞] 這">the</span> <span title="[形容詞] 相同的; [副詞] 同樣地; [代名詞] 同樣的人;同樣的事物">same</span> <span title="[動詞] clothe(給...穿衣;為...提供衣服) 的第三人稱單數現在式; [名詞] 衣服">clothes</span> <span title="[副詞] 跟...一樣地,同樣地;如同;例如; [介系詞] 以…的身份；作為; [連接詞] 依照;當...時; [代名詞] 與...相同的事物(或人);本情況,該事實">as</span> <span title="[代名詞] 每個人">everyone</span> <span title="[形容詞] 其他的; [副詞] 其他,另外;否則,要不然">else</span> <span title="[介系詞] 到;向">to</span> <span title="[動詞] 教育,訓練; [名詞] 學校">school</span> <span title="[形容詞] 每一個的">every</span> <span title="[名詞] 白天;日">day.</span></p>
+</div>
+            
+        </div>
+        <table>
+            
+                    <tr>
+                        <td>
+                            </td>
+                        <td class="AnswerRadio">
+                            <input type="radio" id="RA" name="R" value="A" disabled="disabled" /><label for="RA">(A)</label></td>
+                        <td>
+                            <div id="TestQuestion_AnswerRepeater_AnswerTextDiv_0">
+                                    <span title="[名詞] 作業簿"><span class="Highlight">workbook</span></span>
+                                </div>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            </td>
+                        <td class="AnswerRadio">
+                            <input type="radio" id="RB" name="R" value="B" disabled="disabled" /><label for="RB">(B)</label></td>
+                        <td>
+                            <div id="TestQuestion_AnswerRepeater_AnswerTextDiv_1">
+                                    <span title="[形容詞] 相同的,一致的;不變的; [動詞] 使成一樣;使一律化; [名詞] 制服">uniform</span>
+                                </div>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            </td>
+                        <td class="AnswerRadio">
+                            <input type="radio" id="RC" name="R" value="C" disabled="disabled" /><label for="RC">(C)</label></td>
+                        <td>
+                            <div id="TestQuestion_AnswerRepeater_AnswerTextDiv_2">
+                                    <span title="[名詞] 歷史">history</span>
+                                </div>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>
+                            </td>
+                        <td class="AnswerRadio">
+                            <input type="radio" id="RD" name="R" value="D" disabled="disabled" /><label for="RD">(D)</label></td>
+                        <td>
+                            <div id="TestQuestion_AnswerRepeater_AnswerTextDiv_3">
+                                    <span title="[動詞] 度假; [名詞] 假期">vacation</span>
+                                </div>
+                        </td>
+                    </tr>
+                
+        </table>
+    </td>
+</tr>
+
+    <tr>
+        <td>
+        </td>
+        <td class="CorrectAnswer">
+            正確答案是 (B).</td>
+    </tr>
+    <tr>
+        <td>
+        </td>
+        <td class="Remark">
+            <div class="Remark">
+<div class="Source">
+<p>96年第一次國中基測英語科第18題.</p></div>
+<div class="Attention"><p>有些形容詞和副詞同形，卻意義不同：<br />
+She is <b>pretty</b>.   她很<b>漂亮</b>。 pretty, 漂亮，當形容詞用。<br />
+That's <b>pretty</b> good.  那<b>很(頗)</b>不錯。 pretty, 頗，當副詞用。<br />
+That was a <b>hard</b> question. 那真是<b>難</b>回答的問題。 hard, 難，當形容詞用。<br />
+worked <b>hard</b> all day. 整天<b>辛苦</b>工作。hard, 辛苦，當副詞用。<br /></p></div>
+</div>
+</td>
+    </tr>
+    <tr>
+        <td>
+        </td>
+        <td>
+            <div id="TestQuestion_tts" class="TextToSpeech" style="margin-top: 1em;">
+	<button id="TestQuestion_tts_PlayButton" style="color: #008000; padding: 0.5em;"><img src="../images/Play.png" style="vertical-align: middle;" /></button>
+<button id="TestQuestion_tts_StopButton" style="color: #800000; padding: 0.5em; display: none;"><img src="../images/Stop.png" style="vertical-align: middle;" /></button>
+播放速度:
+<span id="TestQuestion_tts_SpeedList"><input id="TestQuestion_tts_SpeedList_0" type="radio" name="TestQuestion$tts$SpeedList" value="0.4" /><label for="TestQuestion_tts_SpeedList_0">很慢</label><input id="TestQuestion_tts_SpeedList_1" type="radio" name="TestQuestion$tts$SpeedList" value="0.7" /><label for="TestQuestion_tts_SpeedList_1">慢</label><input id="TestQuestion_tts_SpeedList_2" type="radio" name="TestQuestion$tts$SpeedList" value="1" checked="checked" /><label for="TestQuestion_tts_SpeedList_2">一般</label><input id="TestQuestion_tts_SpeedList_3" type="radio" name="TestQuestion$tts$SpeedList" value="1.5" /><label for="TestQuestion_tts_SpeedList_3">快</label></span>
+
+</div>
+        </td>
+    </tr>
+
+<tr class="QuestionSpacer">
+    <td colspan="2">
+    </td>
+</tr>
+
+    </table>
+    <div align="center">
+    
+    <button id="CloseButton" onclick="window.close();">關閉</button>
+    </div></div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+initTTS('#TestQuestion_QuestionTextDiv', '#TestQuestion_tts_SpeedList', '#TestQuestion_tts_PlayButton', '#TestQuestion_tts_StopButton');
+//]]>
+</script>
+</form>
+</body>
+</html>
