@@ -4,3 +4,6 @@
 Lib
 Scripts
 *.cfg
+bin
+lib
+lib64
