@@ -1,7 +1,8 @@
 import pyaudio
 import threading
 import wave
-
+from alsa_err_handling import *
+import time
 
 def ChkInput():
     global STOP
@@ -12,10 +13,10 @@ def ChkInput():
 STOP = False
 
 # 設定錄音參數
-chunk = 1024
-format = pyaudio.paInt16
+chunk = 8192
+format = pyaudio.paInt32
 channels = 1
-rate = 44100
+rate = 48000
 
 # 建立 PyAudio 物件
 p = pyaudio.PyAudio()
@@ -34,7 +35,7 @@ t.start()
 frames = []
 while not STOP:
     # 錄製音頻
-    data = stream_record.read(chunk)
+    data = stream_record.read(chunk, exception_on_overflow=False)
     frames.append(data)
 
     # 播放音頻
