@@ -5,5 +5,7 @@ Lib
 Scripts
 *.cfg
 bin
-lib
 lib64
+.micropico
+python/gpio/lib/
+python/record_n_play/lib
