@@ -9,3 +9,4 @@ lib64
 .micropico
 python/gpio/lib/
 python/record_n_play/lib
+env.py
