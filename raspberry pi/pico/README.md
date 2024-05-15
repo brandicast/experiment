@@ -5,6 +5,7 @@
 - https://www.raspberrypi.com/
 - https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
 - https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf
+- https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
 
 # Pico Pin out 
 
@@ -48,6 +49,24 @@ STAT_NO_AP_FOUND    -2  failed because no access point replied,
 STAT_CONNECT_FAIL   -1  failed due to other problems,
 STAT_GOT_IP          3  connection successful.
 ```
+
+ - VSYS output current
+
+   ~50ma
+
+- Transistors
+
+    - NPN / PNP 
+        
+        https://www.rohm.com.tw/electronics-basics/transistors/tr_what1
+
+    - MOSFET
+
+        https://cn.shindengen.co.jp/products/semi/column/basic/mosfet/mosfet_1.html
+
+    - 電晶體 vs 場效電晶體
+    
+    https://www.rohm.com.tw/electronics-basics/transistors/tr_what2
 
 # To pick up later
 
