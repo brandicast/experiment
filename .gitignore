@@ -10,3 +10,5 @@ lib64
 python/gpio/lib/
 python/record_n_play/lib
 env.py
+settings.json
+extensions.json
