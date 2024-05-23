@@ -1,25 +1,29 @@
 # Pico WH
 
-# Sites
+<br>
+
+## Sites
 
 - https://www.raspberrypi.com/
 - https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
 - https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf
 - https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
 
-# Pico Pin out 
+## Pico Pin out 
 
 - https://electrocredible.com/raspberry-pi-pico-w-pinout-guide-diagrams/
 
     - VBUS/VSYS
 
-# Useful when Pico becomes bricks
+## Useful when Pico becomes bricks
 
 https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html#resetting-flash-memory
 
+<br><br>
+
 # Quick Remimder
 
-## MicroPython firmware
+### MicroPython firmware
 
 - How to load MicroPython onto Pico
     https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
@@ -33,12 +37,14 @@ https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.htm
 
     Reason?  To enable UART REPL (However, USB shall be enough)
 
-## MicroPython library 
+### MicroPython library 
 
 1.  Need to following the guildline to build the uf2
 2. Go pico/micropython/lib/micropython-lib/ for more libraries which are not included by default, such as ntptime.py
 
-### Memo 
+<br><br>
+
+## Memo 
 
  - wlan.status() code
 ```
@@ -68,7 +74,13 @@ STAT_GOT_IP          3  connection successful.
     
     https://www.rohm.com.tw/electronics-basics/transistors/tr_what2
 
-# To pick up later
+- Playout audio from pico
+
+    https://picockpit.com/raspberry-pi/everything-about-sound-output-using-the-pico-w/
+
+<br><br>
+
+## To pick up later
 
 - [Logic Level Converter]
 
@@ -84,8 +96,10 @@ STAT_GOT_IP          3  connection successful.
 
 - 74HC595 / STP16C596 shift register
 
+<br><br>
 
-# interesting modules
+
+## interesting modules
 
 - PICO UPS
     https://www.meiyagroup.com.tw/product/%E6%A8%B9%E8%8E%93%E6%B4%BE%E5%BE%AE%E6%8E%A7%E5%88%B6%E5%99%A8pico-ups-%E6%A8%A1%E7%B5%84/
