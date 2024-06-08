@@ -12,3 +12,4 @@ python/record_n_play/lib
 env.py
 settings.json
 extensions.json
+*.tar
