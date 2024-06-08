@@ -1,14 +1,14 @@
 var mqtt  = require ('mqtt');
 var opt =  {
     port:1883,
-    clientId: 'nodejs-8F'
+    clientId: 'bman'
 };
 
-var client = mqtt.connect ('mqtt://192.168.0.17', opt);
+var client = mqtt.connect ('mqtt://192.168.68.57', opt);
 
 client.on ('connect', function ()  {
     console.log ('Connected to MQTT broker') ;
-    //client.subscribe ('brandon/iot_command') ;
+    client.subscribe ('brandon/iot/pico/gate') ;
 }
 );
 
@@ -17,4 +17,3 @@ client.on ('message', function (topic, msg){
 });
 
 
-client.publish("brandon/iot/command", "(STATUS)")
