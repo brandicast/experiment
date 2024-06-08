@@ -42,6 +42,29 @@ https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.htm
 1.  Need to following the guildline to build the uf2
 2. Go pico/micropython/lib/micropython-lib/ for more libraries which are not included by default, such as ntptime.py
 
+
+
+### rshell
+
+Usefule rshell command can remotely alter the file system on PICO
+
+```
+ rshell --quiet --port /dev/ttyACM0 rm /pyboard/main.py
+ ```
+
+ or 
+
+ ```
+rshell --quiet --port /dev/ttyACM0 cp /pyboard/main.py /pyboard/main-1.py
+```
+
+or  simply 
+```
+rshell --port /dev/ttyACM0
+cd /pyboard
+```
+
+
 <br><br>
 
 ## Memo 
@@ -77,6 +100,11 @@ STAT_GOT_IP          3  connection successful.
 - Playout audio from pico
 
     https://picockpit.com/raspberry-pi/everything-about-sound-output-using-the-pico-w/
+
+
+- Interesting soldering idea
+
+    https://ruten-proteus.blogspot.com/2016/06/2wdwificar-wiring.html
 
 <br><br>
 
