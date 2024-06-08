@@ -13,3 +13,5 @@ env.py
 settings.json
 extensions.json
 *.tar
+node_modules
+package-lock.json

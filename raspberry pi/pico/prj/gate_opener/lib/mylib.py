@@ -1,15 +1,16 @@
 import network, socket
-import time
+import time, _thread
 from machine import Pin
 
 
 class WiFiClient :
 
-    def __init__ (self, ssid, credential):
+    def __init__ (self, ssid, credential, max_wait=30):
         self.ssid  = ssid 
         self.credential = credential
         self.isConnected = False
         self.wlan = network.WLAN(network.STA_IF)
+        self.max_wait = max_wait
 
     
     def connect(self) :
@@ -24,13 +25,13 @@ class WiFiClient :
                 print (e)
 
             self.wlan.connect(self.ssid, self.credential)
-
-            max_wait = 30
+            max_wait = self.max_wait
+           
             while max_wait > 0:
                 if self.wlan.status() < 0 or self.wlan.status() >= 3:
                     break
-                max_wait -= 1
-                print('Waiting for connection...')
+                max_wait = max_wait - 1
+                print('Waiting for connection... ' + str(self.max_wait - max_wait) + "/" + str(self.max_wait))
                 try:
                     time.sleep(1)
                 except KeyboardInterrupt as e:
@@ -111,6 +112,9 @@ class Tools:
             self.IS_BLINKING = True
             time.sleep(1)
         self.IS_BLINKING = False
+
+    def blink_start(self):
+        _thread.start_new_thread(self.blink,() )
 
     def blink_stop(self):
         self.STOP_BLINK = True
