@@ -77,6 +77,7 @@ STAT_WRONG_PASSWORD -3  failed due to incorrect password,
 STAT_NO_AP_FOUND    -2  failed because no access point replied,
 STAT_CONNECT_FAIL   -1  failed due to other problems,
 STAT_GOT_IP          3  connection successful.
+STAT_NOIP            2  connected but no ip
 ```
 
  - VSYS output current
