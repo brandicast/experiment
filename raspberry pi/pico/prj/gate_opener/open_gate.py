@@ -3,7 +3,7 @@ import lib.env as env
 from machine import Pin
 import time
 
-from umqtt.simple import MQTTClient
+from umqtt.robust import MQTTClient
 
 
 
@@ -23,12 +23,13 @@ def on_mqtt_msg(topic, msg):
         time.sleep(0.5)
         gate_pin.value(0)
 
-
-
-
-
 wifi = WiFiClient(env.SSID, env.PASSWORD, 10)
+wifi.activate_wifi_module()
+
+'''
 tools = Tools()
+tools.blink_start()
+'''
 
 while not wifi.isConnected:
     try:
@@ -48,28 +49,22 @@ client_id = "pico_gate_keeper"
 topic = "brandon/iot/pico/gate"
 
 client = MQTTClient(client_id, mqtt_server, 1883)
-
 client.set_callback(on_mqtt_msg)
-client.connect()
+print('Connecting to MQTT Broker "%s"' % (mqtt_server))
+client.connect(False)
 print('Connected to MQTT Broker "%s"' % (mqtt_server))
 client.subscribe(topic)
 
-
-
-
-
-
-
 while True:
     try:
-        client.wait_msg()  # this is mqtt client
-
         # below are GPIO
         sw = switch_pin.value()
         if sw == 0:
             gate_pin.value(1) 
         else:
             gate_pin.value(0) 
+
+        client.check_msg()  # this is mqtt client
         time.sleep (0.1)           
     except OSError as e:
         print (e)
