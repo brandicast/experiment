@@ -5,16 +5,14 @@ from machine import Pin
 
 class WiFiClient :
 
-    def __init__ (self, ssid, credential, max_wait=30):
+    def __init__ (self, ssid, credential, max_wait=15, retry=30):
         self.ssid  = ssid 
         self.credential = credential
-        self.isConnected = False
         self.wlan = network.WLAN(network.STA_IF)
         self.max_wait = max_wait
+        self.retry = retry
 
-    
-    def connect(self) :
-        try:
+    def activate_wifi_module (self):
             print('Connecting to WiFi Network Name:',self.ssid)
             #wlan = network.WLAN(network.STA_IF)
             self.wlan.active(True) # power up the WiFi chip
@@ -23,30 +21,52 @@ class WiFiClient :
                 time.sleep(3) # wait three seconds for the chip to power up and initialize
             except KeyboardInterrupt as e:
                 print (e)
-
+    
+    def connect(self) :
             self.wlan.connect(self.ssid, self.credential)
-            max_wait = self.max_wait
-           
-            while max_wait > 0:
-                if self.wlan.status() < 0 or self.wlan.status() >= 3:
-                    break
-                max_wait = max_wait - 1
-                print('Waiting for connection... ' + str(self.max_wait - max_wait) + "/" + str(self.max_wait))
+            retry = self.retry
+            
+            while retry > 0:
                 try:
-                    time.sleep(1)
+                    time.sleep(self.max_wait)
                 except KeyboardInterrupt as e:
-                    print (e)
+                    print ("Waiting for wifi connection is being interruptted : " + str(e))
 
-            if self.wlan.status() != 3:
-                raise RuntimeError('Network connection failed : Check SSID or Credential')
-            else:
-                print('Connected : ' + str(self.wlan.ifconfig()))
-                self.isConnected = self.wlan.isconnected()
-        except KeyboardInterrupt as e:
-            print (e)
+                retry = retry - 1
+                print('Waiting for connection... ' + str(self.retry - retry) + "/" + str(self.retry))                    
+
+                wifi_status = self.wlan.status()
+                print ("Wireless lan status : " + str(wifi_status))
+
+                msg = "Network connection failed with error code : " + str(wifi_status) 
+                if wifi_status == 0:
+                    msg = msg + " (STAT_IDLE) no connection and no activity"
+                elif wifi_status == -1: 
+                    msg = msg + " (STAT_CONNECT_FAIL) failed due to other problems"
+                elif wifi_status == -2: 
+                    msg = msg + " (STAT_NO_AP_FOUND) failed because no access point replied"
+                elif wifi_status == -3: 
+                    msg = msg + " (STAT_WRONG_PASSWORD) failed due to incorrect password"
+                elif wifi_status == 1:
+                    msg = " (STAT_CONNECTING) connecting in progress"
+                elif wifi_status == 3:
+                    msg = " (STAT_GOT_IP) connection successful : "+ str(self.wlan.ifconfig())
+                elif wifi_status == 2:
+                    msg = " (STAT_NOIP) connected but no IP"
+                else:
+                    msg = " Unknown "
+                
+                print (msg)
+                if wifi_status == 1 or wifi_status == 2:
+                    pass
+                else:
+                    break                
 
     def disconnect (self):
         self.wlan.disconnect()
+    
+    def isConnected (self):
+        return self.wlan.isconnected()
 
     def start_testing_http_server(self, port):
 
@@ -105,12 +125,16 @@ class Tools:
 
     STOP_BLINK = False
     IS_BLINKING = False
+    BLINKING_MODE = 1 #  1 : 1 second, 2 : 0.5 second, 3 : 0.25 second
     def blink (self):
         led = led = Pin("LED", Pin.OUT)
         while not self.STOP_BLINK:
-            led.toggle()
             self.IS_BLINKING = True
-            time.sleep(1)
+            if self.BLINKING_MODE == 0:
+                self.STOP_BLINK = True
+            else :
+                led.toggle()
+                time.sleep(1/self.BLINKING_MODE)
         self.IS_BLINKING = False
 
     def blink_start(self):
