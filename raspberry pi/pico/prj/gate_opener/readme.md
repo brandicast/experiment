@@ -36,5 +36,5 @@
 
         https://mpython.readthedocs.io/en/v2.2.1/library/mPython/umqtt.simple.html
 
-Tried with umqtt.robust, turns out when wifi is disconnected, umqtt.robust.connect() will become an infinite loop.  So decided to go back and using umqtt.simple.  However, what happened before (without keepalive and ping) doesn't happen any more.  Still under testing....
+Tried with umqtt.robust, turns out when wifi is disconnected, umqtt.robust.connect() will become an infinite loop.  So decided to go back and using umqtt.simple.  However, what happened before (without keepalive and ping) doesn't happen any more.  No exception but also doesn't receive any message from mq
 
