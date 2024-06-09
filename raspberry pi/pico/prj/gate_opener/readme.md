@@ -24,14 +24,17 @@
 
         b) the client need to constantly ping the server using client.ping()
 
-    There are also people saying if need a reliable mqtt library, could try :
+    * There are also people saying if need a reliable mqtt library, could try :
     
-    https://github.com/peterhinch/micropython-mqtt
+        https://github.com/peterhinch/micropython-mqtt
+    
+    * Useful guide:
 
-    For library reference:
+        https://dev.to/codemee/micropython-umqtt-2p5e
 
-    https://mpython.readthedocs.io/en/v2.2.1/library/mPython/umqtt.simple.html
+    * For library reference:
 
-    Useful guide:
+        https://mpython.readthedocs.io/en/v2.2.1/library/mPython/umqtt.simple.html
 
-    https://dev.to/codemee/micropython-umqtt-2p5e
+Tried with umqtt.robust, turns out when wifi is disconnected, umqtt.robust.connect() will become an infinite loop.  So decided to go back and using umqtt.simple.  However, what happened before (without keepalive and ping) doesn't happen any more.  Still under testing....
+
