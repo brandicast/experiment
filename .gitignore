@@ -15,3 +15,4 @@ extensions.json
 *.tar
 node_modules
 package-lock.json
+*.code-workspace
