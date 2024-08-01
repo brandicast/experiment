@@ -26,7 +26,8 @@ numbers = [ [1, 0, 0, 0, 0, 0, 0, 1],
             [1, 1, 0, 0, 1, 1, 0, 1],
             [0, 0, 0, 0, 0, 0, 0, 1],
             [0, 0, 0, 0, 1, 0, 0, 1],
-            [1, 1, 1, 1, 1, 1, 1, 0]]
+            [1, 1, 1, 1, 1, 1, 1, 0],
+            [1, 1, 1, 1, 1, 1, 1, 1]]
 
 
 # function to display
@@ -52,8 +53,9 @@ def output_data(num):
   shcp.value(1)
 
 
-for n in range(len(numbers)-1):
+for n in range(len(numbers)):
     output_data(n)
+    print ("")
     time.sleep(3)
 
 '''
@@ -70,5 +72,6 @@ while not EXIT:
         print (e)
         break 
 '''    
+
 
 

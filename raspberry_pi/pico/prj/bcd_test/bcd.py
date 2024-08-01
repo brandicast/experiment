@@ -9,7 +9,11 @@ ds = Pin(13, Pin.OUT)
 stcp = Pin(14, Pin.OUT)  # latch
 shcp = Pin(15, Pin.OUT)  # clock
 
-common = Pin(16, Pin.OUT, value=1)
+common1 = Pin(2, Pin.OUT, value=0)
+common2 = Pin(3, Pin.OUT, value=0)
+common3 = Pin(4, Pin.OUT, value=0)
+common4 = Pin(5, Pin.OUT, value=0)
+
 
 
 EXIT = False
@@ -28,6 +32,15 @@ numbers = [ [1, 0, 0, 0, 0, 0, 0, 1],
             [0, 0, 0, 0, 1, 0, 0, 1],
             [1, 1, 1, 1, 1, 1, 1, 0]]
 
+numbers_2 = [ [0, 1, 1, 1, 1, 1, 1, 1],
+              [1, 0, 1, 1, 1, 1, 1, 1],
+              [1, 1, 0, 1, 1, 1, 1, 1],
+              [1, 1, 1, 0, 1, 1, 1, 1],
+              [1, 1, 1, 1, 0, 1, 1, 1],
+              [1, 1, 1, 1, 1, 0, 1, 1],
+              [1, 1, 1, 1, 1, 1, 0, 1],
+              [1, 1, 1, 1, 1, 1, 1, 0]]
+            
 
 # function to display
 def output_data(num):
@@ -45,6 +58,8 @@ def output_data(num):
     ds.value(data[i])
     print (data[i], end=" ")
     shcp.value(1)
+        
+    
 
   #put latch up to store data on register
   shcp.value(0)
@@ -52,24 +67,27 @@ def output_data(num):
   shcp.value(1)
 
 
-for n in range(len(numbers)-1):
-    output_data(n)
-    time.sleep(3)
 
-'''
+numbers = numbers_2
+x = 0
+
 while not EXIT:
     try:
-        
-
-        EXIT = (reset_pin.value() == 0)
-        time.sleep (1)
-        if EXIT:
-            print ("EXIT !")
-            machine.reset()            
+        for n in range(len(numbers)):
+            print ("show number" + str(n))
+            x = x ^ 1
+            print ("")
+            print ("x = " + str(x))
+            common1.value (x)
+            common2.value (x)
+            common3.value (x)
+            common4.value (x)
+            output_data(n)
+            time.sleep(3)
     except OSError as e:
-        print (e)
-        break 
-'''    
+            print (e)
+            break 
+
 
 
 

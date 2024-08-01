@@ -5,9 +5,11 @@
 ## Sites
 
 - https://www.raspberrypi.com/
+- https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
 - https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
 - https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf
 - https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
+
 
 ## Pico Pin out 
 
@@ -39,8 +41,11 @@ https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.htm
 
 ### MicroPython library 
 
-1.  Need to following the guildline to build the uf2
+1. Need to following the guildline to build the uf2
 2. Go pico/micropython/lib/micropython-lib/ for more libraries which are not included by default, such as ntptime.py
+3. MQTT reference
+    - https://mpython.readthedocs.io/en/v2.2.1/library/mPython/umqtt.simple.html
+    - https://dev.to/codemee/micropython-umqtt-2p5e
 
 
 
@@ -90,6 +95,9 @@ STAT_NOIP            2  connected but no ip
         
         https://www.rohm.com.tw/electronics-basics/transistors/tr_what1
 
+        - PNP
+            Emitter如果沒有負載，Base無法控制
+
     - MOSFET
 
         https://cn.shindengen.co.jp/products/semi/column/basic/mosfet/mosfet_1.html
@@ -125,6 +133,8 @@ STAT_NOIP            2  connected but no ip
 
 - 74HC595 / STP16C596 shift register
 
+    https://blog.jmaker.com.tw/74hc595/
+
 <br><br>
 
 
@@ -132,3 +142,16 @@ STAT_NOIP            2  connected but no ip
 
 - PICO UPS
     https://www.meiyagroup.com.tw/product/%E6%A8%B9%E8%8E%93%E6%B4%BE%E5%BE%AE%E6%8E%A7%E5%88%B6%E5%99%A8pico-ups-%E6%A8%A1%E7%B5%84/
+
+
+
+
+## 常用頁面
+
+- MircoPython library
+    - https://github.com/micropython/micropython-lib
+    - https://docs.micropython.org/en/latest/library/network.WLAN.html
+- Pico Pinout
+    - https://electrocredible.com/raspberry-pi-pico-w-pinout-guide-diagrams/
+- 電阻色碼計算
+    - https://www.digikey.tw/zh/resources/conversion-calculators/conversion-calculator-resistor-color-cod
