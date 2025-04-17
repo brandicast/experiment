@@ -1,46 +1,30 @@
-def parse_bmp_header(file):
-    # Read BMP file header (first 14 bytes)
-    file.seek(0)
-    file_type = file.read(2).decode()  # Should be 'BM'
-    if file_type != "BM":
-        raise ValueError("Not a valid BMP file!")
 
-    file_size = int.from_bytes(file.read(4), "little")
-    file.read(4)  # Reserved fields
-    pixel_data_offset = int.from_bytes(file.read(4), "little")
+def bmp_to_binary_from_bytes(filepath, framebuffer=None):
 
-    # Read DIB header (next 40 bytes)
-    header_size = int.from_bytes(file.read(4), "little")
-    width = int.from_bytes(file.read(4), "little")
-    height = int.from_bytes(file.read(4), "little")
-    file.read(2)  # Number of color planes
-    bit_depth = int.from_bytes(file.read(2), "little")
+    with open(filepath, 'rb') as f:
+        data = f.read()
 
-    return {
-        "file_size": file_size,
-        "pixel_data_offset": pixel_data_offset,
-        "width": width,
-        "height": height,
-        "bit_depth": bit_depth
-    }
+    # BMP Header Info
+    pixel_data_offset = int.from_bytes(data[10:14], 'little')
+    width = int.from_bytes(data[18:22], 'little')
+    height = int.from_bytes(data[22:26], 'little')
+    bit_depth = int.from_bytes(data[28:30], 'little')
 
+    print("width=", width, ", height=", height)
+    if bit_depth != 1:
+        raise ValueError("Only 1-bit BMP files are supported.")
 
-def read_bmp_pixels(filename, header, framebuffer=None):
-    width = header["width"]
-    height = header["height"]
-    row_bytes = (width + 7) // 8  # Number of bytes per row
-    pixel_data_offset = header["pixel_data_offset"]
+    # Each row is padded to 4-byte alignment
+    row_bytes = ((width + 31) // 32) * 4
 
-    with open(filename, "rb") as file:
-        file.seek(pixel_data_offset)  # Move to pixel data
+    for y in range(height):
+        # BMP rows are stored from bottom to top
+        row_start = pixel_data_offset + (height - 1 - y) * row_bytes
+        row_data = data[row_start:row_start + row_bytes]
 
-        for y in range(height):
-            # Read one row of pixels at a time
-            row_data = file.read(row_bytes)
-
-            for x in range(width):
-                byte = row_data[x // 8]
-                bit = (byte >> (7 - (x % 8))) & 1
-                # If framebuffer is provided, write directly to it
-                if framebuffer:
-                    framebuffer.pixel(x, height - 1 - y, bit)  # Flip y-axis
+        x_axis = 0
+        for byte in row_data:
+            for i in range(8):
+                # bits.append(str((byte >> (7 - i)) & 1))
+                framebuffer.pixel(x_axis, y, (byte >> (7 - i)) & 1)
+                x_axis = x_axis + 1

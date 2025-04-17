@@ -1,4 +1,5 @@
 from PIL import Image, ImageEnhance
+import numpy as np
 
 
 def parse_bmp_header(data):
@@ -49,14 +50,73 @@ def extract_pixel_data(data, header):
                     row_pixels.append((byte >> (7 - i)) & 1)
         pixel_array.append(row_pixels)
 
+    pixel_array = pixel_array[::-1]
     return pixel_array
 
 
-TARGET_WIDTH = 711
-TARGET_HEIGHT = 400
+def bmp_to_binary_rows(filepath, to_int=False):
+    # 開啟並轉為黑白模式（每像素只有 1-bit）
+    image = Image.open(filepath).convert('1')
+    bw_array = np.array(image)  # numpy array: 1 = white, 0 = black
+
+    binary_rows = []
+
+    for row in bw_array:
+        # 把每個 pixel 轉成 '1' 或 '0'
+        bits = ['1' if pixel else '0' for pixel in row]
+
+        if to_int:
+            # 將整行的 bits 轉成一個整數
+            binary_value = int(''.join(bits), 2)
+            binary_rows.append(binary_value)
+        else:
+            # 保留為二進位字串
+            binary_rows.append(''.join(bits))
+
+    return binary_rows
+
+
+def bmp_to_binary_from_bytes(filepath, to_int=False):
+    with open(filepath, 'rb') as f:
+        data = f.read()
+
+    # BMP Header Info
+    pixel_data_offset = int.from_bytes(data[10:14], 'little')
+    width = int.from_bytes(data[18:22], 'little')
+    height = int.from_bytes(data[22:26], 'little')
+    bit_depth = int.from_bytes(data[28:30], 'little')
+
+    if bit_depth != 1:
+        raise ValueError("Only 1-bit BMP files are supported.")
+
+    # Each row is padded to 4-byte alignment
+    row_bytes = ((width + 31) // 32) * 4
+    binary_rows = []
+
+    for y in range(height):
+        # BMP rows are stored from bottom to top
+        row_start = pixel_data_offset + (height - 1 - y) * row_bytes
+        row_data = data[row_start:row_start + row_bytes]
+
+        bits = []
+        for byte in row_data:
+            for i in range(8):
+                if len(bits) < width:
+                    bits.append(str((byte >> (7 - i)) & 1))
+
+        if to_int:
+            binary_rows.append(int(''.join(bits), 2))
+        else:
+            binary_rows.append(''.join(bits))
+
+    return binary_rows
+
+
+TARGET_WIDTH = 800
+TARGET_HEIGHT = 480
 
 # 載入 JPEG 圖片
-image = Image.open("prama.png")
+image = Image.open("800_450.png")
 
 # image = image.resize((TARGET_WIDTH, TARGET_HEIGHT))
 
@@ -80,9 +140,17 @@ image.save("output.bmp", format="BMP")
 bitmap_data = image.tobytes()
 print("Bitmap data length:", len(bitmap_data))  # 顯示資料大小
 
+binary_data = bmp_to_binary_from_bytes("output.bmp")
+for line in binary_data:  # 只印前 10 行
+    print(line)
 
+'''
 with open("output.bmp", "rb") as f:
     data = f.read()
 header = parse_bmp_header(data)
 print(header)
 pixels = extract_pixel_data(data, header)
+
+for y in range(len(pixels)):
+    print(pixels[y])
+'''

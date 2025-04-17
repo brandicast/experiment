@@ -1,29 +1,15 @@
 from waveshare import EPD_7in5_B
-
 from imglib import *
 
 epd = EPD_7in5_B()
-epd.Clear()
+# epd.Clear()
 
-filename = "1.bmp"
+filename = "output.bmp"
 # epd.imagered.fill(0x00)
 epd.imageblack.fill(0xff)
 
-print("read file")
-with open(filename, "rb") as f:
-    try:
-        header = parse_bmp_header(f)
-    except Exception as e:
-        print(e)
-    print(header)
-    '''
-    buffer = bytearray((width * height) // 8)  # Minimal memory allocation
-    fb = FrameBuffer(buffer, width, height, framebuf.MONO_HLSB)
-    '''
-
-    # Read and render pixel data row-by-row
-    read_bmp_pixels(filename, header, framebuffer=epd.imageblack)
-
+bmp_to_binary_from_bytes(filename, epd.imageblack)
+epd.display()
 
 '''
 
@@ -39,10 +25,6 @@ epd.imagered.text("Red with 0xf0", 10, 140, 0xf0)  # 0xff 紅字 , 0x00 黑
 draw_string(epd.imageblack, 200, 300, "HELLO ! ABC",
             FONT_5x7, size=7, spacing=1)
 
-'''
-
-epd.display()
-'''
 epd.imageblack.text("Raspberry Pico", 10, 170, 0x00)
 epd.display()
 
