@@ -48,6 +48,24 @@ https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.htm
     - https://dev.to/codemee/micropython-umqtt-2p5e
 
 
+### Support USB device in WSL
+
+1. PowerShell, list all the USB devices connected on Windows
+    ```
+    usbipd list
+    ```
+2. Share and Bind the device with corresponding bus id
+   ```
+   usbipd bind --busid <你的BUSID>
+    # 例如: usbipd bind --busid 1-4
+    ```
+3. Attached the BUS ID to WSL (This needs to be executed after reboot)
+    ```
+    usbipd attach --wsl --busid <你的BUSID>
+    # 例如: usbipd attach --wsl --busid 1-4
+    ```
+
+
 
 ### rshell
 
@@ -69,6 +87,13 @@ rshell --port /dev/ttyACM0
 cd /pyboard
 ```
 
+And to execute the code (not with main.py)
+```
+> repl
+
+>> import your_code.py
+
+```
 
 <br><br>
 
