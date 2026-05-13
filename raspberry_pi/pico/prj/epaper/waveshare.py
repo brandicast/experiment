@@ -61,7 +61,7 @@ class EPD_7in5_B:
             self.buffer_black, self.width, self.height, framebuf.MONO_HLSB)
         self.imagered = framebuf.FrameBuffer(
             self.buffer_red, self.width, self.height, framebuf.MONO_HLSB)
-        self.init()
+        self.init_Fast()
         # self.init_Fast()
 
     def digital_write(self, pin, value):
