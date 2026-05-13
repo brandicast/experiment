@@ -4,11 +4,11 @@ var opt =  {
     clientId: 'bman'
 };
 
-var client = mqtt.connect ('mqtt://192.168.68.57', opt);
+var client = mqtt.connect ('mqtt://172.28.248.138', opt);
 
 client.on ('connect', function ()  {
     console.log ('Connected to MQTT broker') ;
-    client.subscribe ('brandon/iot/pico/gate') ;
+    client.subscribe ('brandon/epaper/text') ;
 }
 );
 

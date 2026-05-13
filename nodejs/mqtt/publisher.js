@@ -4,8 +4,8 @@ var opt =  {
     clientId: 'publisher'
 };
 
-var client = mqtt.connect ('mqtt://192.168.68.57', opt);
-var topic = "brandon/iot/pico/gate"
+var client = mqtt.connect ('mqtt://172.28.248.138', opt);
+var topic = "brandon/epaper/text"
 
 client.on('connect', () => {
     client.publish(topic, 'OPEN', (error) => {
